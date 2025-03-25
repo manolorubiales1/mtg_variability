@@ -1,10 +1,10 @@
 CMC: {2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Kaya', 'Jace', 'Kasmina', 'Tibalt', 'Druid', 'Avatar', 'Elemental', 'Advisor', 'Nissa', 'Scout', 'Narset', 'Assassin', 'Angrath', 'Sorin', 'Jaya', 'Zombie', 'Bolas', 'Dragon', 'Nahiri', 'Kiora', 'Angel', 'God', 'Arlinn', 'Huatli', 'Homunculus', 'Mutant', 'Boar', 'Human', 'Vraska', 'Minotaur', 'Merfolk', 'Teferi', 'Ajani', 'Teyo', 'Karn', 'Davriel', 'Vehicle', 'Sarkhan', 'Nixilis', 'Liliana', 'Samut', 'Chandra', 'Domri', 'Hydra', 'Ashiok', 'Ral', 'Warrior', 'Vivien', 'Yanggu', 'Illusion', 'Elf', 'Tamiyo', 'Wizard', 'Dovin', 'Goblin', 'Saheeli', 'Ugin', 'Gideon'}
-Rarity: {'Rare', 'Mythic', 'Uncommon'}
-Power: {'4', '5', '1', '2', '0', '3', '6'}
-Toughness: {'4', '5', '1', '2', '0', '3', '6'}
-Loyalty: {'4', '7', '5', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Planeswalker', 'Sorcery', 'Enchantment'}
+Subtypes: {'Huatli', 'Ashiok', 'Ral', 'Illusion', 'Jaya', 'Nahiri', 'Homunculus', 'Zombie', 'Karn', 'Kasmina', 'Boar', 'Scout', 'Elf', 'Teyo', 'God', 'Vivien', 'Tibalt', 'Hydra', 'Vraska', 'Assassin', 'Teferi', 'Ugin', 'Avatar', 'Ajani', 'Nissa', 'Dragon', 'Davriel', 'Vehicle', 'Druid', 'Gideon', 'Angrath', 'Domri', 'Human', 'Jace', 'Nixilis', 'Merfolk', 'Sarkhan', 'Warrior', 'Minotaur', 'Elemental', 'Yanggu', 'Samut', 'Sorin', 'Kiora', 'Arlinn', 'Saheeli', 'Tamiyo', 'Goblin', 'Kaya', 'Liliana', 'Mutant', 'Narset', 'Advisor', 'Chandra', 'Angel', 'Wizard', 'Bolas', 'Dovin'}
+Rarity: {'Rare', 'Uncommon', 'Mythic'}
+Power: {'5', '2', '6', '4', '3', '1', '0'}
+Toughness: {'5', '2', '6', '4', '3', '1', '0'}
+Loyalty: {'5', '6', '4', '3', '7'}

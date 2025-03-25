@@ -1,9 +1,9 @@
 CMC: {3.0, 4.0}
-Colors: {'Red'}
+Colors: {'R'}
 ColorIdentity: {'R'}
 Supertypes: set()
 Types: {'Creature', 'Artifact'}
-Subtypes: {'Barbarian', 'Human'}
+Subtypes: {'Human', 'Barbarian'}
 Rarity: {'Rare', 'Mythic'}
 Power: {'5'}
 Toughness: {'5'}

@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0}
+Colors: {'W', 'B'}
+ColorIdentity: {'W', 'B'}
+Supertypes: set()
+Types: {'Instant', 'Artifact'}
+Subtypes: set()
+Rarity: {'Rare'}
+Power: set()
+Toughness: set()
+Loyalty: set()

@@ -1,10 +1,10 @@
 CMC: {3.0, 4.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
 Types: {'Creature', 'Artifact'}
-Subtypes: {'Warrior', 'Nightmare', 'Human', 'Dinosaur', 'Cat', 'Ninja'}
+Subtypes: {'Cat', 'Nightmare', 'Human', 'Ninja', 'Dinosaur', 'Warrior'}
 Rarity: {'Rare'}
-Power: {'3', '4', '5', '1'}
-Toughness: {'3', '5'}
+Power: {'5', '4', '3', '1'}
+Toughness: {'5', '3'}
 Loyalty: set()

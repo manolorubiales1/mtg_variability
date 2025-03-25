@@ -1,10 +1,10 @@
-CMC: {1.0, 2.0, 3.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+CMC: {2.0, 3.0}
+Colors: {'G', 'R', 'U'}
+ColorIdentity: {'G', 'R', 'U'}
 Supertypes: set()
-Types: {'Enchantment', 'Instant', 'Creature', 'Artifact'}
-Subtypes: {'Vampire', 'Myr', 'Wurm', 'Spirit', 'Pest', 'Elf', 'Scout', 'Wizard', 'Curse', 'Imp', 'Ranger', 'Artificer', 'Human', 'Phyrexian', 'Aura'}
+Types: {'Creature', 'Enchantment'}
+Subtypes: {'Aura', 'Vampire', 'Curse', 'Wurm'}
 Rarity: {'Rare'}
-Power: {'0', '2', '*', '1'}
-Toughness: {'2', '*', '1'}
+Power: {'*', '2'}
+Toughness: {'*', '1'}
 Loyalty: set()

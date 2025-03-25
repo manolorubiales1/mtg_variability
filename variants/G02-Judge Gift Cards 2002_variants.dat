@@ -1,6 +1,6 @@
 CMC: {3.0, 4.0}
-Colors: {'Red', 'Blue'}
-ColorIdentity: {'U', 'R'}
+Colors: {'R', 'U'}
+ColorIdentity: {'R', 'U'}
 Supertypes: set()
 Types: {'Sorcery', 'Creature'}
 Subtypes: {'Spirit'}

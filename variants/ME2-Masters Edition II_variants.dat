@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
-Supertypes: {'Legendary', 'Snow', 'Basic', 'World'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Avatar', 'Elemental', 'Orc', 'Island', 'Advisor', 'Scout', 'Lizard', 'Aurochs', 'Horse', 'Ranger', 'Shade', 'Ferret', 'Zombie', 'Whale', 'Vampire', 'Thopter', 'Dragon', 'Mountain', 'Horror', 'Construct', 'Angel', 'Demon', 'Archer', 'Gargoyle', 'Minion', 'Wolf', 'Knight', 'Human', 'Cleric', 'Yeti', 'Thrull', 'Praetor', 'Shapeshifter', 'Giant', 'Plant', 'Ape', 'Plains', 'Spider', 'Fungus', 'Drake', 'Mercenary', 'Treefolk', 'Spirit', 'Griffin', 'Wall', 'Phyrexian', 'Hydra', 'Serpent', 'Shaman', 'Warrior', 'Swamp', 'Wurm', 'Drone', 'Forest', 'Soldier', 'Skeleton', 'Elf', 'Wizard', 'Illusion', 'Homarid', 'Rogue', 'Elephant', 'Dryad', 'Goblin', 'Aura'}
-Rarity: {'Common', 'Rare', 'Uncommon'}
-Power: {'4', '7', '5', '1', '*', '2+*', '8', '2', '0', '1+*', '3', '6'}
-Toughness: {'4', '7', '5', '1', '*', '2+*', '8', '2', '0', '1+*', '3', '6'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'World', 'Basic', 'Legendary', 'Snow'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Treefolk', 'Thopter', 'Illusion', 'Cleric', 'Giant', 'Zombie', 'Rogue', 'Yeti', 'Scout', 'Elf', 'Wolf', 'Plains', 'Fungus', 'Skeleton', 'Aura', 'Homarid', 'Minion', 'Hydra', 'Construct', 'Praetor', 'Elephant', 'Avatar', 'Ferret', 'Aurochs', 'Dragon', 'Spider', 'Drake', 'Druid', 'Human', 'Phyrexian', 'Vampire', 'Thrull', 'Demon', 'Forest', 'Elemental', 'Warrior', 'Swamp', 'Orc', 'Shade', 'Horse', 'Wall', 'Whale', 'Dryad', 'Ape', 'Shapeshifter', 'Goblin', 'Plant', 'Ranger', 'Serpent', 'Shaman', 'Gargoyle', 'Mountain', 'Drone', 'Advisor', 'Angel', 'Mercenary', 'Wizard', 'Wurm', 'Horror', 'Spirit', 'Island', 'Archer', 'Knight', 'Soldier', 'Griffin', 'Lizard'}
+Rarity: {'Rare', 'Uncommon', 'Common'}
+Power: {'5', '*', '2', '6', '8', '4', '3', '7', '1+*', '1', '0', '2+*'}
+Toughness: {'5', '*', '2', '6', '8', '4', '3', '0', '7', '1+*', '1', '2+*'}
 Loyalty: set()

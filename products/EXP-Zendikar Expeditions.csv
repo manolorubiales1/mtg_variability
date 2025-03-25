@@ -16,7 +16,6 @@ Cascade Bluffs,0.0,None,"['R', 'U']",None,['Land'],None,Mythic,EXP,None,None,Non
 Fetid Heath,0.0,None,"['B', 'W']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}."
 Wooded Bastion,0.0,None,"['G', 'W']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{G/W}, {T}: Add {G}{G}, {G}{W}, or {W}{W}."
 Fire-Lit Thicket,0.0,None,"['G', 'R']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}."
-Cinder Glade,0.0,None,"['G', 'R']",None,['Land'],"['Mountain', 'Forest']",Mythic,EXP,None,None,None,({T}: Add {R} or {G}.)\nCinder Glade enters the battlefield tapped unless you control two or more basic lands.
 Graven Cairns,0.0,None,"['B', 'R']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
 Sunken Ruins,0.0,None,"['B', 'U']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{U/B}, {T}: Add {U}{U}, {U}{B}, or {B}{B}."
 Mystic Gate,0.0,None,"['U', 'W']",None,['Land'],None,Mythic,EXP,None,None,None,"{T}: Add {C}.\n{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U}."
@@ -36,11 +35,12 @@ Breeding Pool,0.0,None,"['G', 'U']",None,['Land'],"['Forest', 'Island']",Mythic,
 Overgrown Tomb,0.0,None,"['B', 'G']",None,['Land'],"['Swamp', 'Forest']",Mythic,EXP,None,None,None,"({T}: Add {B} or {G}.)\nAs Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 Steam Vents,0.0,None,"['R', 'U']",None,['Land'],"['Island', 'Mountain']",Mythic,EXP,None,None,None,"({T}: Add {U} or {R}.)\nAs Steam Vents enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 Godless Shrine,0.0,None,"['B', 'W']",None,['Land'],"['Plains', 'Swamp']",Mythic,EXP,None,None,None,"({T}: Add {W} or {B}.)\nAs Godless Shrine enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-Watery Grave,0.0,None,"['B', 'U']",None,['Land'],"['Island', 'Swamp']",Mythic,EXP,None,None,None,"({T}: Add {U} or {B}.)\nAs Watery Grave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 Temple Garden,0.0,None,"['G', 'W']",None,['Land'],"['Forest', 'Plains']",Mythic,EXP,None,None,None,"({T}: Add {G} or {W}.)\nAs Temple Garden enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 Stomping Ground,0.0,None,"['G', 'R']",None,['Land'],"['Mountain', 'Forest']",Mythic,EXP,None,None,None,"({T}: Add {R} or {G}.)\nAs Stomping Ground enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 Blood Crypt,0.0,None,"['B', 'R']",None,['Land'],"['Swamp', 'Mountain']",Mythic,EXP,None,None,None,"({T}: Add {B} or {R}.)\nAs Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 Smoldering Marsh,0.0,None,"['B', 'R']",None,['Land'],"['Swamp', 'Mountain']",Mythic,EXP,None,None,None,({T}: Add {B} or {R}.)\nSmoldering Marsh enters the battlefield tapped unless you control two or more basic lands.
 Prairie Stream,0.0,None,"['U', 'W']",None,['Land'],"['Plains', 'Island']",Mythic,EXP,None,None,None,({T}: Add {W} or {U}.)\nPrairie Stream enters the battlefield tapped unless you control two or more basic lands.
+Watery Grave,0.0,None,"['B', 'U']",None,['Land'],"['Island', 'Swamp']",Mythic,EXP,None,None,None,"({T}: Add {U} or {B}.)\nAs Watery Grave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 Hallowed Fountain,0.0,None,"['U', 'W']",None,['Land'],"['Plains', 'Island']",Mythic,EXP,None,None,None,"({T}: Add {W} or {U}.)\nAs Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 Canopy Vista,0.0,None,"['G', 'W']",None,['Land'],"['Forest', 'Plains']",Mythic,EXP,None,None,None,({T}: Add {G} or {W}.)\nCanopy Vista enters the battlefield tapped unless you control two or more basic lands.
+Cinder Glade,0.0,None,"['G', 'R']",None,['Land'],"['Mountain', 'Forest']",Mythic,EXP,None,None,None,({T}: Add {R} or {G}.)\nCinder Glade enters the battlefield tapped unless you control two or more basic lands.

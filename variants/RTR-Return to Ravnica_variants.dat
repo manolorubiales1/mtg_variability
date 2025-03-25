@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 11.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Jace', 'Druid', 'Elemental', 'Vedalken', 'Island', 'Advisor', 'Ooze', 'Scout', 'Lizard', 'Elk', 'Pegasus', 'Shade', 'Horse', 'Viashino', 'Faerie', 'Assassin', 'Zombie', 'Cat', 'Rat', 'Vampire', 'Dragon', 'Equipment', 'Mountain', 'Crocodile', 'Weird', 'Horror', 'Construct', 'Scorpion', 'Angel', 'Demon', 'Imp', 'Nightmare', 'Archon', 'Homunculus', 'Slug', 'Human', 'Knight', 'Cleric', 'Vraska', 'Devil', 'Minotaur', 'Dog', 'Beast', 'Ogre', 'Giant', 'Rhino', 'Plant', 'Plains', 'Fungus', 'Spider', 'Drake', 'Gate', 'Spirit', 'Griffin', 'Wall', 'Shaman', 'Warrior', 'Swamp', 'Wurm', 'Forest', 'Soldier', 'Elf', 'Sphinx', 'Wizard', 'Centaur', 'Insect', 'Skeleton', 'Illusion', 'Rogue', 'Elephant', 'Berserker', 'Bird', 'Goblin', 'Dryad', 'Troll', 'Aura'}
-Rarity: {'Common', 'Mythic', 'Uncommon', 'Rare'}
-Power: {'4', '5', '1', '*', '8', '2', '0', '15', '3', '6'}
-Toughness: {'4', '7', '5', '1', '*', '8', '2', '0', '15', '3', '6'}
-Loyalty: {'4', '5'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Nightmare', 'Ooze', 'Illusion', 'Knight', 'Cleric', 'Giant', 'Homunculus', 'Zombie', 'Rogue', 'Centaur', 'Scout', 'Elf', 'Vedalken', 'Plains', 'Troll', 'Fungus', 'Skeleton', 'Aura', 'Cat', 'Griffin', 'Bird', 'Equipment', 'Construct', 'Vraska', 'Rat', 'Assassin', 'Elephant', 'Dragon', 'Spider', 'Druid', 'Minotaur', 'Human', 'Jace', 'Vampire', 'Pegasus', 'Demon', 'Forest', 'Gate', 'Elemental', 'Swamp', 'Devil', 'Warrior', 'Dog', 'Sphinx', 'Archon', 'Horse', 'Berserker', 'Beast', 'Scorpion', 'Elk', 'Shade', 'Rhino', 'Wall', 'Dryad', 'Weird', 'Goblin', 'Faerie', 'Shaman', 'Mountain', 'Crocodile', 'Advisor', 'Lizard', 'Viashino', 'Wizard', 'Imp', 'Slug', 'Angel', 'Ogre', 'Spirit', 'Island', 'Drake', 'Horror', 'Soldier', 'Plant', 'Wurm'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '*', '2', '8', '6', '4', '3', '1', '0', '15'}
+Toughness: {'5', '*', '2', '6', '8', '4', '3', '7', '1', '0', '15'}
+Loyalty: {'5', '4'}

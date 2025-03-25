@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: set()
+Types: {'Instant', 'Enchantment'}
+Subtypes: {'Aura'}
+Rarity: {'Rare'}
+Power: set()
+Toughness: set()
+Loyalty: set()

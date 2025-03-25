@@ -1,8 +1,8 @@
 CMC: {3.0}
-Colors: {'Green'}
+Colors: {'G'}
 ColorIdentity: {'G'}
 Supertypes: set()
-Types: {'Jaguar', 'Summon'}
+Types: {'Summon', 'Jaguar'}
 Subtypes: set()
 Rarity: {'Common'}
 Power: {'2'}

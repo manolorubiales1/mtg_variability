@@ -1,8 +1,8 @@
 CMC: {3.0, 7.0}
-Colors: {'White'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'W'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Creature'}
+Types: {'Creature', 'Enchantment'}
 Subtypes: {'Shapeshifter'}
 Rarity: {'Rare', 'Mythic'}
 Power: {'6'}

@@ -1,0 +1,10 @@
+CMC: {4.0, 5.0, 6.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'Legendary'}
+Types: {'Planeswalker', 'Universewalker', 'Creature', 'Artifact'}
+Subtypes: {'Ersta', 'Robot', 'Byode', 'Wizard'}
+Rarity: {'Mythic'}
+Power: {'4', '3'}
+Toughness: {'3'}
+Loyalty: {'5'}

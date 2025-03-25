@@ -1,10 +1,10 @@
 CMC: {4.0, 5.0}
-Colors: {'Black', 'Green'}
+Colors: {'G', 'B'}
 ColorIdentity: {'G', 'B'}
 Supertypes: {'Legendary'}
 Types: {'Planeswalker'}
-Subtypes: {'Nissa', 'Liliana'}
+Subtypes: {'Liliana', 'Nissa'}
 Rarity: {'Mythic'}
 Power: set()
 Toughness: set()
-Loyalty: {'2', '5'}
+Loyalty: {'5', '2'}

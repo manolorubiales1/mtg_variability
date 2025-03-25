@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Kaya', 'Druid', 'Elemental', 'Vedalken', 'Island', 'Advisor', 'Ooze', 'Viashino', 'Dragon', 'Mountain', 'Construct', 'Angel', 'Demon', 'Mutant', 'Boar', 'Human', 'Cleric', 'Merfolk', 'Beast', 'Jellyfish', 'Ogre', 'Plains', 'Hydra', 'Shaman', 'Warrior', 'Swamp', 'Wurm', 'Forest', 'Centaur', 'Soldier', 'Elf', 'Wizard', 'Sphinx', 'Skeleton', 'Rogue', 'Crab'}
-Rarity: {'Rare', 'Common', 'Mythic', 'Uncommon'}
-Power: {'4', '7', '5', '1', '8', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '1', '8', '2', '0', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Planeswalker', 'Sorcery', 'Enchantment'}
+Subtypes: {'Ooze', 'Cleric', 'Jellyfish', 'Rogue', 'Boar', 'Centaur', 'Elf', 'Vedalken', 'Plains', 'Skeleton', 'Hydra', 'Construct', 'Dragon', 'Druid', 'Human', 'Merfolk', 'Warrior', 'Forest', 'Demon', 'Beast', 'Swamp', 'Sphinx', 'Elemental', 'Crab', 'Shaman', 'Mountain', 'Kaya', 'Mutant', 'Advisor', 'Viashino', 'Angel', 'Wizard', 'Ogre', 'Island', 'Soldier', 'Wurm'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'5', '8', '2', '6', '4', '0', '3', '1', '7'}
+Toughness: {'5', '8', '2', '6', '4', '3', '0', '7', '1'}
 Loyalty: {'3'}

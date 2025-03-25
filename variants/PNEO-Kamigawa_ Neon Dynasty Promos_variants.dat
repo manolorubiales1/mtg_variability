@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 10.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Snake', 'Tezzeret', 'Egg', 'Advisor', 'Kaito', 'Lizard', 'Samurai', 'Cat', 'Rat', 'Equipment', 'Dragon', 'Moonfolk', 'Demon', 'Human', 'Praetor', 'Jellyfish', 'Ogre', 'Vehicle', 'Monk', 'Spirit', 'Kirin', 'Phyrexian', 'Shaman', 'Insect', 'Wizard', 'Artificer', 'Fox', 'Goblin', 'Tamiyo', 'Pilot', 'Ninja'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Jellyfish', 'Fox', 'Kaito', 'Artificer', 'Cat', 'Rat', 'Saga', 'Pilot', 'Equipment', 'Praetor', 'Dragon', 'Vehicle', 'Druid', 'Moonfolk', 'Human', 'Phyrexian', 'Ninja', 'Kirin', 'Demon', 'Tamiyo', 'Tezzeret', 'Goblin', 'Snake', 'Advisor', 'Wizard', 'Ogre', 'Spirit', 'Samurai', 'Lizard'}
 Rarity: {'Rare', 'Mythic'}
-Power: {'4', '5', '1', '2', '0', '3', '6'}
-Toughness: {'4', '5', '1', '2', '3', '6'}
-Loyalty: {'3', '4', '5'}
+Power: {'5', '2', '6', '4', '3', '0', '1'}
+Toughness: {'5', '2', '6', '4', '3', '1'}
+Loyalty: {'5', '4', '3'}

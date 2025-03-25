@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic'}
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Rabbit', 'Elk', 'Scout', 'Faerie', 'Rat', 'Cyclops', 'Imp', 'Nightmare', 'Human', 'Cleric', 'Djinn', 'Giant', 'Spider', 'Turtle', 'Treefolk', 'Spirit', 'Griffin', 'Wall', 'Hippo', 'Warrior', 'Wurm', 'Skeleton', 'Bird', 'Elemental', 'Assassin', 'Bear', 'Horror', 'Wraith', 'Merfolk', 'Ogre', 'Ape', 'Serpent', 'Elf', 'Rogue', 'Dryad', 'Goblin', 'Golem', 'Barbarian', 'Aura', 'Snake', 'Island', 'Horse', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Knight', 'Phyrexian', 'Shaman', 'Octopus', 'Nomad', 'Forest', 'Insect', 'Berserker', 'Elephant', 'Druid', 'Orc', 'Lizard', 'Shade', 'Cat', 'Construct', 'Angel', 'Archer', 'Minion', 'Wolf', 'Dog', 'Beast', 'Thrull', 'Plains', 'Drake', 'Monk', 'Mercenary', 'Swamp', 'Illusion', 'Soldier', 'Orgg', 'Wizard', 'Nymph'}
-Rarity: {'Rare', 'Common', 'Uncommon'}
-Power: {'4', '7', '5', '8', '1', '*', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '8', '1', '*', '2', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Nightmare', 'Rogue', 'Scout', 'Bear', 'Rat', 'Orgg', 'Thrull', 'Warrior', 'Elemental', 'Beast', 'Serpent', 'Mountain', 'Imp', 'Mercenary', 'Wall', 'Lizard', 'Treefolk', 'Djinn', 'Zombie', 'Wolf', 'Aura', 'Bird', 'Barbarian', 'Assassin', 'Druid', 'Nomad', 'Human', 'Merfolk', 'Specter', 'Shade', 'Monk', 'Shaman', 'Turtle', 'Angel', 'Ogre', 'Island', 'Horror', 'Wurm', 'Cleric', 'Giant', 'Skeleton', 'Nymph', 'Spider', 'Phyrexian', 'Wraith', 'Rabbit', 'Dryad', 'Octopus', 'Snake', 'Hippo', 'Knight', 'Ape', 'Griffin', 'Illusion', 'Elf', 'Plains', 'Cat', 'Minion', 'Construct', 'Elephant', 'Cyclops', 'Dragon', 'Forest', 'Swamp', 'Dog', 'Orc', 'Horse', 'Berserker', 'Elk', 'Goblin', 'Faerie', 'Golem', 'Wizard', 'Archer', 'Spirit', 'Drake', 'Soldier'}
+Rarity: {'Rare', 'Uncommon', 'Common'}
+Power: {'5', '*', '2', '6', '8', '4', '3', '7', '1', '0'}
+Toughness: {'5', '*', '2', '6', '8', '4', '3', '7', '1'}
 Loyalty: set()

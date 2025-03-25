@@ -1,10 +1,10 @@
 CMC: {2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Snake', 'Horse', 'Jackal', 'Hellion', 'Bolas', 'Zombie', 'Cat', 'Naga', 'Crocodile', 'Angel', 'Demon', 'Curse', 'God', 'Human', 'Cleric', 'Minotaur', 'Samut', 'Chimera', 'Hydra', 'Warrior', 'Desert', 'Sphinx', 'Wizard', 'Bird', 'Golem', 'Aura'}
-Rarity: {'Rare', 'Mythic', 'Uncommon'}
-Power: {'4', '5', '1', '8', '*', '2', '3', '6'}
-Toughness: {'4', '5', '1', '8', '*', '2', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Cleric', 'Zombie', 'Naga', 'Aura', 'Cat', 'Bird', 'God', 'Hydra', 'Jackal', 'Minotaur', 'Human', 'Warrior', 'Demon', 'Sphinx', 'Samut', 'Horse', 'Chimera', 'Hellion', 'Snake', 'Crocodile', 'Golem', 'Angel', 'Wizard', 'Bolas', 'Desert', 'Curse'}
+Rarity: {'Rare', 'Uncommon', 'Mythic'}
+Power: {'8', '*', '2', '6', '5', '4', '3', '1'}
+Toughness: {'8', '*', '2', '6', '5', '4', '3', '1'}
 Loyalty: {'4', '7'}

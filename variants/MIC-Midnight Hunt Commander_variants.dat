@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Island', 'Advisor', 'Ranger', 'Zombie', 'Vampire', 'Equipment', 'Horror', 'Dragon', 'Construct', 'Angel', 'Demon', 'Curse', 'Knight', 'Human', 'Cleric', 'Dog', 'Shapeshifter', 'Noble', 'Giant', 'Plains', 'Monk', 'Turtle', 'Treefolk', 'Liliana', 'Spirit', 'Wall', 'Shaman', 'Warrior', 'Swamp', 'Forest', 'Soldier', 'Elf', 'Wizard', 'Rogue', 'Warlock', 'Aura'}
-Rarity: {'Rare', 'Common', 'Uncommon', 'Mythic'}
-Power: {'4', '5', '1', '2', '0', '3', '6'}
-Toughness: {'4', '5', '1', '2', '0', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Treefolk', 'Knight', 'Cleric', 'Giant', 'Zombie', 'Rogue', 'Elf', 'Plains', 'Aura', 'Equipment', 'Construct', 'Warlock', 'Dragon', 'Druid', 'Human', 'Vampire', 'Warrior', 'Forest', 'Demon', 'Noble', 'Swamp', 'Dog', 'Wall', 'Shapeshifter', 'Monk', 'Ranger', 'Shaman', 'Liliana', 'Turtle', 'Advisor', 'Angel', 'Wizard', 'Spirit', 'Island', 'Horror', 'Soldier', 'Curse'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'5', '2', '6', '4', '3', '1', '0'}
+Toughness: {'5', '2', '6', '4', '3', '1', '0'}
 Loyalty: {'5'}

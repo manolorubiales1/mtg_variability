@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Snake', 'Elemental', 'Advisor', 'Island', 'Scout', 'Lamia', 'Pegasus', 'Horse', 'Siren', 'Zombie', 'Cat', 'Dragon', 'Equipment', 'Mountain', 'Horror', 'Cyclops', 'Fish', 'Satyr', 'Demon', 'Archer', 'Harpy', 'God', 'Nightmare', 'Calix', 'Archon', 'Boar', 'Human', 'Cleric', 'Minotaur', 'Gorgon', 'Merfolk', 'Dog', 'Beast', 'Kraken', 'Elspeth', 'Giant', 'Plant', 'Vehicle', 'Elder', 'Plains', 'Spider', 'Turtle', 'Spirit', 'Unicorn', 'Ox', 'Griffin', 'Chimera', 'Hydra', 'Serpent', 'Ashiok', 'Shaman', 'Warrior', 'Swamp', 'Manticore', 'Saga', 'Forest', 'Soldier', 'Skeleton', 'Sphinx', 'Wizard', 'Centaur', 'Demigod', 'Insect', 'Phoenix', 'Nymph', 'Artificer', 'Bird', 'Dryad', 'Rogue', 'Berserker', 'Aura'}
-Rarity: {'Rare', 'Common', 'Mythic', 'Uncommon'}
-Power: {'4', '7', '5', '8', '1', '*', '2', '0', '3', '6', '10'}
-Toughness: {'4', '7', '5', '1', '*', '2', '0', '3', '6'}
-Loyalty: {'4', '5'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Planeswalker', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Phoenix', 'Nightmare', 'Ashiok', 'Lamia', 'Cleric', 'Giant', 'Zombie', 'Rogue', 'Boar', 'Centaur', 'Scout', 'Gorgon', 'Plains', 'Skeleton', 'Artificer', 'Aura', 'Cat', 'Bird', 'God', 'Kraken', 'Hydra', 'Equipment', 'Saga', 'Nymph', 'Unicorn', 'Ox', 'Elspeth', 'Cyclops', 'Dragon', 'Spider', 'Vehicle', 'Druid', 'Minotaur', 'Human', 'Manticore', 'Merfolk', 'Pegasus', 'Warrior', 'Forest', 'Elemental', 'Beast', 'Swamp', 'Sphinx', 'Dog', 'Demon', 'Archon', 'Harpy', 'Horse', 'Berserker', 'Chimera', 'Fish', 'Dryad', 'Plant', 'Calix', 'Serpent', 'Shaman', 'Satyr', 'Mountain', 'Demigod', 'Turtle', 'Snake', 'Advisor', 'Wizard', 'Horror', 'Spirit', 'Island', 'Siren', 'Archer', 'Soldier', 'Elder', 'Griffin'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'10', '5', '*', '2', '6', '8', '4', '3', '0', '7', '1'}
+Toughness: {'5', '*', '2', '6', '4', '3', '0', '7', '1'}
+Loyalty: {'5', '4'}

@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 12.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Myr', 'Tezzeret', 'Vedalken', 'Elemental', 'Island', 'Scout', 'Aura', 'Zombie', 'Cat', 'Vampire', 'Rat', 'Horror', 'Equipment', 'Thopter', 'Mountain', 'Dragon', 'Construct', 'Angel', 'Gargoyle', 'Imp', 'Wolf', 'Homunculus', 'Human', 'Knight', 'Cleric', 'Dog', 'Beast', 'Shapeshifter', 'Ogre', 'Giant', 'Rhino', 'Plains', 'Spider', 'Drake', 'Dinosaur', 'Phyrexian', 'Serpent', 'Hydra', 'Shaman', 'Gremlin', 'Swamp', 'Wurm', 'Warrior', 'Pest', 'Forest', 'Soldier', 'Elf', 'Insect', 'Sphinx', 'Wizard', 'Rogue', 'Berserker', 'Bird', 'Elephant', 'Goblin', 'Golem', 'Troll', 'Juggernaut', 'Drone'}
-Rarity: {'Rare', 'Common', 'Uncommon', 'Mythic'}
-Power: {'4', '11', '7', '5', '1', '*', '8', '2', '0', '3', '6'}
-Toughness: {'4', '11', '7', '5', '1', '*', '8', '2', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Planeswalker', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Thopter', 'Knight', 'Giant', 'Homunculus', 'Cleric', 'Zombie', 'Rogue', 'Scout', 'Elf', 'Wolf', 'Troll', 'Vedalken', 'Plains', 'Aura', 'Cat', 'Bird', 'Hydra', 'Equipment', 'Construct', 'Rat', 'Elephant', 'Juggernaut', 'Dragon', 'Spider', 'Phyrexian', 'Human', 'Pest', 'Vampire', 'Warrior', 'Forest', 'Elemental', 'Beast', 'Dog', 'Sphinx', 'Swamp', 'Berserker', 'Rhino', 'Gremlin', 'Shapeshifter', 'Tezzeret', 'Goblin', 'Serpent', 'Shaman', 'Gargoyle', 'Dinosaur', 'Drone', 'Mountain', 'Imp', 'Golem', 'Angel', 'Wizard', 'Ogre', 'Myr', 'Drake', 'Horror', 'Soldier', 'Island', 'Wurm'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'5', '*', '2', '6', '8', '4', '3', '0', '7', '1', '11'}
+Toughness: {'5', '*', '2', '6', '8', '4', '3', '7', '1', '11'}
 Loyalty: {'3'}

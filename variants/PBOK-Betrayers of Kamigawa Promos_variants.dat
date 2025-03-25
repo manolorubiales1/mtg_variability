@@ -1,10 +1,10 @@
 CMC: {3.0, 6.0}
-Colors: {'Black', 'Green'}
+Colors: {'G', 'B'}
 ColorIdentity: {'G', 'B'}
 Supertypes: {'Legendary'}
 Types: {'Creature'}
-Subtypes: {'Rat', 'Spirit', 'Ninja'}
+Subtypes: {'Rat', 'Human', 'Ninja', 'Monk'}
 Rarity: {'Rare', 'Uncommon'}
-Power: {'4', '5'}
-Toughness: {'3', '4'}
+Power: {'5', '2'}
+Toughness: {'2', '4'}
 Loyalty: set()

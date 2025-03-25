@@ -1,10 +1,10 @@
 CMC: {2.0, 3.0, 6.0, 7.0}
-Colors: {'Red', 'Green', 'White', 'Blue'}
-ColorIdentity: {'W', 'R', 'G', 'U'}
+Colors: {'W', 'G', 'R', 'U'}
+ColorIdentity: {'W', 'G', 'R', 'U'}
 Supertypes: set()
-Types: {'Creature', 'Sorcery', 'Artifact'}
-Subtypes: {'Whale', 'Sliver', 'Goblin'}
-Rarity: {'Common', 'Rare'}
-Power: {'3', '5', '2'}
-Toughness: {'3', '5', '1'}
+Types: {'Sorcery', 'Creature', 'Artifact'}
+Subtypes: {'Goblin', 'Sliver', 'Whale'}
+Rarity: {'Rare', 'Common'}
+Power: {'5', '2', '3'}
+Toughness: {'5', '3', '1'}
 Loyalty: set()

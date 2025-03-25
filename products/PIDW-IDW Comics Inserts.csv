@@ -1,0 +1,18 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Treasure Hunt,2.0,['U'],['U'],None,['Sorcery'],None,Rare,PIDW,None,None,None,"Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand."
+Breath of Malfegor,5.0,"['B', 'R']","['B', 'R']",None,['Instant'],None,Rare,PIDW,None,None,None,Breath of Malfegor deals 5 damage to each opponent.
+Arrest,3.0,['W'],['W'],None,['Enchantment'],['Aura'],Rare,PIDW,None,None,None,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated."
+Faithless Looting,1.0,['R'],['R'],None,['Sorcery'],None,Rare,PIDW,None,None,None,"Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Electrolyze,3.0,"['R', 'U']","['R', 'U']",None,['Instant'],None,Rare,PIDW,None,None,None,Electrolyze deals 2 damage divided as you choose among one or two targets.\nDraw a card.
+Consume Spirit,2.0,['B'],['B'],None,['Sorcery'],None,Rare,PIDW,None,None,None,Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life.
+Standstill,2.0,['U'],['U'],None,['Enchantment'],None,Rare,PIDW,None,None,None,"When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards."
+Feast of Blood,2.0,['B'],['B'],None,['Sorcery'],None,Rare,PIDW,None,None,None,Cast this spell only if you control two or more Vampires.\nDestroy target creature. You gain 4 life.
+Wash Out,4.0,['U'],['U'],None,['Sorcery'],None,Rare,PIDW,None,None,None,Return all permanents of the color of your choice to their owners' hands.
+Gaze of Granite,3.0,"['B', 'G']","['B', 'G']",None,['Sorcery'],None,Rare,PIDW,None,None,None,Destroy each nonland permanent with mana value X or less.
+Acquire,5.0,['U'],['U'],None,['Sorcery'],None,Rare,PIDW,None,None,None,Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles.
+High Tide,1.0,['U'],['U'],None,['Instant'],None,Rare,PIDW,None,None,None,"Until end of turn, whenever a player taps an Island for mana, that player adds an additional {U}."
+Duress,1.0,['B'],['B'],None,['Sorcery'],None,Rare,PIDW,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Corrupt,6.0,['B'],['B'],None,['Sorcery'],None,Rare,PIDW,None,None,None,Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.
+Ogre Arsonist,5.0,['R'],['R'],None,['Creature'],['Ogre'],Rare,PIDW,3,3,None,"When Ogre Arsonist enters the battlefield, destroy target land."
+Voidmage Husher,4.0,['U'],['U'],None,['Creature'],"['Human', 'Wizard']",Rare,PIDW,2,2,None,"Flash (You may cast this spell any time you could cast an instant.)\nWhen Voidmage Husher enters the battlefield, counter target activated ability. (Mana abilities can't be targeted.)\nWhenever you cast a spell, you may return Voidmage Husher to its owner's hand."
+Turnabout,4.0,['U'],['U'],None,['Instant'],None,Rare,PIDW,None,None,None,"Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls."

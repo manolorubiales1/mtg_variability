@@ -1,8 +1,8 @@
 CMC: {3.0, 4.0}
-Colors: {'Black', 'Green', 'White', 'Blue'}
-ColorIdentity: {'W', 'U', 'G', 'B'}
+Colors: {'W', 'G', 'B', 'U'}
+ColorIdentity: {'W', 'G', 'B', 'U'}
 Supertypes: set()
-Types: {'Instant', 'Creature', 'Sorcery'}
+Types: {'Sorcery', 'Instant', 'Creature'}
 Subtypes: {'Beast'}
 Rarity: {'Rare'}
 Power: {'4'}

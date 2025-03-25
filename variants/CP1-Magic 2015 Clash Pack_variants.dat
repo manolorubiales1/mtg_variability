@@ -1,10 +1,10 @@
 CMC: {1.0, 5.0, 6.0}
-Colors: {'Green', 'Blue'}
-ColorIdentity: {'U', 'G'}
+Colors: {'G', 'U'}
+ColorIdentity: {'G', 'U'}
 Supertypes: set()
-Types: {'Enchantment', 'Instant', 'Land', 'Creature'}
-Subtypes: {'Hydra', 'Sphinx', 'Wizard', 'Human'}
-Rarity: {'Common', 'Rare'}
-Power: {'3', '7', '2'}
-Toughness: {'3', '7', '5'}
+Types: {'Land', 'Enchantment', 'Instant', 'Creature'}
+Subtypes: {'Wizard', 'Sphinx', 'Human', 'Hydra'}
+Rarity: {'Rare', 'Common'}
+Power: {'2', '3', '7'}
+Toughness: {'5', '3', '7'}
 Loyalty: set()

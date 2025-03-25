@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 9.0, 12.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Snake', 'Rowan', 'Garruk', 'Faerie', 'Adventure', 'Dragon', 'Equipment', 'Archer', 'Gargoyle', 'Wolf', 'Will', 'Archon', 'Knight', 'Human', 'Merfolk', 'Beast', 'Noble', 'Giant', 'Treefolk', 'Serpent', 'Elf', 'Oko', 'Wizard', 'Rogue', 'Warlock', 'Bird', 'Troll', 'Dwarf'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Planeswalker', 'Sorcery', 'Enchantment'}
+Subtypes: {'Treefolk', 'Giant', 'Zombie', 'Rogue', 'Rowan', 'Elf', 'Wolf', 'Troll', 'Oko', 'Will', 'Bird', 'Equipment', 'Warlock', 'Dragon', 'Druid', 'Human', 'Peasant', 'Merfolk', 'Noble', 'Beast', 'Garruk', 'Serpent', 'Faerie', 'Gargoyle', 'Snake', 'Wizard', 'Archer', 'Knight', 'Archon', 'Dwarf'}
 Rarity: {'Rare', 'Mythic'}
-Power: {'4', '7', '5', '1', '8', '2', '0', '3'}
-Toughness: {'4', '7', '5', '8', '1', '2', '0', '3', '6'}
-Loyalty: {'4', '5'}
+Power: {'8', '5', '2', '4', '3', '7', '1', '0'}
+Toughness: {'8', '5', '2', '6', '4', '3', '7', '1', '0'}
+Loyalty: {'5', '4'}

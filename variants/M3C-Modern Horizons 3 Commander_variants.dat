@@ -1,0 +1,10 @@
+CMC: {3.0, 4.0, 6.0}
+Colors: {'B', 'R', 'U'}
+ColorIdentity: {'B', 'R', 'U'}
+Supertypes: set()
+Types: {'Sorcery', 'Land', 'Creature'}
+Subtypes: {'Goblin', 'Eldrazi'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'5', '2'}
+Toughness: {'5', '2', '8'}
+Loyalty: set()

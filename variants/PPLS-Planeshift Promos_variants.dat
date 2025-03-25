@@ -1,6 +1,6 @@
 CMC: {4.0}
-Colors: {'White', 'Green', 'Blue'}
-ColorIdentity: {'W', 'U', 'G'}
+Colors: {'W', 'G', 'U'}
+ColorIdentity: {'W', 'G', 'U'}
 Supertypes: set()
 Types: {'Creature'}
 Subtypes: {'Phelddagrif'}

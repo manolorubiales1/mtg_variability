@@ -1,10 +1,10 @@
 CMC: {4.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Blue'}
-ColorIdentity: {'W', 'R', 'U', 'B'}
+Colors: {'W', 'B', 'R', 'U'}
+ColorIdentity: {'W', 'B', 'R', 'U'}
 Supertypes: {'Legendary'}
 Types: {'Creature'}
-Subtypes: {'Vampire', 'Soldier', 'Spirit', 'Noble'}
+Subtypes: {'Soldier', 'Noble', 'Spirit', 'Vampire'}
 Rarity: {'Mythic'}
-Power: {'3', '4'}
-Toughness: {'4', '2'}
+Power: {'4', '3'}
+Toughness: {'2', '4'}
 Loyalty: set()

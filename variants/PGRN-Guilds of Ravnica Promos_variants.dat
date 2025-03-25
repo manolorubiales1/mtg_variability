@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Elemental', 'Island', 'Assassin', 'Zombie', 'Specter', 'Vampire', 'Dragon', 'Mountain', 'Angel', 'Demon', 'Nightmare', 'Human', 'Cleric', 'Knight', 'Vraska', 'Shapeshifter', 'Plains', 'Spider', 'Shaman', 'Warrior', 'Swamp', 'Forest', 'Soldier', 'Elf', 'Phoenix', 'Wizard', 'Illusion', 'Elephant', 'Dryad', 'Goblin'}
-Rarity: {'Rare', 'Mythic', 'Uncommon'}
-Power: {'4', '5', '1', '2', '3', '6'}
-Toughness: {'4', '7', '5', '1', '2', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Phoenix', 'Nightmare', 'Illusion', 'Cleric', 'Zombie', 'Elf', 'Plains', 'Vraska', 'Assassin', 'Elephant', 'Dragon', 'Spider', 'Druid', 'Human', 'Vampire', 'Warrior', 'Demon', 'Elemental', 'Forest', 'Swamp', 'Specter', 'Dryad', 'Shapeshifter', 'Goblin', 'Shaman', 'Mountain', 'Angel', 'Wizard', 'Island', 'Knight', 'Soldier'}
+Rarity: {'Rare', 'Uncommon', 'Mythic'}
+Power: {'5', '2', '6', '4', '3', '1'}
+Toughness: {'5', '2', '6', '4', '3', '1', '7'}
 Loyalty: {'4'}

@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Snow', 'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Elk', 'Scout', 'Viashino', 'Faerie', 'Kor', 'Naga', 'Rat', 'Equipment', 'Cyclops', 'Ouphe', 'Masticore', 'Human', 'Djinn', 'Cleric', 'Frog', 'Giant', 'Rhino', 'Plant', 'Spider', 'Treefolk', 'Spirit', 'Wall', 'Warrior', 'Wurm', 'Skeleton', 'Bird', 'Carrier', 'Elemental', 'Vedalken', 'Wrenn', 'Scarecrow', 'Ranger', 'Bear', 'Sliver', 'Horror', 'Boar', 'Minotaur', 'Shapeshifter', 'Elf', 'Mongoose', 'Goblin', 'Golem', 'Ninja', 'Aura', 'Snake', 'Island', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Knight', 'Devil', 'Jellyfish', 'Serra', 'Phyrexian', 'Shaman', 'Azra', 'Forest', 'Insect', 'Berserker', 'Artificer', 'Trilobite', 'Druid', 'Avatar', 'Orc', 'Lizard', 'Incarnation', 'Cat', 'Vampire', 'Construct', 'Angel', 'Demon', 'Slug', 'Beast', 'Squid', 'Plains', 'Drake', 'Unicorn', 'Swamp', 'Soldier', 'Illusion', 'Wizard', 'Crab'}
-Rarity: {'Rare', 'Common', 'Uncommon', 'Mythic'}
-Power: {'4', '7', '5', '*', '1', '8', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '*', '1', '8', '2', '0', '3', '6'}
-Loyalty: {'3', '4'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'Basic', 'Snow', 'Legendary'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Jellyfish', 'Scout', 'Naga', 'Bear', 'Rat', 'Unicorn', 'Avatar', 'Warrior', 'Elemental', 'Beast', 'Shapeshifter', 'Kor', 'Mountain', 'Viashino', 'Wrenn', 'Wall', 'Lizard', 'Treefolk', 'Djinn', 'Zombie', 'Artificer', 'Aura', 'Trilobite', 'Bird', 'Scarecrow', 'Masticore', 'Druid', 'Serra', 'Human', 'Vampire', 'Azra', 'Specter', 'Crab', 'Shaman', 'Slug', 'Angel', 'Squid', 'Island', 'Horror', 'Wurm', 'Giant', 'Cleric', 'Vedalken', 'Ouphe', 'Skeleton', 'Frog', 'Carrier', 'Spider', 'Phyrexian', 'Ninja', 'Devil', 'Rhino', 'Ranger', 'Snake', 'Mongoose', 'Knight', 'Plant', 'Illusion', 'Boar', 'Sliver', 'Elf', 'Plains', 'Cat', 'Equipment', 'Construct', 'Cyclops', 'Dragon', 'Incarnation', 'Minotaur', 'Demon', 'Forest', 'Swamp', 'Orc', 'Berserker', 'Elk', 'Goblin', 'Faerie', 'Golem', 'Wizard', 'Spirit', 'Drake', 'Soldier'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '8', '2', '6', '*', '4', '3', '0', '7', '1'}
+Toughness: {'5', '8', '2', '*', '6', '4', '3', '0', '7', '1'}
+Loyalty: {'4', '3'}

@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 11.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Tribal', 'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Myr', 'Druid', 'Snake', 'Elemental', 'Avatar', 'Orc', 'Vedalken', 'Island', 'Ooze', 'Scout', 'Advisor', 'Horse', 'Ranger', 'Kor', 'Faerie', 'Zombie', 'Naga', 'Vampire', 'Dragon', 'Horror', 'Mountain', 'Equipment', 'Ally', 'Fish', 'Satyr', 'Construct', 'Angel', 'Gargoyle', 'Curse', 'God', 'Archon', 'Knight', 'Human', 'Arcane', 'Cleric', 'Minotaur', 'Merfolk', 'Barbarian', 'Beast', 'Shapeshifter', 'Ogre', 'Hippogriff', 'Rhino', 'Plant', 'Squid', 'Plains', 'Fungus', 'Monk', 'Spirit', 'Ox', 'Wall', 'Chimera', 'Hydra', 'Phyrexian', 'Shaman', 'Daretti', 'Warrior', 'Swamp', 'Forest', 'Soldier', 'Elf', 'Insect', 'Wizard', 'Sphinx', 'Centaur', 'Rogue', 'Artificer', 'Berserker', 'Bird', 'Goblin', 'Golem', 'Nephilim', 'Aura'}
-Rarity: {'Rare', 'Common', 'Mythic', 'Uncommon'}
-Power: {'4', '7', '5', '1', '*', '8', '2', '0', '3', '6', '10'}
-Toughness: {'4', '7', '5', '1', '*', '8', '2', '0', '3', '6', '10'}
+Types: {'Tribal', 'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Ooze', 'Knight', 'Cleric', 'Zombie', 'Rogue', 'Centaur', 'Scout', 'Elf', 'Naga', 'Vedalken', 'Plains', 'Fungus', 'Artificer', 'Aura', 'Bird', 'God', 'Hydra', 'Equipment', 'Construct', 'Barbarian', 'Avatar', 'Ox', 'Dragon', 'Arcane', 'Ally', 'Druid', 'Minotaur', 'Phyrexian', 'Human', 'Merfolk', 'Vampire', 'Hippogriff', 'Warrior', 'Forest', 'Elemental', 'Beast', 'Swamp', 'Sphinx', 'Nephilim', 'Orc', 'Archon', 'Horse', 'Berserker', 'Wall', 'Chimera', 'Rhino', 'Daretti', 'Fish', 'Shapeshifter', 'Kor', 'Monk', 'Ranger', 'Goblin', 'Faerie', 'Shaman', 'Satyr', 'Mountain', 'Gargoyle', 'Snake', 'Advisor', 'Golem', 'Angel', 'Wizard', 'Squid', 'Ogre', 'Spirit', 'Myr', 'Horror', 'Soldier', 'Island', 'Curse', 'Plant'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'10', '5', '*', '2', '6', '8', '4', '0', '3', '7', '1'}
+Toughness: {'10', '5', '*', '2', '6', '8', '4', '0', '3', '1', '7'}
 Loyalty: {'3'}

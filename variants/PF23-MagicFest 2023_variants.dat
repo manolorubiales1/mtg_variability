@@ -1,0 +1,10 @@
+CMC: {2.0, 4.0}
+Colors: {'U'}
+ColorIdentity: {'G', 'U'}
+Supertypes: {'Legendary'}
+Types: {'Land', 'Creature', 'Artifact'}
+Subtypes: {'Wizard', 'Avatar', 'Vehicle'}
+Rarity: {'Rare'}
+Power: {'2'}
+Toughness: {'4'}
+Loyalty: set()

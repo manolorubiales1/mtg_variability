@@ -1,10 +1,10 @@
 CMC: {2.0, 3.0, 5.0, 6.0, 7.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
 Types: {'Sorcery', 'Creature', 'Artifact'}
-Subtypes: {'Warrior', 'Horror', 'Dragon', 'Avatar', 'Elemental', 'Shapeshifter', 'Vedalken', 'Plant', 'Squid', 'Demon', 'Angel', 'Elf', 'Artificer', 'Goblin', 'Phyrexian', 'Shaman'}
-Rarity: {'Rare', 'Mythic', 'Uncommon'}
-Power: {'4', '7', '5', '1', '2', '0', '6'}
-Toughness: {'4', '5', '1', '2', '0', '3', '6'}
+Subtypes: {'Goblin', 'Phyrexian', 'Shaman', 'Warrior', 'Demon', 'Elemental', 'Angel', 'Squid', 'Avatar', 'Elf', 'Vedalken', 'Dragon', 'Horror', 'Artificer', 'Shapeshifter', 'Plant'}
+Rarity: {'Rare', 'Uncommon', 'Mythic'}
+Power: {'5', '2', '6', '4', '0', '1', '7'}
+Toughness: {'5', '2', '6', '4', '3', '0', '1'}
 Loyalty: set()

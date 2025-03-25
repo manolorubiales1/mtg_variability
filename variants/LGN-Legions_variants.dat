@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 10.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
 Types: {'Creature'}
-Subtypes: {'Cephalid', 'Druid', 'Avatar', 'Elemental', 'Assassin', 'Zombie', 'Cat', 'Sliver', 'Goat', 'Specter', 'Dragon', 'Horror', 'Angel', 'Demon', 'Minion', 'Mutant', 'Human', 'Knight', 'Cleric', 'Beast', 'Shapeshifter', 'Mercenary', 'Spirit', 'Dinosaur', 'Wall', 'Warrior', 'Soldier', 'Elf', 'Insect', 'Wizard', 'Illusion', 'Bird', 'Goblin', 'Crab'}
-Rarity: {'Uncommon', 'Common', 'Rare'}
-Power: {'13', '4', '7', '5', '1', '2', '0', '3', '6'}
-Toughness: {'13', '4', '7', '5', '1', '2', '0', '3', '6'}
+Subtypes: {'Insect', 'Illusion', 'Knight', 'Cleric', 'Zombie', 'Sliver', 'Elf', 'Cat', 'Goat', 'Bird', 'Minion', 'Assassin', 'Avatar', 'Dragon', 'Druid', 'Cephalid', 'Human', 'Demon', 'Warrior', 'Elemental', 'Beast', 'Specter', 'Wall', 'Crab', 'Shapeshifter', 'Goblin', 'Mutant', 'Dinosaur', 'Angel', 'Mercenary', 'Wizard', 'Spirit', 'Horror', 'Soldier'}
+Rarity: {'Rare', 'Uncommon', 'Common'}
+Power: {'13', '5', '2', '6', '4', '3', '0', '7', '1'}
+Toughness: {'13', '5', '2', '6', '4', '3', '0', '7', '1'}
 Loyalty: set()

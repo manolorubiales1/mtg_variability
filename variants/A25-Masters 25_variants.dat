@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Jace', 'Myr', 'Druid', 'Snake', 'Elemental', 'Orc', 'Vedalken', 'Advisor', 'Spellshaper', 'Scout', 'Lizard', 'Shade', 'Kor', 'Ranger', 'Assassin', 'Faerie', 'Jackal', 'Zombie', 'Bear', 'Cat', 'Vampire', 'Rat', 'Dragon', 'Horror', 'Equipment', 'Bat', 'Ally', 'Construct', 'Angel', 'Wolf', 'Nightmare', 'Mutant', 'Boar', 'Human', 'Knight', 'Kavu', 'Cleric', 'Wraith', 'Golem', 'Worm', 'Merfolk', 'Sheep', 'Beast', 'Dog', 'Assembly-Worker', 'Shapeshifter', 'Jellyfish', 'Ogre', 'Giant', 'Plant', 'Ape', 'Elder', 'Spider', 'Monk', 'Treefolk', 'Spirit', 'Dinosaur', 'Griffin', 'Phyrexian', 'Shaman', 'Warrior', 'Centaur', 'Soldier', 'Illusion', 'Elf', 'Wizard', 'Insect', 'Rogue', 'Berserker', 'Bird', 'Elephant', 'Goblin', 'Artificer', 'Barbarian', 'Crab', 'Aura'}
-Rarity: {'Rare', 'Common', 'Uncommon', 'Mythic'}
-Power: {'4', '7', '5', '1', '*', '2', '9', '0', '3', '6'}
-Toughness: {'13', '4', '7', '5', '*', '1', '2', '9', '0', '3', '6', '10'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Bat', 'Treefolk', 'Nightmare', 'Illusion', 'Cleric', 'Jellyfish', 'Sheep', 'Zombie', 'Rogue', 'Giant', 'Worm', 'Boar', 'Centaur', 'Scout', 'Elf', 'Wolf', 'Vedalken', 'Artificer', 'Myr', 'Aura', 'Cat', 'Griffin', 'Bird', 'Bear', 'Barbarian', 'Equipment', 'Construct', 'Rat', 'Assassin', 'Elephant', 'Spellshaper', 'Dragon', 'Spider', 'Ally', 'Druid', 'Jackal', 'Jace', 'Human', 'Phyrexian', 'Merfolk', 'Vampire', 'Warrior', 'Elemental', 'Beast', 'Dog', 'Wraith', 'Orc', 'Shade', 'Berserker', 'Crab', 'Kavu', 'Shapeshifter', 'Kor', 'Monk', 'Ape', 'Goblin', 'Ranger', 'Faerie', 'Shaman', 'Dinosaur', 'Mutant', 'Snake', 'Assembly-Worker', 'Advisor', 'Angel', 'Golem', 'Wizard', 'Horror', 'Spirit', 'Ogre', 'Knight', 'Soldier', 'Elder', 'Plant', 'Lizard'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'5', '*', '2', '6', '4', '3', '0', '9', '7', '1'}
+Toughness: {'13', '10', '5', '*', '2', '6', '4', '3', '0', '7', '9', '1'}
 Loyalty: {'3'}

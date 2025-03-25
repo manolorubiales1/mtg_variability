@@ -1,10 +1,10 @@
 CMC: {2.0, 4.0, 5.0}
-Colors: {'White', 'Red', 'Black', 'Green'}
-ColorIdentity: {'W', 'R', 'G', 'B'}
+Colors: {'W', 'G', 'B'}
+ColorIdentity: {'W', 'G', 'B'}
 Supertypes: set()
-Types: {'Enchantment', 'Creature'}
-Subtypes: {'Vampire', 'Elf', 'Insect', 'Fungus', 'Shaman'}
+Types: {'Creature', 'Enchantment'}
+Subtypes: {'Insect', 'Vampire'}
 Rarity: {'Rare', 'Mythic'}
-Power: {'3', '5'}
-Toughness: {'3', '4', '5'}
+Power: {'5', '3'}
+Toughness: {'5', '3'}
 Loyalty: set()

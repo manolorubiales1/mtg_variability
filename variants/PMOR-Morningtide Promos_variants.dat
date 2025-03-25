@@ -1,9 +1,9 @@
 CMC: {4.0, 5.0}
-Colors: {'Black'}
+Colors: {'B'}
 ColorIdentity: {'B'}
 Supertypes: set()
 Types: {'Creature', 'Artifact'}
-Subtypes: {'Rogue', 'Goblin'}
+Subtypes: {'Goblin', 'Rogue'}
 Rarity: {'Rare'}
 Power: {'5'}
 Toughness: {'3'}

@@ -1,9 +1,9 @@
 CMC: {8.0, 1.0, 2.0, 3.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Swamp', 'Mountain', 'Island', 'Forest', 'Plains', 'Goblin', 'Arcane', 'Mime'}
+Types: {'Artifact', 'Land', 'Instant', 'Creature', 'Sorcery', 'Enchantment'}
+Subtypes: {'Goblin', 'Mountain', 'Forest', 'Swamp', 'Mime', 'Island', 'Plains', 'Arcane'}
 Rarity: {'Rare'}
 Power: {'2'}
 Toughness: {'2'}

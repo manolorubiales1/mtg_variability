@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 10.0, 11.0, 15.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'Snow', 'Legendary', 'World'}
+Types: {'Tribal', 'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Nightmare', 'Jellyfish', 'Aetherborn', 'Rogue', 'Centaur', 'Scout', 'Naga', 'Troll', 'Unicorn', 'Avatar', 'Warrior', 'Elemental', 'Beast', 'Noble', 'Shapeshifter', 'Kor', 'Gargoyle', 'Viashino', 'Bolas', 'Wrenn', 'Wall', 'Lizard', 'Aminatou', 'Treefolk', 'Djinn', 'Zombie', 'Artificer', 'Aura', 'Bird', 'Assassin', 'Ally', 'Druid', 'Nomad', 'Human', 'Merfolk', 'Vampire', 'Pirate', 'Specter', 'Monk', 'Hellion', 'Shaman', 'Angel', 'Ogre', 'Horror', 'Elder', 'Wurm', 'Ooze', 'Giant', 'Cleric', 'Skeleton', 'Spider', 'Phyrexian', 'Devil', 'Rhino', 'Snake', 'Leviathan', 'Eldrazi', 'Knight', 'Plant', 'Boar', 'Elf', 'Fungus', 'Cat', 'Hydra', 'Equipment', 'Ox', 'Soldier', 'Dragon', 'Minotaur', 'Demon', 'Dog', 'Sphinx', 'Kithkin', 'Berserker', 'Goblin', 'Faerie', 'Dinosaur', 'Liliana', 'Advisor', 'Wizard', 'Spirit', 'Archer', 'Archon'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'10', '5', '*', '2', '6', '8', '4', '3', '9', '1', '12', '0', '15', '16'}
+Toughness: {'10', '5', '*', '2', '6', '8', '4', '3', '7', '1', '12', '0', '15', '16'}
+Loyalty: {'3', '7'}

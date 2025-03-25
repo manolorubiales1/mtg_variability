@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'Green', 'Blue'}
-ColorIdentity: {'U', 'G', 'R', 'B'}
+Colors: {'G', 'B', 'R', 'U'}
+ColorIdentity: {'G', 'B', 'R', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Elemental', 'Island', 'Faerie', 'Zombie', 'Rat', 'Weird', 'Dragon', 'Mountain', 'Horror', 'Minion', 'Imp', 'Human', 'Djinn', 'Leech', 'Dog', 'Beast', 'Ogre', 'Plant', 'Spider', 'Spirit', 'Shaman', 'Warrior', 'Swamp', 'Wurm', 'Forest', 'Elf', 'Skeleton', 'Wizard', 'Insect', 'Goblin', 'Troll', 'Aura'}
-Rarity: {'Common', 'Rare', 'Uncommon', 'Mythic'}
-Power: {'4', '5', '1', '*', '2', '0', '3', '6', '10'}
-Toughness: {'4', '5', '1', '*', '2', '0', '3', '6', '10'}
+Types: {'Artifact', 'Land', 'Instant', 'Creature', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Djinn', 'Zombie', 'Elf', 'Troll', 'Skeleton', 'Aura', 'Minion', 'Rat', 'Dragon', 'Spider', 'Druid', 'Human', 'Warrior', 'Forest', 'Elemental', 'Leech', 'Swamp', 'Dog', 'Beast', 'Weird', 'Goblin', 'Faerie', 'Shaman', 'Mountain', 'Imp', 'Wizard', 'Ogre', 'Spirit', 'Island', 'Horror', 'Plant', 'Wurm'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'10', '5', '*', '2', '6', '4', '3', '1', '0'}
+Toughness: {'10', '5', '*', '2', '6', '4', '3', '1', '0'}
 Loyalty: set()

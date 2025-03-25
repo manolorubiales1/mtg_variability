@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Black', 'Green'}
+Colors: {'G', 'B'}
 ColorIdentity: {'G', 'B'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Tribal', 'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Spellshaper', 'Garruk', 'Lizard', 'Faerie', 'Zombie', 'Rat', 'Vampire', 'Horror', 'Bat', 'Mutant', 'Boar', 'Human', 'Dog', 'Beast', 'Plant', 'Liliana', 'Treefolk', 'Spirit', 'Antelope', 'Phyrexian', 'Wall', 'Shaman', 'Warrior', 'Swamp', 'Wurm', 'Forest', 'Skeleton', 'Elf', 'Rogue', 'Troll', 'Aura'}
-Rarity: {'Common', 'Mythic', 'Uncommon', 'Rare'}
-Power: {'4', '5', '8', '1', '2', '0', '3', '6'}
-Toughness: {'4', '5', '8', '1', '2', '3'}
-Loyalty: {'3', '5'}
+Types: {'Tribal', 'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Bat', 'Treefolk', 'Zombie', 'Rogue', 'Boar', 'Elf', 'Troll', 'Skeleton', 'Aura', 'Rat', 'Spellshaper', 'Antelope', 'Human', 'Phyrexian', 'Vampire', 'Warrior', 'Forest', 'Beast', 'Swamp', 'Dog', 'Garruk', 'Faerie', 'Shaman', 'Mutant', 'Liliana', 'Lizard', 'Spirit', 'Horror', 'Wall', 'Plant', 'Wurm'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '8', '2', '6', '4', '3', '1', '0'}
+Toughness: {'8', '5', '2', '4', '3', '1'}
+Loyalty: {'5', '3'}

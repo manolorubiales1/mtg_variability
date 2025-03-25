@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 10.0, 11.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'Legendary', 'Host'}
+Types: {'Artifact', 'Land', 'Instant', 'Creature', 'Sorcery', 'Planeswalker', 'Enchantment', 'Summon'}
+Subtypes: {'Bat', 'Rigger', 'Zombie', 'Rogue', 'Grandchild', 'Spy', 'Troll', 'Aura', 'Bird', 'Child', 'Hydra', 'Equipment', 'Construct', 'Gamer', 'Elephant', 'Avatar', 'Villain', 'Designer', 'Human', 'Brainiac', 'Squirrel', 'Ninja', 'Rebel', 'Demon', 'Warrior', 'Elemental', 'Noble', 'Beast', 'Dog', 'Wombat', 'B.O.B.', 'Cyborg', 'Goblin', 'Dinosaur', 'Mutant', 'Advisor', 'Angel', 'Chameleon', 'Clamfolk', 'Knight', 'Wurm'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'8', '*', '2', '5', '4', '3', '0', '+3', '9', '7', '1', '∞'}
+Toughness: {'8', '*', '2', '5', '4', '3', '0', '+3', '9', '7', '1'}
+Loyalty: {'*'}

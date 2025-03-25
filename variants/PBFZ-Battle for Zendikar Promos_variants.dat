@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 9.0, 10.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Elemental', 'Processor', 'Island', 'Scout', 'Kor', 'Cat', 'Vampire', 'Dragon', 'Mountain', 'Ally', 'Angel', 'Kiora', 'Human', 'Knight', 'Merfolk', 'Beast', 'Eldrazi', 'Plains', 'Nixilis', 'Hydra', 'Shaman', 'Swamp', 'Forest', 'Soldier', 'Elf', 'Phoenix', 'Sphinx', 'Goblin', 'Gideon', 'Drone'}
-Rarity: {'Rare', 'Mythic', 'Uncommon'}
-Power: {'4', '11', '5', '*', '1', '2', '0', '3', '10'}
-Toughness: {'4', '7', '5', '8', '*', '1', '2', '9', '0', '3', '6', '10'}
-Loyalty: {'4', '5'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Phoenix', 'Scout', 'Elf', 'Plains', 'Cat', 'Hydra', 'Dragon', 'Ally', 'Gideon', 'Human', 'Merfolk', 'Nixilis', 'Vampire', 'Forest', 'Elemental', 'Beast', 'Processor', 'Sphinx', 'Swamp', 'Kiora', 'Kor', 'Goblin', 'Shaman', 'Mountain', 'Drone', 'Angel', 'Eldrazi', 'Island', 'Knight', 'Soldier'}
+Rarity: {'Rare', 'Uncommon', 'Mythic'}
+Power: {'10', '5', '*', '2', '4', '3', '0', '1', '11'}
+Toughness: {'10', '5', '*', '2', '6', '8', '4', '3', '0', '9', '7', '1'}
+Loyalty: {'5', '4'}

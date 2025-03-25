@@ -1,9 +1,9 @@
 CMC: {1.0, 2.0, 3.0, 4.0}
-Colors: {'Blue'}
+Colors: {'U'}
 ColorIdentity: {'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Instant', 'Planeswalker'}
-Subtypes: {'Jace', 'Aura'}
+Types: {'Planeswalker', 'Instant', 'Enchantment'}
+Subtypes: {'Aura', 'Jace'}
 Rarity: {'Rare', 'Mythic'}
 Power: set()
 Toughness: set()

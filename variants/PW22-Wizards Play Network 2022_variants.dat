@@ -1,10 +1,10 @@
-CMC: {1.0, 2.0, 4.0}
-Colors: {'Red', 'White', 'Blue'}
-ColorIdentity: {'W', 'U', 'R'}
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0}
+Colors: {'W', 'B', 'R', 'U'}
+ColorIdentity: {'W', 'B', 'R', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Instant', 'Creature'}
-Subtypes: {'Dragon', 'Spirit'}
+Types: {'Instant', 'Creature', 'Artifact'}
+Subtypes: {'Phyrexian', 'Equipment', 'Spirit', 'Dragon', 'Horror'}
 Rarity: {'Rare', 'Mythic'}
-Power: {'4'}
-Toughness: {'4'}
+Power: {'*', '4'}
+Toughness: {'*', '4'}
 Loyalty: set()

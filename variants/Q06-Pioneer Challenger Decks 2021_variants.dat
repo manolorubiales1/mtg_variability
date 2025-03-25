@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Blue'}
-ColorIdentity: {'W', 'U', 'R', 'B'}
+Colors: {'W', 'B', 'R', 'U'}
+ColorIdentity: {'W', 'B', 'R', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Planeswalker', 'Sorcery', 'Creature', 'Instant'}
-Subtypes: {'Nightmare', 'Spirit', 'Chandra', 'Cat', 'Aura'}
-Rarity: {'Rare', 'Common', 'Uncommon', 'Mythic'}
-Power: {'3', '2'}
-Toughness: {'3', '2'}
+Types: {'Creature', 'Instant', 'Planeswalker', 'Sorcery', 'Enchantment'}
+Subtypes: {'Aura', 'Cat', 'Nightmare', 'Chandra', 'Spirit'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'2', '3'}
+Toughness: {'2', '3'}
 Loyalty: {'4'}

@@ -1,9 +1,9 @@
 CMC: {1.0, 2.0, 3.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Merfolk', 'Wizard', 'Vedalken'}
+Types: {'Artifact', 'Instant', 'Creature', 'Sorcery', 'Enchantment'}
+Subtypes: {'Wizard', 'Merfolk', 'Vedalken'}
 Rarity: {'Rare'}
 Power: {'2', '1'}
 Toughness: {'2', '1'}

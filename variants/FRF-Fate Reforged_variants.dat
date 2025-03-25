@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 11.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Elemental', 'Orc', 'Island', 'Scout', 'Assassin', 'Zombie', 'Cat', 'Naga', 'Rat', 'Dragon', 'Efreet', 'Mountain', 'Equipment', 'Fish', 'Construct', 'Demon', 'Archer', 'Boar', 'Human', 'Cleric', 'Djinn', 'Yeti', 'Dog', 'Beast', 'Ogre', 'Plains', 'Monk', 'Wall', 'Shaman', 'Warrior', 'Swamp', 'Forest', 'Phoenix', 'Soldier', 'Insect', 'Rogue', 'Berserker', 'Artificer', 'Bird', 'Goblin', 'Golem', 'Elephant', 'Ugin', 'Aura'}
-Rarity: {'Common', 'Mythic', 'Uncommon', 'Rare'}
-Power: {'4', '5', '1', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '1', '2', '0', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Phoenix', 'Djinn', 'Cleric', 'Zombie', 'Yeti', 'Rogue', 'Boar', 'Scout', 'Naga', 'Plains', 'Artificer', 'Aura', 'Cat', 'Bird', 'Equipment', 'Construct', 'Rat', 'Assassin', 'Elephant', 'Ugin', 'Soldier', 'Dragon', 'Human', 'Warrior', 'Demon', 'Elemental', 'Beast', 'Dog', 'Swamp', 'Forest', 'Orc', 'Berserker', 'Wall', 'Fish', 'Monk', 'Goblin', 'Shaman', 'Mountain', 'Golem', 'Ogre', 'Archer', 'Island', 'Efreet'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '2', '6', '4', '3', '0', '1'}
+Toughness: {'5', '2', '6', '4', '3', '0', '7', '1'}
 Loyalty: {'7'}

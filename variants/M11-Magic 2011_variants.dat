@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Ooze', 'Garruk', 'Scout', 'Rat', 'Equipment', 'Cyclops', 'Human', 'Cleric', 'Noble', 'Giant', 'Plant', 'Spider', 'Spirit', 'Ox', 'Wall', 'Griffin', 'Hydra', 'Warrior', 'Wurm', 'Skeleton', 'Bird', 'Troll', 'Jace', 'Elemental', 'Ranger', 'Basilisk', 'Assassin', 'Siren', 'Bear', 'Thopter', 'Horror', 'Leviathan', 'Gargoyle', 'Archon', 'Boar', 'Minotaur', 'Merfolk', 'Shapeshifter', 'Liliana', 'Chandra', 'Serpent', 'Elf', 'Sphinx', 'Rogue', 'Goblin', 'Golem', 'Aura', 'Island', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Knight', 'Shaman', 'Forest', 'Insect', 'Berserker', 'Elephant', 'Juggernaut', 'Druid', 'Egg', 'Pegasus', 'Shade', 'Cat', 'Vampire', 'Construct', 'Angel', 'Demon', 'Wolf', 'Dog', 'Ajani', 'Beast', 'Plains', 'Drake', 'Monk', 'Unicorn', 'Swamp', 'Phoenix', 'Soldier', 'Illusion', 'Wizard', 'Crab'}
-Rarity: {'Rare', 'Common', 'Uncommon', 'Mythic'}
-Power: {'4', '7', '5', '8', '1', '2', '9', '0', '3', '6'}
-Toughness: {'4', '7', '5', '1', '8', '2', '9', '0', '3', '6'}
-Loyalty: {'3', '6', '4', '5'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Thopter', 'Rogue', 'Scout', 'Troll', 'Bear', 'Rat', 'Unicorn', 'Ajani', 'Basilisk', 'Jace', 'Warrior', 'Elemental', 'Beast', 'Noble', 'Garruk', 'Shapeshifter', 'Serpent', 'Gargoyle', 'Mountain', 'Siren', 'Wall', 'Zombie', 'Wolf', 'Aura', 'Bird', 'Assassin', 'Juggernaut', 'Druid', 'Human', 'Merfolk', 'Vampire', 'Specter', 'Archon', 'Shade', 'Crab', 'Monk', 'Shaman', 'Angel', 'Chandra', 'Island', 'Horror', 'Wurm', 'Phoenix', 'Ooze', 'Giant', 'Cleric', 'Skeleton', 'Spider', 'Pegasus', 'Ranger', 'Leviathan', 'Knight', 'Griffin', 'Plant', 'Egg', 'Illusion', 'Boar', 'Elf', 'Plains', 'Cat', 'Hydra', 'Equipment', 'Construct', 'Elephant', 'Ox', 'Cyclops', 'Dragon', 'Minotaur', 'Demon', 'Forest', 'Dog', 'Sphinx', 'Swamp', 'Berserker', 'Goblin', 'Liliana', 'Golem', 'Wizard', 'Spirit', 'Drake', 'Soldier'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'8', '5', '2', '6', '4', '0', '3', '9', '1', '7'}
+Toughness: {'5', '8', '2', '6', '4', '3', '0', '9', '7', '1'}
+Loyalty: {'5', '6', '4', '3'}

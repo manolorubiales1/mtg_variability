@@ -1,10 +1,10 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Jace', 'Snake', 'Elemental', 'Nissa', 'Ooze', 'Shade', 'Kor', 'Vampire', 'Equipment', 'Horror', 'Dragon', 'Construct', 'Nahiri', 'Leviathan', 'Angel', 'Demon', 'Archon', 'Boar', 'Human', 'Cleric', 'Minotaur', 'Merfolk', 'Beast', 'Giant', 'Fungus', 'Spirit', 'Serpent', 'Hydra', 'Warrior', 'Elf', 'Sphinx', 'Wizard', 'Insect', 'Rogue', 'Goblin', 'Crab'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Planeswalker', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Ooze', 'Nahiri', 'Cleric', 'Giant', 'Rogue', 'Boar', 'Elf', 'Fungus', 'Hydra', 'Equipment', 'Construct', 'Elephant', 'Nissa', 'Dragon', 'Minotaur', 'Human', 'Jace', 'Merfolk', 'Vampire', 'Warrior', 'Demon', 'Elemental', 'Beast', 'Sphinx', 'Shade', 'Crab', 'Shapeshifter', 'Kor', 'Serpent', 'Goblin', 'Snake', 'Angel', 'Wizard', 'Leviathan', 'Spirit', 'Horror', 'Archon'}
 Rarity: {'Rare', 'Mythic'}
-Power: {'4', '5', '1', '*', '2', '0', '1+*', '3', '6'}
-Toughness: {'17', '4', '7', '5', '1', '*', '2', '0', '3', '6'}
+Power: {'5', '*', '2', '6', '4', '3', '0', '1+*', '1'}
+Toughness: {'5', '*', '2', '6', '4', '3', '7', '1', '0', '17'}
 Loyalty: {'4'}

@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0, 15.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Tribal', 'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Myr', 'Druid', 'Avatar', 'Elemental', 'Vedalken', 'Tezzeret', 'Advisor', 'Snake', 'Faerie', 'Incarnation', 'Kor', 'Viashino', 'Cat', 'Vampire', 'Equipment', 'Horror', 'Dragon', 'Bat', 'Crocodile', 'Fish', 'Construct', 'Angel', 'Imp', 'Mutant', 'Homunculus', 'Human', 'Knight', 'Cleric', 'Arcane', 'Kavu', 'Minotaur', 'Yeti', 'Beast', 'Frog', 'Eldrazi', 'Shapeshifter', 'Praetor', 'Ogre', 'Giant', 'Karn', 'Spider', 'Fungus', 'Drake', 'Lhurgoyf', 'Spirit', 'Phyrexian', 'Hydra', 'Shaman', 'Warrior', 'Drone', 'Wurm', 'Phoenix', 'Soldier', 'Insect', 'Wizard', 'Sphinx', 'Elf', 'Skeleton', 'Surrakar', 'Artificer', 'Bird', 'Berserker', 'Goblin', 'Golem', 'Aura'}
-Rarity: {'Uncommon', 'Common', 'Rare', 'Mythic'}
-Power: {'4', '7', '5', '12', '1', '*', '8', '2', '0', '15', '3', '6', '10'}
-Toughness: {'4', '7', '5', '12', '1', '*', '8', '2', '9', '0', '15', '3', '6', '1+*', '10'}
-Loyalty: {'4', '6'}
+Types: {'Tribal', 'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Phoenix', 'Bat', 'Homunculus', 'Giant', 'Cleric', 'Yeti', 'Karn', 'Elf', 'Vedalken', 'Fungus', 'Skeleton', 'Artificer', 'Myr', 'Aura', 'Cat', 'Bird', 'Hydra', 'Equipment', 'Construct', 'Praetor', 'Frog', 'Avatar', 'Surrakar', 'Dragon', 'Arcane', 'Spider', 'Incarnation', 'Druid', 'Drake', 'Minotaur', 'Human', 'Phyrexian', 'Vampire', 'Warrior', 'Elemental', 'Beast', 'Sphinx', 'Berserker', 'Kavu', 'Fish', 'Shapeshifter', 'Kor', 'Lhurgoyf', 'Tezzeret', 'Goblin', 'Faerie', 'Shaman', 'Mutant', 'Drone', 'Snake', 'Crocodile', 'Viashino', 'Angel', 'Golem', 'Wizard', 'Imp', 'Advisor', 'Eldrazi', 'Spirit', 'Ogre', 'Horror', 'Knight', 'Soldier', 'Wurm'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'10', '5', '*', '2', '6', '8', '4', '3', '7', '1', '12', '0', '15'}
+Toughness: {'10', '5', '*', '2', '6', '8', '4', '3', '7', '1', '1+*', '9', '0', '12', '15'}
+Loyalty: {'6', '4'}

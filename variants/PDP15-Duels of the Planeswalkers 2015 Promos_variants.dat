@@ -1,6 +1,6 @@
 CMC: {6.0}
-Colors: {'Green', 'Blue'}
-ColorIdentity: {'U', 'G'}
+Colors: {'G', 'U'}
+ColorIdentity: {'G', 'U'}
 Supertypes: set()
 Types: {'Creature'}
 Subtypes: {'Avatar'}

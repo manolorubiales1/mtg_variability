@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0}
+Colors: {'W', 'R', 'U'}
+ColorIdentity: {'W', 'R', 'U'}
+Supertypes: {'Legendary'}
+Types: {'Creature', 'Enchantment', 'Artifact'}
+Subtypes: {'Aura', 'Equipment', 'Beast', 'Wizard', 'Rabbit'}
+Rarity: {'Rare'}
+Power: {'0', '1'}
+Toughness: {'0', '3', '1'}
+Loyalty: set()

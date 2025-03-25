@@ -1,9 +1,9 @@
 CMC: {1.0}
-Colors: {'Red'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'R'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic'}
-Types: {'Instant', 'Land', 'Artifact'}
-Subtypes: {'Swamp', 'Mountain', 'Island', 'Forest', 'Plains'}
+Types: {'Land', 'Instant', 'Artifact'}
+Subtypes: {'Mountain', 'Forest', 'Swamp', 'Island', 'Plains'}
 Rarity: {'Rare'}
 Power: set()
 Toughness: set()

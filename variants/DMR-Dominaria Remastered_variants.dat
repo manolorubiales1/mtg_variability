@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 10.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'World', 'Basic', 'Legendary', 'Snow'}
+Types: {'Artifact', 'Land', 'Instant', 'Creature', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Treefolk', 'Nightmare', 'Thopter', 'Knight', 'Cleric', 'Giant', 'Jellyfish', 'Zombie', 'Centaur', 'Scout', 'Elf', 'Plains', 'Artificer', 'Aura', 'Cat', 'Lair', 'Bird', 'Bear', 'Eye', 'Barbarian', 'Minion', 'Construct', 'Frog', 'Assassin', 'Carrier', 'Spellshaper', 'Juggernaut', 'Soldier', 'Avatar', 'Dragon', 'Spider', 'Incarnation', 'Druid', 'Nomad', 'Human', 'Phyrexian', 'Merfolk', 'Warrior', 'Forest', 'Elemental', 'Beast', 'Wraith', 'Swamp', 'Sphinx', 'Demon', 'Dog', 'Shade', 'Crab', 'Kavu', 'Lhurgoyf', 'Goblin', 'Serpent', 'Faerie', 'Shaman', 'Gargoyle', 'Mountain', 'Mutant', 'Dinosaur', 'Golem', 'Mercenary', 'Wizard', 'Angel', 'Mystic', 'Spirit', 'Island', 'Drake', 'Horror', 'Wall', 'Elder'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '*', '2', '6', '4', '3', '7', '1', '0', '11'}
+Toughness: {'5', '*', '2', '6', '4', '3', '0', '1', '7', '11'}
+Loyalty: set()

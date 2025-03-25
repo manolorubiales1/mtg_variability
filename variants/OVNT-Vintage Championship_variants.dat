@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0}
-Colors: {'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Instant', 'Land', 'Sorcery', 'Artifact'}
+Types: {'Sorcery', 'Land', 'Instant', 'Artifact'}
 Subtypes: set()
-Rarity: {'Rare', 'Mythic'}
+Rarity: {'Rare', 'Mythic', 'Special'}
 Power: set()
 Toughness: set()
 Loyalty: set()

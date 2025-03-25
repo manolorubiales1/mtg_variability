@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0}
-Colors: {'Red', 'Black', 'Green', 'White'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'B', 'R'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: set()
-Types: {'Instant', 'Land', 'Creature'}
-Subtypes: {'Vampire', 'Warrior', 'Ally', 'Soldier', 'Elf', 'Human', 'Shaman'}
-Rarity: {'Rare', 'Common', 'Mythic'}
-Power: {'2', '0', '1'}
-Toughness: {'2', '1'}
+Types: {'Land', 'Creature', 'Instant'}
+Subtypes: {'Warrior', 'Elf', 'Vampire'}
+Rarity: {'Rare', 'Mythic', 'Common'}
+Power: {'2', '1'}
+Toughness: {'1'}
 Loyalty: set()

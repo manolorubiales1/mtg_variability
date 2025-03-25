@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'Snow', 'Legendary'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Plane', 'Enchantment', 'Phenomenon'}
+Subtypes: {'Thopter', 'Ergamon', 'Rogue', 'Centaur', 'Scout', 'Fox', 'Lorwyn', 'Kraken', 'Unicorn', 'Avatar', 'Shenmeng', 'Amonkhet', 'Arcane', 'Alara', 'Kaladesh', 'Warrior', 'Tarkir', 'Elemental', 'Saheeli', 'Equilor', 'New Phyrexia', 'Shapeshifter', 'Gremlin', 'Dominaria', 'Serpent', 'Mountain', 'Cridhe', 'Curse', 'Zombie', 'Kaldheim', 'The Abyss', 'Gobakhan', 'Artificer', 'Aura', 'Mirrodin', 'Bird', 'Mongseng', 'Theros', 'Fiora', 'Ally', 'Druid', 'Eldraine', 'Human', 'Merfolk', 'Vampire', 'Rath', 'Pirate', 'Citizen', 'Capenna', 'Innistrad', 'Monk', 'Shaman', 'Angel', 'Squid', 'Ravnica', 'Island', 'Horror', 'Echoir', 'Dwarf', 'Wurm', 'Phoenix', 'Ooze', 'Cleric', 'Giant', 'Vedalken', 'Kamigawa', 'Elspeth', 'Antausia', 'Zendikar', 'Vehicle', 'Phyrexian', 'Devil', 'Fabacin', 'Ranger', 'Ixalan', 'Monkey', 'Myr', 'Knight', 'Iquatana', 'Plant', 'Ikoria', 'Arcavios', 'Elf', 'Plains', 'Fungus', 'Zhalfir', 'Cat', 'God', 'Minion', 'Hydra', 'Equipment', 'Construct', 'Saga', 'Elephant', 'Dragon', 'Incarnation', 'Demon', 'Forest', 'Swamp', 'Sphinx', 'Dog', 'Orc', 'Kithkin', 'Elk', 'Gargantikar', 'Ir', 'Goblin', 'Faerie', 'Kylem', 'Assembly-Worker', 'Golem', 'Wizard', 'Archer', 'Spirit', 'Soldier'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'5', '*', '2', '6', '4', '3', '0', '9', '12', '1'}
+Toughness: {'5', '*', '2', '6', '4', '3', '0', '9', '1', '12', '7'}
+Loyalty: {'5', '4'}

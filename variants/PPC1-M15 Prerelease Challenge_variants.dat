@@ -1,5 +1,5 @@
 CMC: set()
-Colors: {'Black', 'Green'}
+Colors: {'G', 'B'}
 ColorIdentity: {'G', 'B'}
 Supertypes: {'Legendary'}
 Types: {'Planeswalker'}

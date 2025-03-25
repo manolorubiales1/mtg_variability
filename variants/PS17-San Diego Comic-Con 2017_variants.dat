@@ -1,10 +1,10 @@
 CMC: {2.0, 3.0, 4.0, 5.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
 Types: {'Planeswalker'}
-Subtypes: {'Jace', 'Nissa', 'Liliana', 'Chandra', 'Bolas', 'Gideon'}
+Subtypes: {'Gideon', 'Jace', 'Liliana', 'Chandra', 'Nissa', 'Bolas'}
 Rarity: {'Mythic'}
 Power: set()
 Toughness: set()
-Loyalty: {'4', '7', '5', 'X', '3'}
+Loyalty: {'5', 'X', '4', '3', '7'}

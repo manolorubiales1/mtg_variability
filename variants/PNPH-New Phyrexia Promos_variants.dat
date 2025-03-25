@@ -1,10 +1,10 @@
-CMC: {1.0, 2.0, 3.0, 4.0, 7.0}
-Colors: {'Red', 'Black', 'Blue'}
-ColorIdentity: {'R', 'U', 'B'}
+CMC: {1.0, 3.0, 4.0, 7.0}
+Colors: {'B', 'U'}
+ColorIdentity: {'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Instant', 'Creature', 'Artifact'}
-Subtypes: {'Myr', 'Praetor', 'Shapeshifter', 'Human', 'Cleric', 'Phyrexian'}
-Rarity: {'Uncommon', 'Common', 'Rare', 'Mythic'}
-Power: {'6', '5', '2', '0'}
-Toughness: {'6', '0', '1'}
+Types: {'Creature', 'Instant', 'Artifact'}
+Subtypes: {'Praetor', 'Phyrexian', 'Shapeshifter'}
+Rarity: {'Rare', 'Mythic', 'Common'}
+Power: {'6', '0'}
+Toughness: {'6', '0'}
 Loyalty: set()

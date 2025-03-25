@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 15.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'Basic', 'Snow', 'Legendary'}
+Types: {'Tribal', 'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Thopter', 'Aetherborn', 'Jellyfish', 'Rowan', 'Rogue', 'Fox', 'Scout', 'Naga', 'Background', 'Kraken', 'Bear', 'Praetor', 'Unicorn', 'Avatar', 'Warlock', 'Arcane', 'Badger', 'Hippogriff', 'Peasant', 'Warrior', 'Mole', 'Elemental', 'Beast', 'Noble', 'Minsc', 'Fish', 'Shapeshifter', 'Kor', 'Serpent', 'Mountain', 'Tiefling', 'Imp', 'Curse', 'Lizard', 'Bard', 'Treasure', 'Zombie', 'Hag', 'Artificer', 'Walrus', 'Aura', 'Bird', 'Vivien', 'Barbarian', 'Assassin', 'Ally', 'Druid', 'Human', 'Citizen', 'Vampire', 'Merfolk', 'Pirate', 'Azra', 'Crab', 'Whale', 'Scorpion', 'Monk', 'Shaman', 'Turtle', 'Angel', 'Squid', 'Ogre', 'Island', 'Horror', 'Elder', 'Dwarf', 'Bat', 'Phoenix', 'Ooze', 'Cleric', 'Giant', 'Skeleton', 'Elminster', 'Frog', 'Spider', 'Beholder', 'Vehicle', 'Phyrexian', 'Halfling', 'Pegasus', 'Class', 'Gate', 'Devil', 'Dryad', 'Ranger', 'Snake', 'Tasha', 'Leviathan', 'Gith', 'Knight', 'Kobold', 'Xenagos', 'Gnoll', 'Boar', 'Elf', 'Fungus', 'Plains', 'Will', 'Cat', 'God', 'Hydra', 'Equipment', 'Saga', 'Construct', 'Elephant', 'Dragon', 'Demon', 'Forest', 'Dog', 'Swamp', 'Orc', 'Kithkin', 'Berserker', 'Elk', 'Goblin', 'Faerie', 'Dinosaur', 'Dauthi', 'Golem', 'Wizard', 'Gnome', 'Spirit', 'Soldier'}
+Rarity: {'Rare', 'Mythic', 'Special', 'Common', 'Uncommon'}
+Power: {'10', '5', '*', '2', '6', '8', '4', '3', '0', '7', '1+*', '9', '1'}
+Toughness: {'10', '5', '8', '2', '6', '*', '4', '3', '0', '7', '1'}
+Loyalty: {'5', '4', '3'}

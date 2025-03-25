@@ -1,10 +1,10 @@
 CMC: {3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
 Types: {'Planeswalker'}
-Subtypes: {'Kaya', 'Jace', 'Tezzeret', 'Garruk', 'Sorin', 'Bolas', 'Nahiri', 'Vraska', 'Ajani', 'Teferi', 'Karn', 'Elspeth', 'Sarkhan', 'Liliana', 'Dack', 'Domri', 'Daretti', 'Ral', 'Ugin', 'Tamiyo', 'Jaya', 'Gideon'}
+Subtypes: {'Ral', 'Jaya', 'Nahiri', 'Karn', 'Vraska', 'Teferi', 'Ugin', 'Ajani', 'Elspeth', 'Gideon', 'Sarkhan', 'Domri', 'Jace', 'Sorin', 'Garruk', 'Daretti', 'Tamiyo', 'Tezzeret', 'Kaya', 'Liliana', 'Bolas', 'Dack'}
 Rarity: {'Mythic'}
 Power: set()
 Toughness: set()
-Loyalty: {'3', '4', '7', '5'}
+Loyalty: {'5', '4', '3', '7'}

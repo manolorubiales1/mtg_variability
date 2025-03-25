@@ -1,9 +1,9 @@
 CMC: set()
 Colors: set()
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic'}
 Types: {'Land'}
-Subtypes: {'Swamp', 'Mountain', 'Island', 'Forest', 'Plains'}
+Subtypes: {'Mountain', 'Forest', 'Swamp', 'Island', 'Plains'}
 Rarity: {'Common'}
 Power: set()
 Toughness: set()

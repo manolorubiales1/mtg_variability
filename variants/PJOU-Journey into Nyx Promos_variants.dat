@@ -1,10 +1,10 @@
 CMC: {3.0, 4.0, 5.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Creature', 'Artifact'}
-Subtypes: {'Dragon', 'Kraken', 'Human', 'Giant', 'Soldier', 'Spirit', 'Leech', 'Hydra'}
+Types: {'Creature', 'Enchantment', 'Artifact'}
+Subtypes: {'Human', 'Kraken', 'Hydra', 'Giant', 'Leech', 'Spirit', 'Dragon', 'Soldier'}
 Rarity: {'Rare', 'Uncommon'}
-Power: {'4', '5', '*', '2', '0', '6'}
-Toughness: {'4', '5', '*', '2', '0', '6'}
+Power: {'5', '*', '2', '6', '4', '0'}
+Toughness: {'5', '*', '2', '6', '4', '0'}
 Loyalty: set()

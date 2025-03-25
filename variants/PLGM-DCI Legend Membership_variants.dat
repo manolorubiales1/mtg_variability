@@ -1,5 +1,5 @@
 CMC: {2.0}
-Colors: {'Red', 'Blue'}
+Colors: {'R', 'U'}
 ColorIdentity: {'R', 'U'}
 Supertypes: set()
 Types: {'Instant'}

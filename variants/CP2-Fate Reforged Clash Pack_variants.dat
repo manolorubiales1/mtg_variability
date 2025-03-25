@@ -1,10 +1,10 @@
 CMC: {9.0, 3.0, 4.0}
-Colors: {'Black', 'Green', 'Blue'}
-ColorIdentity: {'U', 'G', 'B'}
+Colors: {'G', 'B', 'U'}
+ColorIdentity: {'G', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Instant', 'Creature', 'Artifact'}
-Subtypes: {'Centaur', 'Gorgon', 'Demon'}
+Types: {'Creature', 'Instant', 'Enchantment', 'Artifact'}
+Subtypes: {'Demon', 'Centaur', 'Gorgon'}
 Rarity: {'Rare'}
-Power: {'4', '2'}
-Toughness: {'4', '5'}
+Power: {'2', '4'}
+Toughness: {'5', '4'}
 Loyalty: set()

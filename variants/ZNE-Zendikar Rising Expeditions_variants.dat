@@ -1,6 +1,6 @@
 CMC: set()
 Colors: set()
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: set()
 Types: {'Land'}
 Subtypes: set()

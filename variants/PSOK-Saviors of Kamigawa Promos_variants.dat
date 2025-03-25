@@ -1,10 +1,10 @@
 CMC: {3.0, 5.0}
-Colors: {'Red', 'White'}
+Colors: {'W', 'R'}
 ColorIdentity: {'W', 'R'}
 Supertypes: {'Legendary'}
 Types: {'Creature'}
 Subtypes: {'Spirit'}
 Rarity: {'Rare', 'Uncommon'}
-Power: {'2', '*'}
-Toughness: {'1', '*'}
+Power: {'*', '2'}
+Toughness: {'*', '1'}
 Loyalty: set()

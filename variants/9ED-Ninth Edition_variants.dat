@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic'}
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Rabbit', 'Scout', 'Viashino', 'Rat', 'Equipment', 'Imp', 'Nightmare', 'Human', 'Djinn', 'Cleric', 'Yeti', 'Giant', 'Plant', 'Spider', 'Turtle', 'Spirit', 'Mine', 'Warrior', 'Wurm', 'Skeleton', 'Bird', 'Monkey', 'Elemental', 'Ranger', 'Assassin', 'Bear', 'Crocodile', 'Thopter', 'Horror', 'Tower', 'Wraith', 'Gnome', 'Minotaur', 'Shapeshifter', 'Ogre', 'Ape', 'Serpent', 'Urza’s', 'Elf', 'Goblin', 'Golem', 'Barbarian', 'Drone', 'Aura', 'Snake', 'Island', 'Horse', 'Bard', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Knight', 'Kraken', 'Phyrexian', 'Shaman', 'Octopus', 'Nomad', 'Forest', 'Insect', 'Berserker', 'Elephant', 'Druid', 'Orc', 'Egg', 'Pegasus', 'Lizard', 'Shade', 'Cat', 'Vampire', 'Fish', 'Angel', 'Demon', 'Archer', 'Kavu', 'Dog', 'Beast', 'Plains', 'Drake', 'Lhurgoyf', 'Monk', 'Mercenary', 'Rebel', 'Swamp', 'Soldier', 'Phoenix', 'Illusion', 'Wizard', 'Power-Plant'}
-Rarity: {'Uncommon', 'Common', 'Rare'}
-Power: {'4', '7', '5', '1', '8', '*', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '1', '8', '*', '2', '0', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Nightmare', 'Thopter', "Urza's", 'Scout', 'Kraken', 'Bear', 'Rat', 'Warrior', 'Elemental', 'Beast', 'Power-Plant', 'Fish', 'Shapeshifter', 'Serpent', 'Mountain', 'Imp', 'Viashino', 'Mercenary', 'Lizard', 'Bard', 'Djinn', 'Zombie', 'Aura', 'Bird', 'Barbarian', 'Assassin', 'Druid', 'Nomad', 'Human', 'Vampire', 'Specter', 'Shade', 'Lhurgoyf', 'Monk', 'Shaman', 'Drone', 'Turtle', 'Crocodile', 'Angel', 'Ogre', 'Island', 'Horror', 'Wurm', 'Phoenix', 'Cleric', 'Giant', 'Yeti', 'Skeleton', 'Spider', 'Phyrexian', 'Pegasus', 'Rebel', 'Wraith', 'Rabbit', 'Ranger', 'Octopus', 'Snake', 'Monkey', 'Knight', 'Ape', 'Plant', 'Egg', 'Illusion', 'Elf', 'Tower', 'Plains', 'Cat', 'Equipment', 'Elephant', 'Dragon', 'Minotaur', 'Mine', 'Demon', 'Forest', 'Dog', 'Swamp', 'Orc', 'Horse', 'Berserker', 'Kavu', 'Goblin', 'Golem', 'Wizard', 'Gnome', 'Spirit', 'Archer', 'Drake', 'Soldier'}
+Rarity: {'Common', 'Uncommon', 'Rare'}
+Power: {'5', '*', '2', '6', '8', '4', '3', '0', '7', '1'}
+Toughness: {'5', '*', '2', '6', '8', '4', '3', '0', '7', '1'}
 Loyalty: set()

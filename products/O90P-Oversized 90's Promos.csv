@@ -1,0 +1,10 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Serra Angel,5.0,['W'],['W'],None,['Creature'],['Angel'],Rare,O90P,4,4,None,"Flying, vigilance"
+Chaos Orb,2.0,None,None,None,['Artifact'],None,Rare,O90P,None,None,None,"{1}, {T}: If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least once during the flip, destroy all nontoken permanents it touches. Then destroy Chaos Orb."
+Hurloon Minotaur,3.0,['R'],['R'],None,['Creature'],['Minotaur'],Rare,O90P,2,3,None,None
+Shivan Dragon,6.0,['R'],['R'],None,['Creature'],['Dragon'],Rare,O90P,5,5,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.
+Jester's Cap,4.0,None,None,None,['Artifact'],None,Rare,O90P,None,None,None,"{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles."
+Thorn Elemental,7.0,['G'],['G'],None,['Creature'],['Elemental'],Rare,O90P,7,7,None,You may have Thorn Elemental assign its combat damage as though it weren't blocked.
+Incoming!,8.0,['G'],['G'],None,['Sorcery'],None,Rare,O90P,None,None,None,"Each player searches their library for any number of artifact, creature, enchantment, and/or land cards, puts them onto the battlefield, then shuffles."
+Black Lotus,0.0,None,None,None,['Artifact'],None,Rare,O90P,None,None,None,"{T}, Sacrifice Black Lotus: Add three mana of any one color."
+Juzám Djinn,4.0,['B'],['B'],None,['Creature'],['Djinn'],Rare,O90P,5,5,None,"At the beginning of your upkeep, Juzám Djinn deals 1 damage to you."

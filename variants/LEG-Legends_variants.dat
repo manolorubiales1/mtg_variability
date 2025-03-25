@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'World', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Hag', 'Nightstalker', 'Druid', 'Snake', 'Elemental', 'Advisor', 'Ooze', 'Faerie', 'Horse', 'Assassin', 'Pirate', 'Zombie', 'Cat', 'Dragon', 'Efreet', 'Horror', 'Bat', 'Fish', 'Satyr', 'Scorpion', 'Angel', 'Ouphe', 'Archer', 'Leviathan', 'Demon', 'Wolf', 'Minion', 'Slug', 'Boar', 'Knight', 'Human', 'Cleric', 'Gnome', 'Gorgon', 'Yeti', 'Beast', 'Eye', 'Shapeshifter', 'Giant', 'Wolverine', 'Ape', 'Elder', 'Fungus', 'Drake', 'Monk', 'Turtle', 'Spirit', 'Ox', 'Wall', 'Shaman', 'Warrior', 'Manticore', 'Wurm', 'Spawn', 'Nomad', 'Soldier', 'Elf', 'Insect', 'Wizard', 'Sphinx', 'Illusion', 'Phoenix', 'Rogue', 'Artificer', 'Bird', 'Kithkin', 'Berserker', 'Wombat', 'Werewolf', 'Kobold', 'Aura'}
-Rarity: {'Rare', 'Common', 'Uncommon'}
-Power: {'4', '7', '5', '*', '1', '8', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '*', '1', '2', '3', '6'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'Legendary', 'World'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Bat', 'Phoenix', 'Ooze', 'Illusion', 'Giant', 'Cleric', 'Zombie', 'Yeti', 'Rogue', 'Hag', 'Boar', 'Gorgon', 'Elf', 'Spawn', 'Wolf', 'Fungus', 'Ouphe', 'Artificer', 'Aura', 'Cat', 'Bird', 'Minion', 'Eye', 'Assassin', 'Werewolf', 'Ox', 'Soldier', 'Nightstalker', 'Dragon', 'Druid', 'Nomad', 'Manticore', 'Human', 'Efreet', 'Pirate', 'Warrior', 'Demon', 'Elemental', 'Beast', 'Sphinx', 'Horse', 'Wombat', 'Wall', 'Scorpion', 'Berserker', 'Kithkin', 'Fish', 'Shapeshifter', 'Monk', 'Wolverine', 'Faerie', 'Shaman', 'Satyr', 'Turtle', 'Snake', 'Advisor', 'Angel', 'Slug', 'Wizard', 'Gnome', 'Leviathan', 'Horror', 'Archer', 'Spirit', 'Drake', 'Knight', 'Ape', 'Elder', 'Kobold', 'Wurm'}
+Rarity: {'Rare', 'Uncommon', 'Common'}
+Power: {'5', '*', '2', '6', '8', '4', '3', '0', '1', '7'}
+Toughness: {'5', '*', '2', '6', '4', '3', '1', '7'}
 Loyalty: set()

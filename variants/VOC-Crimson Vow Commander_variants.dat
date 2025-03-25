@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Avatar', 'Island', 'Pegasus', 'Shade', 'Horse', 'Assassin', 'Pirate', 'Vampire', 'Horror', 'Dragon', 'Equipment', 'Mountain', 'Angel', 'Demon', 'Wolf', 'Nightmare', 'Human', 'Knight', 'Cleric', 'Shapeshifter', 'Noble', 'Plains', 'Spider', 'Spirit', 'Shaman', 'Warrior', 'Swamp', 'Soldier', 'Wizard', 'Dovin', 'Rogue', 'Berserker', 'Aura'}
-Rarity: {'Uncommon', 'Common', 'Rare', 'Mythic'}
-Power: {'4', '5', '1', '8', '2', '0', '3', '6'}
-Toughness: {'4', '5', '8', '1', '2', '0', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Planeswalker', 'Sorcery', 'Enchantment'}
+Subtypes: {'Nightmare', 'Cleric', 'Rogue', 'Wolf', 'Plains', 'Aura', 'Equipment', 'Assassin', 'Avatar', 'Dragon', 'Spider', 'Human', 'Vampire', 'Pegasus', 'Pirate', 'Warrior', 'Demon', 'Noble', 'Swamp', 'Shade', 'Berserker', 'Horse', 'Shapeshifter', 'Shaman', 'Mountain', 'Angel', 'Wizard', 'Dovin', 'Horror', 'Spirit', 'Island', 'Knight', 'Soldier'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '8', '2', '6', '4', '3', '0', '1'}
+Toughness: {'5', '8', '2', '6', '4', '3', '0', '1'}
 Loyalty: {'3'}

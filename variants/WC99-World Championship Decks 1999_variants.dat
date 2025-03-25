@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0}
-Colors: {'Red', 'Black', 'Green'}
-ColorIdentity: {'R', 'G', 'B'}
+Colors: {'G', 'B', 'R'}
+ColorIdentity: {'G', 'B', 'R'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Snake', 'Jackal', 'Cat', 'Rat', 'Dragon', 'Horror', 'Mountain', 'Masticore', 'Human', 'Knight', 'Golem', 'Gnome', 'Dog', 'Ape', 'Treefolk', 'Phyrexian', 'Swamp', 'Nomad', 'Forest', 'Elf', 'Insect', 'Wizard', 'Goblin', 'Carrier', 'Troll', 'Aura'}
-Rarity: {'Rare', 'Common', 'Uncommon'}
-Power: {'4', '5', '1', '2', '3', '6'}
-Toughness: {'4', '5', '1', '2', '3'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Treefolk', 'Elf', 'Troll', 'Aura', 'Cat', 'Rat', 'Carrier', 'Masticore', 'Dragon', 'Druid', 'Nomad', 'Jackal', 'Human', 'Phyrexian', 'Forest', 'Dog', 'Swamp', 'Goblin', 'Mountain', 'Snake', 'Golem', 'Wizard', 'Gnome', 'Horror', 'Knight', 'Ape'}
+Rarity: {'Common', 'Uncommon', 'Rare'}
+Power: {'5', '2', '6', '4', '3', '1'}
+Toughness: {'5', '2', '4', '3', '1'}
 Loyalty: set()

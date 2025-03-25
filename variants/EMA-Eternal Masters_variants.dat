@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Tribal', 'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Jace', 'Cephalid', 'Druid', 'Elemental', 'Egg', 'Spellshaper', 'Elk', 'Pegasus', 'Faerie', 'Incarnation', 'Ranger', 'Kor', 'Assassin', 'Zombie', 'Bear', 'Cat', 'Hellion', 'Vampire', 'Crocodile', 'Efreet', 'Thopter', 'Dragon', 'Horror', 'Construct', 'Pangolin', 'Leviathan', 'Angel', 'Archer', 'Demon', 'Minion', 'Nightmare', 'Mutant', 'Boar', 'Human', 'Cleric', 'Knight', 'Gnome', 'Gorgon', 'Merfolk', 'Barbarian', 'Beast', 'Shapeshifter', 'Noble', 'Jellyfish', 'Giant', 'Ape', 'Spider', 'Drake', 'Monk', 'Turtle', 'Dack', 'Rebel', 'Spirit', 'Flagbearer', 'Phyrexian', 'Wall', 'Shaman', 'Warrior', 'Nomad', 'Centaur', 'Soldier', 'Elf', 'Sphinx', 'Insect', 'Wizard', 'Illusion', 'Mongoose', 'Rogue', 'Berserker', 'Bird', 'Shrine', 'Goblin', 'Kithkin', 'Fox', 'Juggernaut', 'Aura'}
-Rarity: {'Rare', 'Common', 'Mythic', 'Uncommon'}
-Power: {'4', '7', '5', '1', '8', '*', '2', '0', '3', '6'}
-Toughness: {'4', '11', '7', '5', '1', '*', '2', '0', '3', '6'}
+Types: {'Tribal', 'Artifact', 'Land', 'Instant', 'Creature', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Egg', 'Nightmare', 'Thopter', 'Illusion', 'Knight', 'Cleric', 'Jellyfish', 'Giant', 'Zombie', 'Rogue', 'Boar', 'Centaur', 'Fox', 'Gorgon', 'Elf', 'Aura', 'Cat', 'Shrine', 'Bird', 'Bear', 'Minion', 'Barbarian', 'Flagbearer', 'Construct', 'Assassin', 'Spellshaper', 'Juggernaut', 'Soldier', 'Dragon', 'Spider', 'Incarnation', 'Druid', 'Nomad', 'Cephalid', 'Jace', 'Human', 'Phyrexian', 'Efreet', 'Vampire', 'Pegasus', 'Rebel', 'Warrior', 'Demon', 'Elemental', 'Beast', 'Noble', 'Sphinx', 'Pangolin', 'Kithkin', 'Berserker', 'Elk', 'Shapeshifter', 'Ape', 'Monk', 'Kor', 'Goblin', 'Ranger', 'Faerie', 'Hellion', 'Shaman', 'Merfolk', 'Mutant', 'Turtle', 'Crocodile', 'Angel', 'Wizard', 'Leviathan', 'Gnome', 'Mongoose', 'Spirit', 'Archer', 'Drake', 'Horror', 'Wall', 'Dack'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '8', '2', '6', '*', '4', '3', '0', '1', '7'}
+Toughness: {'5', '*', '2', '6', '4', '3', '0', '1', '7', '11'}
 Loyalty: {'3'}

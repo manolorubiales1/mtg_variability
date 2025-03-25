@@ -2,7 +2,7 @@ CMC: set()
 Colors: set()
 ColorIdentity: set()
 Supertypes: set()
-Types: {'Enchantment', 'Sorcery'}
+Types: {'Sorcery', 'Enchantment'}
 Subtypes: set()
 Rarity: {'Common'}
 Power: set()

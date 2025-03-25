@@ -1,10 +1,10 @@
-CMC: {1.0, 2.0, 4.0, 5.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+CMC: set()
+Colors: set()
+ColorIdentity: set()
 Supertypes: set()
-Types: {'Instant', 'Land', 'Creature', 'Artifact'}
-Subtypes: {'Beast', 'Warrior', 'Wurm', 'Druid', 'Elf', 'Wizard', 'Treefolk', 'Goblin', 'Zombie'}
-Rarity: {'Rare'}
-Power: {'4', '5', '1', '*', '2'}
-Toughness: {'4', '1', '5', '*'}
+Types: set()
+Subtypes: set()
+Rarity: set()
+Power: set()
+Toughness: set()
 Loyalty: set()

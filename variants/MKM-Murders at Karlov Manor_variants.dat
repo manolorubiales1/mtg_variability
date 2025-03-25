@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 11.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Thopter', 'Rogue', 'Centaur', 'Scout', 'Gorgon', 'Troll', 'Detective', 'Lammasu', 'Unicorn', 'Avatar', 'Thrull', 'Warrior', 'Mole', 'Elemental', 'Leech', 'Beast', 'Fish', 'Shapeshifter', 'Gargoyle', 'Mountain', 'Viashino', 'Wall', 'Bard', 'Zombie', 'Wolf', 'Artificer', 'Aura', 'Bird', 'Assassin', 'Druid', 'Human', 'Citizen', 'Vampire', 'Merfolk', 'Weird', 'Hellion', 'Shaman', 'Turtle', 'Crocodile', 'Angel', 'Ogre', 'Island', 'Horror', 'Wurm', 'Phoenix', 'Ooze', 'Giant', 'Cleric', 'Vedalken', 'Skeleton', 'Clue', 'Spider', 'Vehicle', 'Devil', 'Dryad', 'Octopus', 'Food', 'Ape', 'Plant', 'Case', 'Homunculus', 'Elf', 'Plains', 'Cat', 'Goat', 'God', 'Equipment', 'Construct', 'Elephant', 'Soldier', 'Cyclops', 'Dragon', 'Demon', 'Forest', 'Dog', 'Swamp', 'Sphinx', 'Elk', 'Goblin', 'Faerie', 'Kaya', 'Advisor', 'Golem', 'Wizard', 'Spirit', 'Archer', 'Drake', 'Archon'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'5', '8', '2', '*', '6', '4', '3', '0', '1'}
+Toughness: {'10', '5', '*', '2', '6', '4', '3', '0', '7', '1', '15'}
+Loyalty: {'3'}

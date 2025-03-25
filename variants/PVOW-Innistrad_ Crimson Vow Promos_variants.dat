@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Kaya', 'Ranger', 'Sorin', 'Zombie', 'Vampire', 'Horror', 'Dragon', 'Demon', 'Curse', 'Wolf', 'Slug', 'Human', 'Cleric', 'Knight', 'Clue', 'Beast', 'Eye', 'Kraken', 'Frog', 'Noble', 'Plant', 'Spirit', 'Chandra', 'Peasant', 'Shaman', 'Warrior', 'Soldier', 'Wizard', 'Rogue', 'Warlock', 'Werewolf', 'Aura'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Planeswalker', 'Sorcery', 'Enchantment'}
+Subtypes: {'Cleric', 'Zombie', 'Rogue', 'Wolf', 'Aura', 'Kraken', 'Frog', 'Werewolf', 'Warlock', 'Clue', 'Dragon', 'Human', 'Peasant', 'Vampire', 'Warrior', 'Demon', 'Noble', 'Beast', 'Sorin', 'Wall', 'Ranger', 'Shaman', 'Kaya', 'Advisor', 'Chandra', 'Slug', 'Wizard', 'Horror', 'Spirit', 'Knight', 'Soldier', 'Curse', 'Plant'}
 Rarity: {'Rare', 'Mythic'}
-Power: {'4', '7', '5', '1', '8', '*', '2', '3', '6'}
-Toughness: {'4', '7', '5', '1', '8', '*', '2', '3', '6'}
-Loyalty: {'3', '4'}
+Power: {'5', '*', '2', '6', '4', '3', '0', '7', '1'}
+Toughness: {'5', '*', '2', '6', '8', '4', '3', '0', '7', '1'}
+Loyalty: {'4', '3'}

@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Ooze', 'Faerie', 'Ellywick', 'Equipment', 'Citizen', 'Human', 'Cleric', 'Djinn', 'Frog', 'Giant', 'Spider', 'Turtle', 'Spirit', 'Wall', 'Warrior', 'Skeleton', 'Bird', 'Troll', 'Mordenkainen', 'Halfling', 'Class', 'Elemental', 'Ranger', 'Basilisk', 'Bear', 'Horror', 'Gargoyle', 'God', 'Gnome', 'Worm', 'Treasure', 'Ogre', 'Zariel', 'Bahamut', 'Tiefling', 'Elf', 'Rogue', 'Warlock', 'Dryad', 'Goblin', 'Golem', 'Barbarian', 'Dwarf', 'Aura', 'Snake', 'Island', 'Bard', 'Zombie', 'Dragon', 'Mountain', 'Knight', 'Devil', 'Jellyfish', 'Dinosaur', 'Shaman', 'Forest', 'Artificer', 'Werewolf', 'Beholder', 'Druid', 'Orc', 'Pegasus', 'Lizard', 'Cat', 'Vampire', 'Lolth', 'Angel', 'Demon', 'Wolf', 'Dog', 'Beast', 'Plains', 'Monk', 'Gnoll', 'Unicorn', 'Swamp', 'Manticore', 'Soldier', 'Wizard', 'Kobold'}
-Rarity: {'Uncommon', 'Common', 'Mythic', 'Rare'}
-Power: {'4', '7', '5', '1', '8', '2', '0', '3', '6', '10'}
-Toughness: {'4', '7', '5', '1', '2', '0', '3', '6', '10'}
-Loyalty: {'3', '4', '5'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Jellyfish', 'Rogue', 'Worm', 'Troll', 'Bear', 'Werewolf', 'Unicorn', 'Warlock', 'Ellywick', 'Basilisk', 'Warrior', 'Elemental', 'Beast', 'Gargoyle', 'Mountain', 'Tiefling', 'Wall', 'Lizard', 'Bard', 'Treasure', 'Djinn', 'Zombie', 'Zariel', 'Wolf', 'Artificer', 'Aura', 'Bird', 'Barbarian', 'Lolth', 'Druid', 'Manticore', 'Human', 'Citizen', 'Vampire', 'Monk', 'Shaman', 'Turtle', 'Angel', 'Ogre', 'Island', 'Horror', 'Dwarf', 'Ooze', 'Cleric', 'Giant', 'Skeleton', 'Frog', 'Spider', 'Beholder', 'Halfling', 'Pegasus', 'Class', 'Devil', 'Dryad', 'Bahamut', 'Ranger', 'Snake', 'Knight', 'Kobold', 'Gnoll', 'Elf', 'Plains', 'Mordenkainen', 'Cat', 'God', 'Equipment', 'Dragon', 'Demon', 'Forest', 'Dog', 'Swamp', 'Orc', 'Goblin', 'Faerie', 'Dinosaur', 'Golem', 'Wizard', 'Gnome', 'Spirit', 'Soldier'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'10', '5', '8', '2', '6', '4', '3', '7', '1', '0'}
+Toughness: {'10', '5', '2', '6', '4', '3', '0', '7', '1'}
+Loyalty: {'5', '4', '3'}

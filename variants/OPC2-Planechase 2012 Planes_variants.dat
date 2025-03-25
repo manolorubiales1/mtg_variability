@@ -2,8 +2,8 @@ CMC: set()
 Colors: set()
 ColorIdentity: {'R'}
 Supertypes: set()
-Types: {'Phenomenon', 'Plane'}
-Subtypes: {'Mirrodin', 'Fabacin', 'New Phyrexia', 'Kamigawa', 'Belenon', 'Regatha', 'Kyneth', 'Innistrad', 'Kephalai', 'Zendikar', 'Alara', 'Vryn', 'Mongseng', 'Azgol', 'Kolbahan', 'Dominaria', 'Equilor', 'Ravnica', 'Lorwyn', 'Shandalar', 'Ergamon'}
+Types: {'Plane', 'Phenomenon'}
+Subtypes: {'Ergamon', 'Regatha', 'Lorwyn', 'Mirrodin', 'Mongseng', 'Belenon', 'Kolbahan', 'Kamigawa', 'Zendikar', 'Vryn', 'Alara', 'Azgol', 'Kyneth', 'Fabacin', 'Equilor', 'Innistrad', 'New Phyrexia', 'Kephalai', 'Dominaria', 'Shandalar', 'Ravnica'}
 Rarity: {'Common'}
 Power: set()
 Toughness: set()

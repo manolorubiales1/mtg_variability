@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Rabbit', 'Scout', 'Faerie', 'Whale', 'Equipment', 'Efreet', 'Imp', 'Nightmare', 'Masticore', 'Human', 'Djinn', 'Cleric', 'Noble', 'Giant', 'Spirit', 'Griffin', 'Wall', 'Warrior', 'Wurm', 'Bird', 'Carrier', 'Atog', 'Jace', 'Elemental', 'Hellion', 'Horror', 'Thopter', 'Mutant', 'Boar', 'Merfolk', 'Shapeshifter', 'Ape', 'Dack', 'Elf', 'Rogue', 'Goblin', 'Golem', 'Barbarian', 'Aura', 'Nightstalker', 'Snake', 'Island', 'Advisor', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Soltari', 'Knight', 'Gorgon', 'Dauthi', 'Jellyfish', 'Phyrexian', 'Nomad', 'Forest', 'Insect', 'Thalakos', 'Artificer', 'Druid', 'Orc', 'Spellshaper', 'Lizard', 'Incarnation', 'Cat', 'Vampire', 'Construct', 'Angel', 'Kavu', 'Dog', 'Beast', 'Plains', 'Drake', 'Mercenary', 'Mystic', 'Swamp', 'Soldier', 'Illusion', 'Wizard'}
-Rarity: {'Common', 'Uncommon', 'Rare', 'Bonus', 'Mythic'}
-Power: {'4', '7', '5', '1', '8', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '1', '2', '0', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Nightmare', 'Thopter', 'Jellyfish', 'Rogue', 'Scout', 'Gorgon', 'Atog', 'Nightstalker', 'Soltari', 'Jace', 'Warrior', 'Elemental', 'Noble', 'Beast', 'Shapeshifter', 'Mountain', 'Imp', 'Mercenary', 'Wall', 'Efreet', 'Dack', 'Lizard', 'Djinn', 'Zombie', 'Artificer', 'Aura', 'Bird', 'Barbarian', 'Spellshaper', 'Masticore', 'Druid', 'Nomad', 'Human', 'Merfolk', 'Vampire', 'Specter', 'Whale', 'Hellion', 'Angel', 'Island', 'Horror', 'Thalakos', 'Wurm', 'Cleric', 'Giant', 'Carrier', 'Phyrexian', 'Rabbit', 'Snake', 'Knight', 'Ape', 'Griffin', 'Illusion', 'Boar', 'Elf', 'Plains', 'Cat', 'Equipment', 'Construct', 'Dragon', 'Incarnation', 'Forest', 'Swamp', 'Dog', 'Orc', 'Kavu', 'Goblin', 'Faerie', 'Mutant', 'Dauthi', 'Advisor', 'Golem', 'Mystic', 'Wizard', 'Spirit', 'Drake', 'Soldier'}
+Rarity: {'Rare', 'Mythic', 'Bonus', 'Common', 'Uncommon'}
+Power: {'5', '8', '2', '6', '4', '3', '0', '1', '7'}
+Toughness: {'5', '2', '6', '4', '3', '0', '1', '7'}
 Loyalty: {'3'}

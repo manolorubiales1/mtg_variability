@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 10.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic'}
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Cockatrice', 'Faerie', 'Pirate', 'Rat', 'Efreet', 'Imp', 'Nightmare', 'Human', 'Djinn', 'Cleric', 'Giant', 'Plant', 'Spider', 'Treefolk', 'Spirit', 'Wall', 'Hydra', 'Warrior', 'Wurm', 'Skeleton', 'Bird', 'Troll', 'Atog', 'Elemental', 'Assassin', 'Basilisk', 'Bear', 'Thopter', 'Gargoyle', 'Wraith', 'Minotaur', 'Merfolk', 'Shapeshifter', 'Ogre', 'Ape', 'Fungus', 'Serpent', 'Elf', 'Dryad', 'Goblin', 'Golem', 'Barbarian', 'Dwarf', 'Aura', 'Island', 'Horse', 'Zombie', 'Specter', 'Dragon', 'Mountain', 'Knight', 'Dinosaur', 'Forest', 'Artificer', 'Elephant', 'Juggernaut', 'Druid', 'Avatar', 'Orc', 'Pegasus', 'Shade', 'Incarnation', 'Cat', 'Vampire', 'Fish', 'Construct', 'Angel', 'Demon', 'Archer', 'Wolf', 'Beast', 'Plains', 'Unicorn', 'Swamp', 'Illusion', 'Soldier', 'Wizard', 'Nymph'}
-Rarity: {'Rare', 'Common', 'Uncommon'}
-Power: {'4', '7', '5', '1', '*', '8', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '8', '1', '*', '2', '0', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Nightmare', 'Thopter', 'Atog', 'Troll', 'Bear', 'Rat', 'Unicorn', 'Avatar', 'Basilisk', 'Warrior', 'Elemental', 'Beast', 'Fish', 'Shapeshifter', 'Serpent', 'Gargoyle', 'Mountain', 'Imp', 'Efreet', 'Wall', 'Treefolk', 'Djinn', 'Zombie', 'Wolf', 'Artificer', 'Aura', 'Bird', 'Barbarian', 'Assassin', 'Juggernaut', 'Druid', 'Human', 'Merfolk', 'Vampire', 'Pirate', 'Specter', 'Shade', 'Angel', 'Ogre', 'Island', 'Dwarf', 'Wurm', 'Cleric', 'Giant', 'Skeleton', 'Nymph', 'Spider', 'Pegasus', 'Wraith', 'Dryad', 'Cockatrice', 'Knight', 'Ape', 'Plant', 'Illusion', 'Elf', 'Plains', 'Fungus', 'Cat', 'Hydra', 'Construct', 'Elephant', 'Dragon', 'Incarnation', 'Minotaur', 'Demon', 'Forest', 'Swamp', 'Orc', 'Horse', 'Goblin', 'Faerie', 'Dinosaur', 'Golem', 'Wizard', 'Spirit', 'Archer', 'Soldier'}
+Rarity: {'Common', 'Uncommon', 'Rare'}
+Power: {'5', '*', '2', '6', '8', '4', '3', '0', '1', '7'}
+Toughness: {'5', '*', '2', '6', '8', '4', '3', '0', '1', '7'}
 Loyalty: set()

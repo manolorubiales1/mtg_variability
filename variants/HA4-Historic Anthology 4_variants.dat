@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Snow', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Beast', 'Horror', 'Warrior', 'Crocodile', 'Avatar', 'Crab', 'Equipment', 'Soldier', 'Elf', 'Demon', 'Curse', 'Elephant', 'Jackal', 'Goblin', 'Human', 'Zombie', 'Cat', 'Aura'}
-Rarity: {'Uncommon', 'Common', 'Rare', 'Mythic'}
-Power: {'13', '5', '1', '*', '0', '3', '6'}
-Toughness: {'13', '4', '5', '1', '*', '2', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Aura', 'Cat', 'Jackal', 'Goblin', 'Human', 'Equipment', 'Warrior', 'Demon', 'Elephant', 'Beast', 'Zombie', 'Crocodile', 'Avatar', 'Elf', 'Crab', 'Horror', 'Soldier', 'Curse'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'13', '5', '*', '6', '3', '1', '0'}
+Toughness: {'13', '5', '*', '2', '6', '4', '3', '1'}
 Loyalty: set()

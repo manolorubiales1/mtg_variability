@@ -1,0 +1,10 @@
+CMC: {2.0, 5.0}
+Colors: {'U'}
+ColorIdentity: {'U'}
+Supertypes: {'Legendary'}
+Types: {'Creature', 'Artifact'}
+Subtypes: {'Designer', 'Human'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'2'}
+Toughness: {'2'}
+Loyalty: set()

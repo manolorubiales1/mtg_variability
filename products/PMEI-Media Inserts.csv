@@ -1,42 +1,62 @@
 Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Darksteel Juggernaut,5.0,None,None,None,"['Artifact', 'Creature']",['Juggernaut'],Rare,PMEI,*,*,None,Indestructible\nDarksteel Juggernaut's power and toughness are each equal to the number of artifacts you control.\nDarksteel Juggernaut attacks each combat if able.
-Crop Rotation,1.0,['Green'],['G'],None,['Instant'],None,Rare,PMEI,None,None,None,"As an additional cost to cast this spell, sacrifice a land.\nSearch your library for a land card, put that card onto the battlefield, then shuffle."
-Phantasmal Dragon,4.0,['Blue'],['U'],None,['Creature'],"['Dragon', 'Illusion']",Uncommon,PMEI,5,5,None,"Flying\nWhen Phantasmal Dragon becomes the target of a spell or ability, sacrifice it."
-Duress,1.0,['Black'],['B'],None,['Sorcery'],None,Rare,PMEI,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
-Cast Down,2.0,['Black'],['B'],None,['Instant'],None,Uncommon,PMEI,None,None,None,Destroy target nonlegendary creature.
-Shock,1.0,['Red'],['R'],None,['Instant'],None,Rare,PMEI,None,None,None,Shock deals 2 damage to any target.
-Lava Coil,2.0,['Red'],['R'],None,['Sorcery'],None,Uncommon,PMEI,None,None,None,"Lava Coil deals 4 damage to target creature. If that creature would die this turn, exile it instead."
-Hypnotic Sprite // Mesmeric Glare,2.0,['Blue'],['U'],None,['Creature'],['Faerie'],Rare,PMEI,2,1,None,Flying
-Warmonger,4.0,['Red'],['R'],None,['Creature'],"['Minotaur', 'Monger']",Uncommon,PMEI,3,3,None,{2}: Warmonger deals 1 damage to each creature without flying and each player. Any player may activate this ability.
-Diabolic Edict,2.0,['Black'],['B'],None,['Instant'],None,Rare,PMEI,None,None,None,Target player sacrifices a creature.
-Shivan Dragon,6.0,['Red'],['R'],None,['Creature'],['Dragon'],Rare,PMEI,5,5,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.
-Counterspell,2.0,['Blue'],['U'],None,['Instant'],None,Rare,PMEI,None,None,None,Counter target spell.
-Phyrexian Rager,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Common,PMEI,2,2,None,"When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life."
-Shrieking Drake,1.0,['Blue'],['U'],None,['Creature'],['Drake'],Common,PMEI,1,1,None,"Flying\nWhen Shrieking Drake enters the battlefield, return a creature you control to its owner's hand."
-Ascendant Evincar,6.0,['Black'],['B'],['Legendary'],['Creature'],"['Phyrexian', 'Vampire', 'Noble']",Rare,PMEI,3,3,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nOther black creatures get +1/+1.\nNonblack creatures get -1/-1.
-Archangel,7.0,['White'],['W'],None,['Creature'],['Angel'],Rare,PMEI,5,5,None,"Flying, vigilance"
-Sprite Dragon,2.0,"['Red', 'Blue']","['R', 'U']",None,['Creature'],"['Faerie', 'Dragon']",Rare,PMEI,1,1,None,"Flying, haste\nWhenever you cast a noncreature spell, put a +1/+1 counter on Sprite Dragon."
-Parallax Dementia,2.0,['Black'],['B'],None,['Enchantment'],['Aura'],Common,PMEI,None,None,None,"Enchant creature\nFading 1 (This enchantment enters the battlefield with one fade counter on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nEnchanted creature gets +3/+2.\nWhen Parallax Dementia leaves the battlefield, destroy enchanted creature. That creature can't be regenerated."
-Thorn Elemental,7.0,['Green'],['G'],None,['Creature'],['Elemental'],Rare,PMEI,7,7,None,You may have Thorn Elemental assign its combat damage as though it weren't blocked.
-Silver Drake,3.0,"['Blue', 'White']","['U', 'W']",None,['Creature'],['Drake'],Common,PMEI,3,3,None,"Flying\nWhen Silver Drake enters the battlefield, return a white or blue creature you control to its owner's hand."
-Tangled Florahedron // Tangled Vale,2.0,['Green'],['G'],None,['Creature'],['Elemental'],Uncommon,PMEI,1,1,None,{T}: Add {G}.
-Jamuraan Lion,3.0,['White'],['W'],None,['Creature'],['Cat'],Common,PMEI,3,1,None,"{W}, {T}: Target creature can't block this turn."
-Blue Elemental Blast,1.0,['Blue'],['U'],None,['Instant'],None,Common,PMEI,None,None,None,Choose one —\n• Counter target red spell.\n• Destroy target red permanent.
-Stream of Life,1.0,['Green'],['G'],None,['Sorcery'],None,Common,PMEI,None,None,None,Target player gains X life.
-Chandra's Spitfire,3.0,['Red'],['R'],None,['Creature'],['Elemental'],Uncommon,PMEI,1,3,None,"Flying\nWhenever an opponent is dealt noncombat damage, Chandra's Spitfire gets +3/+0 until end of turn."
-Kuldotha Phoenix,5.0,['Red'],['R'],None,['Creature'],['Phoenix'],Rare,PMEI,4,4,None,"Flying, haste\nMetalcraft — {4}: Return Kuldotha Phoenix from your graveyard to the battlefield. Activate only during your upkeep and only if you control three or more artifacts."
-Sandbar Crocodile,5.0,['Blue'],['U'],None,['Creature'],['Crocodile'],Common,PMEI,6,5,None,"Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)"
-Zhalfirin Knight,3.0,['White'],['W'],None,['Creature'],"['Human', 'Knight']",Common,PMEI,2,2,None,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{W}{W}: Zhalfirin Knight gains first strike until end of turn."
-Dark Ritual,1.0,['Black'],['B'],None,['Instant'],None,Rare,PMEI,None,None,None,Add {B}{B}{B}.
-Fireball,1.0,['Red'],['R'],None,['Sorcery'],None,Common,PMEI,None,None,None,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets."
-Spined Wurm,5.0,['Green'],['G'],None,['Creature'],['Wurm'],Common,PMEI,5,4,None,None
-Staggering Insight,2.0,"['Blue', 'White']","['U', 'W']",None,['Enchantment'],['Aura'],Rare,PMEI,None,None,None,"Enchant creature\nEnchanted creature gets +1/+1 and has lifelink and ""Whenever this creature deals combat damage to a player, draw a card."""
-Lightning Hounds,4.0,['Red'],['R'],None,['Creature'],['Dog'],Common,PMEI,3,2,None,First strike
-Heliod's Pilgrim,3.0,['White'],['W'],None,['Creature'],"['Human', 'Cleric']",Rare,PMEI,1,2,None,"When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle."
-Scent of Cinder,2.0,['Red'],['R'],None,['Sorcery'],None,Common,PMEI,None,None,None,"Reveal any number of red cards in your hand. Scent of Cinder deals X damage to any target, where X is the number of cards revealed this way."
-"Daxos, Blessed by the Sun",2.0,['White'],['W'],['Legendary'],"['Enchantment', 'Creature']",['Demigod'],Uncommon,PMEI,2,*,None,"Daxos's toughness is equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)\nWhenever another creature you control enters the battlefield or dies, you gain 1 life."
+"Saryth, the Viper's Fang",4.0,['G'],['G'],['Legendary'],['Creature'],"['Human', 'Warlock']",Rare,PMEI,3,4,None,"Other tapped creatures you control have deathtouch.\nOther untapped creatures you control have hexproof.\n{1}, {T}: Untap another target creature or land you control."
+Sleight of Hand,1.0,['U'],['U'],None,['Sorcery'],None,Rare,PMEI,None,None,None,Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+Lay Down Arms,1.0,['W'],['W'],None,['Sorcery'],None,Rare,PMEI,None,None,None,Exile target creature with mana value less than or equal to the number of Plains you control. Its controller gains 3 life.
+Shield Wall,2.0,['W'],['W'],None,['Instant'],None,Common,PMEI,None,None,None,Creatures you control get +0/+2 until end of turn.
+"Raiyuu, Storm's Edge",4.0,"['R', 'W']","['R', 'W']",['Legendary'],['Creature'],"['Human', 'Samurai']",Rare,PMEI,3,3,None,"First strike\nWhenever a Samurai or Warrior you control attacks alone, untap it. If it's the first combat phase of the turn, there is an additional combat phase after this phase."
+Snuff Out,4.0,['B'],['B'],None,['Instant'],None,Rare,PMEI,None,None,None,"If you control a Swamp, you may pay 4 life rather than pay this spell's mana cost.\nDestroy target nonblack creature. It can't be regenerated."
+Talruum Champion,5.0,['R'],['R'],None,['Creature'],['Minotaur'],Common,PMEI,3,3,None,"First strike\nWhenever Talruum Champion blocks or becomes blocked by a creature, that creature loses first strike until end of turn."
+"Goro-Goro, Disciple of Ryusei",2.0,['R'],['R'],['Legendary'],['Creature'],"['Goblin', 'Samurai']",Rare,PMEI,2,2,None,"{R}: Creatures you control gain haste until end of turn.\n{3}{R}{R}: Create a 5/5 red Dragon Spirit creature token with flying. Activate only if you control an attacking modified creature. (Equipment, Auras you control, and counters are modifications.)"
+Winged Boots,2.0,['U'],['U'],None,['Artifact'],['Equipment'],Rare,PMEI,None,None,None,"Equipped creature has flying and ward {4}. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}.)\nEquip {1}"
+Culling the Weak,1.0,['B'],['B'],None,['Instant'],None,Rare,PMEI,None,None,None,"As an additional cost to cast this spell, sacrifice a creature.\nAdd {B}{B}{B}{B}."
+Avalanche Riders,4.0,['R'],['R'],None,['Creature'],"['Human', 'Nomad']",Rare,PMEI,2,2,None,"Haste\nEcho {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Avalanche Riders enters the battlefield, destroy target land."
+Pyromancer's Gauntlet,5.0,None,None,None,['Artifact'],None,Rare,PMEI,None,None,None,"If a red instant or sorcery spell you control or a red planeswalker you control would deal damage to a permanent or player, it deals that much damage plus 2 to that permanent or player instead."
+Ruin Crab,1.0,['U'],['U'],None,['Creature'],['Crab'],Rare,PMEI,0,3,None,"Landfall — Whenever a land enters the battlefield under your control, each opponent mills three cards. (To mill a card, a player puts the top card of their library into their graveyard.)"
+Gingerbrute,1.0,None,None,None,"['Artifact', 'Creature']","['Food', 'Golem']",Rare,PMEI,1,1,None,"Haste\n{1}: Gingerbrute can't be blocked this turn except by creatures with haste.\n{2}, {T}, Sacrifice Gingerbrute: You gain 3 life."
+Mental Misstep,1.0,['U'],['U'],None,['Instant'],None,Rare,PMEI,None,None,None,({U/P} can be paid with either {U} or 2 life.)\nCounter target spell with mana value 1.
+Worn Powerstone,3.0,None,None,None,['Artifact'],None,Rare,PMEI,None,None,None,Worn Powerstone enters the battlefield tapped.\n{T}: Add {C}{C}.
+Frantic Search,3.0,['U'],['U'],None,['Instant'],None,Rare,PMEI,None,None,None,"Draw two cards, then discard two cards. Untap up to three lands."
+"Harald, King of Skemfar",3.0,"['B', 'G']","['B', 'G']",['Legendary'],['Creature'],"['Elf', 'Warrior']",Rare,PMEI,3,2,None,"Menace (This creature can't be blocked except by two or more creatures.)\nWhen Harald, King of Skemfar enters the battlefield, look at the top five cards of your library. You may reveal an Elf, Warrior, or Tyvar card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+Usher of the Fallen,1.0,['W'],['W'],None,['Creature'],"['Spirit', 'Warrior']",Rare,PMEI,2,1,None,Boast — {1}{W}: Create a 1/1 white Human Warrior creature token. (Activate only if this creature attacked this turn and only once each turn.)
+Wild Growth,1.0,['G'],['G'],None,['Enchantment'],['Aura'],Rare,PMEI,None,None,None,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional {G}."
+Bone Shredder,3.0,['B'],['B'],None,['Creature'],"['Phyrexian', 'Minion']",Rare,PMEI,1,1,None,"Flying\nEcho {2}{B} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Bone Shredder enters the battlefield, destroy target nonartifact, nonblack creature."
+Disenchant,2.0,['W'],['W'],None,['Instant'],None,Rare,PMEI,None,None,None,Destroy target artifact or enchantment.
+Counterspell,2.0,['U'],['U'],None,['Instant'],None,Rare,PMEI,None,None,None,Counter target spell.
+Tangled Florahedron // Tangled Vale,2.0,['G'],['G'],None,['Creature'],['Elemental'],Uncommon,PMEI,1,1,None,{T}: Add {G}.
+Crop Rotation,1.0,['G'],['G'],None,['Instant'],None,Rare,PMEI,None,None,None,"As an additional cost to cast this spell, sacrifice a land.\nSearch your library for a land card, put that card onto the battlefield, then shuffle."
+Hypnotic Sprite // Mesmeric Glare,2.0,['U'],['U'],None,['Creature'],['Faerie'],Rare,PMEI,2,1,None,Flying
+Heliod's Pilgrim,3.0,['W'],['W'],None,['Creature'],"['Human', 'Cleric']",Rare,PMEI,1,2,None,"When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle."
+Sprite Dragon,2.0,"['R', 'U']","['R', 'U']",None,['Creature'],"['Faerie', 'Dragon']",Rare,PMEI,1,1,None,"Flying, haste\nWhenever you cast a noncreature spell, put a +1/+1 counter on Sprite Dragon."
+Dark Ritual,1.0,['B'],['B'],None,['Instant'],None,Rare,PMEI,None,None,None,Add {B}{B}{B}.
+Staggering Insight,2.0,"['U', 'W']","['U', 'W']",None,['Enchantment'],['Aura'],Rare,PMEI,None,None,None,"Enchant creature\nEnchanted creature gets +1/+1 and has lifelink and ""Whenever this creature deals combat damage to a player, draw a card."""
+"Daxos, Blessed by the Sun",2.0,['W'],['W'],['Legendary'],"['Enchantment', 'Creature']",['Demigod'],Uncommon,PMEI,2,*,None,"Daxos's toughness is equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)\nWhenever another creature you control enters the battlefield or dies, you gain 1 life."
 Voltaic Key,1.0,None,None,None,['Artifact'],None,Rare,PMEI,None,None,None,"{1}, {T}: Untap target artifact."
-Chandra's Outrage,4.0,['Red'],['R'],None,['Instant'],None,Common,PMEI,None,None,None,Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.
-Disenchant,2.0,['White'],['W'],None,['Instant'],None,Rare,PMEI,None,None,None,Destroy target artifact or enchantment.
-Bone Shredder,3.0,['Black'],['B'],None,['Creature'],"['Phyrexian', 'Minion']",Rare,PMEI,1,1,None,"Flying\nEcho {2}{B} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Bone Shredder enters the battlefield, destroy target nonartifact, nonblack creature."
-Cunning Sparkmage,3.0,['Red'],['R'],None,['Creature'],"['Human', 'Shaman']",Uncommon,PMEI,0,1,None,Haste\n{T}: Cunning Sparkmage deals 1 damage to any target.
+Duress,1.0,['B'],['B'],None,['Sorcery'],None,Rare,PMEI,None,None,None,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Lava Coil,2.0,['R'],['R'],None,['Sorcery'],None,Uncommon,PMEI,None,None,None,"Lava Coil deals 4 damage to target creature. If that creature would die this turn, exile it instead."
+Shock,1.0,['R'],['R'],None,['Instant'],None,Rare,PMEI,None,None,None,Shock deals 2 damage to any target.
+Diabolic Edict,2.0,['B'],['B'],None,['Instant'],None,Rare,PMEI,None,None,None,Target player sacrifices a creature.
+Cast Down,2.0,['B'],['B'],None,['Instant'],None,Uncommon,PMEI,None,None,None,Destroy target nonlegendary creature.
+Kuldotha Phoenix,5.0,['R'],['R'],None,['Creature'],['Phoenix'],Rare,PMEI,4,4,None,"Flying, haste\nMetalcraft — {4}: Return Kuldotha Phoenix from your graveyard to the battlefield. Activate only during your upkeep and only if you control three or more artifacts."
+Thorn Elemental,7.0,['G'],['G'],None,['Creature'],['Elemental'],Rare,PMEI,7,7,None,You may have Thorn Elemental assign its combat damage as though it weren't blocked.
+Ascendant Evincar,6.0,['B'],['B'],['Legendary'],['Creature'],"['Phyrexian', 'Vampire', 'Noble']",Rare,PMEI,3,3,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\nOther black creatures get +1/+1.\nNonblack creatures get -1/-1.
+Blue Elemental Blast,1.0,['U'],['U'],None,['Instant'],None,Common,PMEI,None,None,None,Choose one —\n• Counter target red spell.\n• Destroy target red permanent.
+Parallax Dementia,2.0,['B'],['B'],None,['Enchantment'],['Aura'],Common,PMEI,None,None,None,"Enchant creature\nFading 1 (This enchantment enters the battlefield with one fade counter on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nEnchanted creature gets +3/+2.\nWhen Parallax Dementia leaves the battlefield, destroy enchanted creature. That creature can't be regenerated."
+Archangel,7.0,['W'],['W'],None,['Creature'],['Angel'],Rare,PMEI,5,5,None,"Flying, vigilance"
+Silver Drake,3.0,"['U', 'W']","['U', 'W']",None,['Creature'],['Drake'],Common,PMEI,3,3,None,"Flying\nWhen Silver Drake enters the battlefield, return a white or blue creature you control to its owner's hand."
+Shrieking Drake,1.0,['U'],['U'],None,['Creature'],['Drake'],Common,PMEI,1,1,None,"Flying\nWhen Shrieking Drake enters the battlefield, return a creature you control to its owner's hand."
+Phantasmal Dragon,4.0,['U'],['U'],None,['Creature'],"['Dragon', 'Illusion']",Uncommon,PMEI,5,5,None,"Flying\nWhen Phantasmal Dragon becomes the target of a spell or ability, sacrifice it."
+Scent of Cinder,2.0,['R'],['R'],None,['Sorcery'],None,Common,PMEI,None,None,None,"Reveal any number of red cards in your hand. Scent of Cinder deals X damage to any target, where X is the number of cards revealed this way."
+Sandbar Crocodile,5.0,['U'],['U'],None,['Creature'],['Crocodile'],Common,PMEI,6,5,None,"Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)"
+Zhalfirin Knight,3.0,['W'],['W'],None,['Creature'],"['Human', 'Knight']",Common,PMEI,2,2,None,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{W}{W}: Zhalfirin Knight gains first strike until end of turn."
+Chandra's Outrage,4.0,['R'],['R'],None,['Instant'],None,Common,PMEI,None,None,None,Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.
+Stream of Life,1.0,['G'],['G'],None,['Sorcery'],None,Common,PMEI,None,None,None,Target player gains X life.
+Jamuraan Lion,3.0,['W'],['W'],None,['Creature'],['Cat'],Common,PMEI,3,1,None,"{W}, {T}: Target creature can't block this turn."
+Chandra's Spitfire,3.0,['R'],['R'],None,['Creature'],['Elemental'],Uncommon,PMEI,1,3,None,"Flying\nWhenever an opponent is dealt noncombat damage, Chandra's Spitfire gets +3/+0 until end of turn."
+Phyrexian Rager,3.0,['B'],['B'],None,['Creature'],"['Phyrexian', 'Horror']",Common,PMEI,2,2,None,"When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life."
+Fireball,1.0,['R'],['R'],None,['Sorcery'],None,Common,PMEI,None,None,None,"This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets."
+Cunning Sparkmage,3.0,['R'],['R'],None,['Creature'],"['Human', 'Shaman']",Uncommon,PMEI,0,1,None,Haste\n{T}: Cunning Sparkmage deals 1 damage to any target.
+Darksteel Juggernaut,5.0,None,None,None,"['Artifact', 'Creature']",['Juggernaut'],Rare,PMEI,*,*,None,Indestructible\nDarksteel Juggernaut's power and toughness are each equal to the number of artifacts you control.\nDarksteel Juggernaut attacks each combat if able.
+Lightning Hounds,4.0,['R'],['R'],None,['Creature'],['Dog'],Common,PMEI,3,2,None,First strike
+Shivan Dragon,6.0,['R'],['R'],None,['Creature'],['Dragon'],Rare,PMEI,5,5,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.
+Warmonger,4.0,['R'],['R'],None,['Creature'],"['Minotaur', 'Monger']",Uncommon,PMEI,3,3,None,{2}: Warmonger deals 1 damage to each creature without flying and each player. Any player may activate this ability.
+Spined Wurm,5.0,['G'],['G'],None,['Creature'],['Wurm'],Common,PMEI,5,4,None,None

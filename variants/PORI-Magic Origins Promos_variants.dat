@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Jace', 'Druid', 'Vedalken', 'Elemental', 'Nissa', 'Pegasus', 'Hellion', 'Horror', 'Equipment', 'Demon', 'Knight', 'Cleric', 'Human', 'Djinn', 'Merfolk', 'Giant', 'Monk', 'Liliana', 'Chandra', 'Hydra', 'Warrior', 'Soldier', 'Elf', 'Sphinx', 'Wizard', 'Berserker', 'Dryad', 'Artificer', 'Goblin', 'Gideon'}
-Rarity: {'Rare', 'Mythic', 'Uncommon'}
-Power: {'4', '5', '1', '8', '2', '3', '6'}
-Toughness: {'4', '5', '1', '2', '3', '6'}
-Loyalty: {'3', '4', '5'}
+Types: {'Artifact', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Djinn', 'Cleric', 'Giant', 'Scout', 'Elf', 'Vedalken', 'Artificer', 'Hydra', 'Equipment', 'Druid', 'Human', 'Merfolk', 'Pegasus', 'Demon', 'Warrior', 'Elemental', 'Sphinx', 'Berserker', 'Dryad', 'Monk', 'Goblin', 'Hellion', 'Shaman', 'Wizard', 'Horror', 'Knight', 'Soldier'}
+Rarity: {'Rare', 'Uncommon', 'Mythic'}
+Power: {'5', '8', '2', '6', '4', '0', '3', '1'}
+Toughness: {'5', '2', '6', '4', '3', '1'}
+Loyalty: set()

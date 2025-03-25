@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 11.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant'}
-Subtypes: {'Cephalid', 'Druid', 'Snake', 'Elemental', 'Scout', 'Lizard', 'Shade', 'Zombie', 'Cat', 'Vampire', 'Rat', 'Horror', 'Angel', 'Archer', 'Minion', 'Imp', 'Nightmare', 'Human', 'Cleric', 'Merfolk', 'Beast', 'Frog', 'Noble', 'Monk', 'Ox', 'Wall', 'Wurm', 'Nomad', 'Centaur', 'Soldier', 'Insect', 'Wizard', 'Rogue', 'Bird', 'Barbarian', 'Dwarf', 'Aura'}
-Rarity: {'Uncommon', 'Common', 'Rare'}
-Power: {'4', '5', '1', '8', '2', '3', '6'}
-Toughness: {'4', '5', '8', '1', '2', '3', '6'}
+Types: {'Land', 'Instant', 'Creature', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Nightmare', 'Cleric', 'Zombie', 'Rogue', 'Centaur', 'Scout', 'Aura', 'Cat', 'Bird', 'Minion', 'Barbarian', 'Rat', 'Frog', 'Ox', 'Soldier', 'Druid', 'Nomad', 'Cephalid', 'Human', 'Merfolk', 'Vampire', 'Elemental', 'Beast', 'Noble', 'Shade', 'Monk', 'Snake', 'Imp', 'Lizard', 'Angel', 'Wizard', 'Archer', 'Horror', 'Wall', 'Dwarf', 'Wurm'}
+Rarity: {'Rare', 'Uncommon', 'Common'}
+Power: {'5', '8', '2', '6', '4', '3', '1'}
+Toughness: {'8', '5', '2', '6', '4', '3', '1'}
 Loyalty: set()

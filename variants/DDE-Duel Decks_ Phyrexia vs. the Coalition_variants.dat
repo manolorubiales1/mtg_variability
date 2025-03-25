@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Island', 'Zombie', 'Equipment', 'Horror', 'Mountain', 'Dragon', 'Minion', 'Knight', 'Human', 'Cleric', 'Plains', 'Phyrexian', 'Swamp', 'Nomad', 'Forest', 'Soldier', 'Elf', 'Insect', 'Wizard', 'Carrier', 'Golem', 'Troll', 'Aura'}
-Rarity: {'Uncommon', 'Common', 'Mythic', 'Rare'}
-Power: {'4', '5', '8', '1', '2', '0', '3', '6'}
-Toughness: {'4', '5', '8', '1', '2', '3', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Knight', 'Cleric', 'Zombie', 'Elf', 'Plains', 'Troll', 'Aura', 'Minion', 'Equipment', 'Carrier', 'Dragon', 'Druid', 'Nomad', 'Human', 'Phyrexian', 'Forest', 'Swamp', 'Mountain', 'Golem', 'Wizard', 'Island', 'Horror', 'Soldier'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '8', '2', '6', '4', '3', '0', '1'}
+Toughness: {'8', '5', '2', '6', '4', '3', '1'}
 Loyalty: set()

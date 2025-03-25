@@ -1,9 +1,9 @@
 CMC: {6.0}
-Colors: {'Red'}
+Colors: {'R'}
 ColorIdentity: {'R'}
 Supertypes: {'Legendary'}
 Types: {'Creature'}
-Subtypes: {'Soldier', 'Warrior', 'Human'}
+Subtypes: {'Soldier', 'Human', 'Warrior'}
 Rarity: {'Rare'}
 Power: {'4'}
 Toughness: {'3'}

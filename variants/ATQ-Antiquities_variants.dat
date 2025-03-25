@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: set()
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Orc', 'Faerie', 'Thopter', 'Construct', 'Demon', 'Tower', 'Human', 'Cleric', 'Shapeshifter', 'Treefolk', 'Spirit', 'Phyrexian', 'Wall', 'Urza’s', 'Mine', 'Gremlin', 'Soldier', 'Power-Plant', 'Artificer', 'Bird', 'Goblin', 'Golem', 'Atog', 'Juggernaut', 'Dwarf', 'Aura'}
-Rarity: {'Uncommon', 'Common', 'Rare'}
-Power: {'4', '5', '1', '*', '2', '9', '1+*', '0', '3', '6'}
-Toughness: {'4', '5', '1', '*', '2', '9', '1+*', '3', '6', '7-*'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Treefolk', 'Thopter', 'Cleric', "Urza's", 'Tower', 'Atog', 'Artificer', 'Aura', 'Bird', 'Construct', 'Soldier', 'Juggernaut', 'Druid', 'Mine', 'Human', 'Phyrexian', 'Demon', 'Orc', 'Power-Plant', 'Shapeshifter', 'Gremlin', 'Goblin', 'Faerie', 'Golem', 'Spirit', 'Wall', 'Dwarf'}
+Rarity: {'Common', 'Uncommon', 'Rare'}
+Power: {'5', '*', '2', '6', '4', '3', '9', '1', '1+*', '0'}
+Toughness: {'5', '*', '2', '6', '4', '3', '9', '7-*', '1+*', '1'}
 Loyalty: set()

@@ -4,6 +4,7 @@ from typing import Any
 
 from mtgsdk import Card
 from mtgsdk import Set
+
 from mtgsdk import Type
 from mtgsdk import Supertype
 from mtgsdk import Subtype
@@ -20,7 +21,7 @@ def extract_products():
 
     Generates a .csv file for each expansion.
     """
-    all_expansions = Set.all()
+    all_expansions = Set.all() # Lista de todas las expansiones
     total_expansions = len(all_expansions)
     print(f'#Expansions: {total_expansions}')
 
@@ -29,7 +30,7 @@ def extract_products():
     if not os.path.exists(MTG_VARIANTS_DIR):
         os.makedirs(MTG_VARIANTS_DIR)
 
-    for i, set_exp in enumerate(all_expansions):
+    for i, set_exp in enumerate(all_expansions): # Para todas las expansiones
         name = set_exp.name
         if '/' in name:
             name = name.split('/')[-1]
@@ -38,12 +39,12 @@ def extract_products():
         variants_filename = MTG_VARIANTS_DIR + set_exp.code + '-' + name + '_variants.dat'
 
         
-        cards_list = extract_cards_from_expansion(set_exp.code)
-        variants = extract_variants_from_cards(cards_list)
+        cards_list = extract_cards_from_expansion(set_exp.code) # Saca la lista de cartas de cada expansión (según código de la misma)
+        variants = extract_variants_from_cards(cards_list) # Saca las variantes según la lista de no duplicadas
 
         print(f'({i}/{total_expansions})|-{set_exp.name}: {len(cards_list)}')
 
-        # Write variants
+        # Write variants for each expansion
         with open(variants_filename, 'w', encoding='utf-8') as file:
             for k, v in variants.items():
                 file.write(f'{k}: {v}\n')
@@ -53,10 +54,11 @@ def extract_products():
             csv_writer = csv.writer(file, delimiter=',')
             csv_writer.writerow(CARD_HEADER)
             for card in cards_list:
+                # Una línea por cada carta para cada expansión
                 product_features = extract_product_features_from_card(card)
                 csv_writer.writerow(product_features)
 
-
+# Extrae todos los posibles valores de cada uno de los atributos de las cartas
 def extract_variants_from_cards(cards: list[Card]) -> dict[str, list[Any]]:
     result = {}
     result['CMC'] = set()
@@ -100,8 +102,12 @@ def extract_cards_from_expansion(set_exp_code: str) -> list[Card]:
     no_duplicate_cards = set()
     for card in cards:
         # print(f'{card.type} -> {card.supertypes} -> {card.subtypes} -> {card.types}')
+
+        # Si es tipo tierra AND supertipo no None AND supertipo=Basic
         if 'Land' in card.types and card.supertypes is not None and 'Basic' in card.supertypes:
+            # No es duplicada
             no_duplicate_cards.add(card)
+        # Si no existe ninguna carta con ese nombre en la lista de no duplicadas
         elif not any(c.name == card.name for c in no_duplicate_cards):
             no_duplicate_cards.add(card)
     # print(f'#Cards: {len(no_duplicate_cards)}')

@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'Legendary'}
+Types: {'Artifact', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Bard', 'Phoenix', 'Rogue', 'Elf', 'Aura', 'Cat', 'Bird', 'Equipment', 'Rat', 'Warlock', 'Clue', 'Vehicle', 'Druid', 'Cephalid', 'Human', 'Citizen', 'Warrior', 'Elemental', 'Wall', 'Rhino', 'Advisor', 'Viashino', 'Angel', 'Wizard', 'Ogre', 'Horror', 'Soldier'}
+Rarity: {'Rare'}
+Power: {'5', '*', '2', '6', '4', '3', '1', '0'}
+Toughness: {'5', '2', '6', '4', '3', '1', '0'}
+Loyalty: set()

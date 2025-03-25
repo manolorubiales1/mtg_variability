@@ -1,8 +1,8 @@
 CMC: {1.0, 2.0}
-Colors: {'Red', 'Black', 'Green', 'Blue'}
-ColorIdentity: {'U', 'G', 'R', 'B'}
+Colors: {'G', 'B', 'R', 'U'}
+ColorIdentity: {'G', 'B', 'R', 'U'}
 Supertypes: set()
-Types: {'Enchantment', 'Instant', 'Land', 'Sorcery'}
+Types: {'Sorcery', 'Land', 'Instant', 'Enchantment'}
 Subtypes: set()
 Rarity: {'Rare'}
 Power: set()

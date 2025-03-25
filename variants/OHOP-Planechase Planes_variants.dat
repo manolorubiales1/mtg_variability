@@ -1,9 +1,9 @@
 CMC: set()
 Colors: set()
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: set()
 Types: {'Plane'}
-Subtypes: {'Kaldheim', 'Ulgrotha', 'Bolas’s Meditation Realm', 'Serra’s Realm', 'Valla', 'Iquatana', 'Arkhos', 'Shadowmoor', 'Mirrodin', 'Segovia', 'Kamigawa', 'Wildfire', 'Phyrexia', 'Rath', 'Zendikar', 'Alara', 'Muraganda', 'Rabiah', 'Moag', 'Mercadia', 'Ir', 'Dominaria', 'Equilor', 'Ravnica', 'Lorwyn', 'Shandalar'}
+Subtypes: {'Shadowmoor', 'Wildfire', 'Kaldheim', 'Muraganda', 'Valla', 'Lorwyn', 'Mirrodin', 'Arkhos', "Bolas's Meditation Realm", 'Kamigawa', 'Rabiah', 'Zendikar', 'Moag', 'Ulgrotha', 'Alara', 'Rath', 'Serra’s Realm', 'Equilor', 'Ir', 'Dominaria', 'Shandalar', 'Segovia', 'Mercadia', 'Phyrexia', 'Ravnica', 'Iquatana'}
 Rarity: {'Common'}
 Power: set()
 Toughness: set()

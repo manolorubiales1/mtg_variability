@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic'}
-Types: {'Enchantment', 'Land', 'Creature', 'Sorcery', 'Instant'}
-Subtypes: {'Druid', 'Island', 'Scout', 'Incarnation', 'Zombie', 'Bear', 'Cat', 'Mountain', 'Archer', 'Human', 'Kavu', 'Dog', 'Merfolk', 'Beast', 'Frog', 'Plains', 'Spirit', 'Swamp', 'Forest', 'Centaur', 'Soldier', 'Elf', 'Wizard', 'Mongoose', 'Rogue', 'Bird', 'Atog', 'Aura'}
-Rarity: {'Common', 'Rare', 'Uncommon'}
-Power: {'4', '1', '2', '0', '3'}
-Toughness: {'4', '1', '2', '0', '3'}
+Types: {'Land', 'Instant', 'Creature', 'Sorcery', 'Enchantment'}
+Subtypes: {'Zombie', 'Rogue', 'Centaur', 'Scout', 'Elf', 'Atog', 'Plains', 'Aura', 'Cat', 'Bird', 'Bear', 'Frog', 'Incarnation', 'Druid', 'Human', 'Merfolk', 'Forest', 'Beast', 'Swamp', 'Dog', 'Kavu', 'Mountain', 'Wizard', 'Mongoose', 'Spirit', 'Island', 'Archer', 'Soldier'}
+Rarity: {'Common', 'Uncommon', 'Rare'}
+Power: {'2', '4', '3', '1', '0'}
+Toughness: {'2', '4', '3', '0', '1'}
 Loyalty: set()

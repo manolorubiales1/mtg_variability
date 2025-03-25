@@ -1,6 +1,6 @@
 CMC: set()
 Colors: set()
-ColorIdentity: {'R', 'U', 'B'}
+ColorIdentity: {'B', 'R', 'U'}
 Supertypes: {'Ongoing'}
 Types: {'Scheme'}
 Subtypes: set()

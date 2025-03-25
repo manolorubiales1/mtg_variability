@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'Basic', 'Legendary'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Plane', 'Enchantment', 'Phenomenon'}
+Subtypes: {'Insect', 'Kandoka', 'The Library', 'Scientist', 'Time Lord', 'Rogue', 'Cleric', 'Zombie', 'Worm', 'Scout', 'Skaro', 'Cyberman', 'Plains', 'Detective', 'Artificer', 'Doctor', 'Aura', 'Eye', 'Equipment', 'Saga', 'Pilot', 'Dalek', 'Darillium', 'Trenzalore', 'Warlock', 'Alfava Metraxis', 'Moon', 'Clue', 'Vehicle', 'Gallifrey', 'Incarnation', 'Horsehead Nebula', 'Human', 'Rebel', 'Demon', 'Forest', 'Apalapucia', 'Robot', 'Swamp', 'Noble', 'Earth', 'Alien', 'Warrior', 'Spacecraft', 'Beast', 'Dog', 'Time', 'Unknown Planet', 'Whale', 'Rhino', 'Fish', 'Shapeshifter', 'Necros', 'New Earth', 'Mountain', 'Mars', 'Androzani Minor', 'Dinosaur', 'Advisor', 'Angel', 'Golem', 'The Dalek Asylum', "Outside Mutter's Spiral", 'Island', 'Horror', 'Soldier', 'Lizard'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '*', '2', '6', '8', '4', '3', '0', '1', '7'}
+Toughness: {'5', '*', '2', '6', '8', '4', '3', '0', '7', '1'}
+Loyalty: set()

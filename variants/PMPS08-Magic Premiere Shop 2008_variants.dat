@@ -1,9 +1,9 @@
 CMC: {3.0}
-Colors: {'Red'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'R'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
 Types: {'Land', 'Creature'}
-Subtypes: {'Swamp', 'Mountain', 'Forest', 'Island', 'Spellshaper', 'Plains', 'Human'}
+Subtypes: {'Human', 'Mountain', 'Forest', 'Swamp', 'Spellshaper', 'Island', 'Plains'}
 Rarity: {'Common', 'Rare'}
 Power: {'2'}
 Toughness: {'2'}

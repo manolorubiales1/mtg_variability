@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 3.0, 4.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: set()
+Types: {'Artifact', 'Creature', 'Instant', 'Sorcery', 'Enchantment'}
+Subtypes: {'Insect', 'Phoenix', 'Illusion', 'Rogue', 'Fox', 'Artificer', 'Aura', 'Equipment', 'Pilot', 'Moonfolk', 'Human', 'Ninja', 'Demon', 'Shapeshifter', 'Monk', 'Goblin', 'Shaman', 'Snake', 'Wizard', 'Ogre', 'Spirit', 'Samurai'}
+Rarity: {'Rare', 'Uncommon', 'Mythic'}
+Power: {'2', '6', '3', '1'}
+Toughness: {'2', '6', '3', '1'}
+Loyalty: set()

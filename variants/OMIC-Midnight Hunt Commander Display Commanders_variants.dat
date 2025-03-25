@@ -1,10 +1,10 @@
 CMC: {4.0}
-Colors: {'White', 'Black', 'Green', 'Blue'}
-ColorIdentity: {'W', 'U', 'G', 'B'}
+Colors: {'W', 'G', 'B', 'U'}
+ColorIdentity: {'W', 'G', 'B', 'U'}
 Supertypes: {'Legendary'}
 Types: {'Creature'}
-Subtypes: {'Warrior', 'Zombie', 'Noble', 'Human'}
+Subtypes: {'Noble', 'Warrior', 'Human', 'Zombie'}
 Rarity: {'Mythic'}
 Power: {'3', '0'}
-Toughness: {'3', '4'}
+Toughness: {'4', '3'}
 Loyalty: set()

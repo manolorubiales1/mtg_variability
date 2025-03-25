@@ -1,0 +1,10 @@
+CMC: {1.0, 2.0, 4.0}
+Colors: {'W'}
+ColorIdentity: {'W'}
+Supertypes: {'Legendary'}
+Types: {'Planeswalker', 'Creature'}
+Subtypes: {'Gideon', 'Human', 'Cleric', 'Spirit', 'Soldier'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'2', '1'}
+Toughness: {'2', '1'}
+Loyalty: {'4'}

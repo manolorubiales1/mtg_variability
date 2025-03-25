@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0}
-Colors: {'Black', 'White', 'Blue'}
-ColorIdentity: {'W', 'U', 'B'}
+Colors: {'W', 'B', 'U'}
+ColorIdentity: {'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Island', 'Scout', 'Zombie', 'Vampire', 'Horror', 'Equipment', 'Angel', 'Demon', 'Human', 'Knight', 'Cleric', 'Noble', 'Plains', 'Drake', 'Spirit', 'Swamp', 'Soldier', 'Wizard', 'Rogue', 'Bird', 'Aura'}
-Rarity: {'Uncommon', 'Common', 'Mythic', 'Rare'}
-Power: {'4', '5', '1', '2', '0', '3'}
-Toughness: {'4', '5', '1', '2', '0', '3'}
+Types: {'Artifact', 'Land', 'Instant', 'Creature', 'Sorcery', 'Enchantment'}
+Subtypes: {'Cleric', 'Zombie', 'Rogue', 'Scout', 'Plains', 'Aura', 'Bird', 'Equipment', 'Human', 'Vampire', 'Demon', 'Noble', 'Swamp', 'Angel', 'Wizard', 'Horror', 'Spirit', 'Island', 'Drake', 'Knight', 'Soldier'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'5', '2', '4', '3', '0', '1'}
+Toughness: {'5', '2', '4', '3', '0', '1'}
 Loyalty: set()

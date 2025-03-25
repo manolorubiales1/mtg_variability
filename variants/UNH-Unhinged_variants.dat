@@ -1,10 +1,10 @@
-CMC: {0.5, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 1000000.0, 8.0, 10.0, 13.0, 15.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+CMC: {1000000.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 0.5, 8.0, 10.0, 13.0, 15.0}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Summon', 'Enchantment', 'Land', 'Eaturecray', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Druid', 'Avatar', 'Gamer', 'Elemental', 'Orc', 'Island', 'Waiter', 'Ooze', 'Bureaucrat', 'Basilisk', 'Mime', 'Child', 'Zombie', 'Hero', 'Paratrooper', 'Horror', 'Igpay', 'Efreet', 'Hyena', 'Mountain', 'Townsfolk', 'Beeble', 'Ship', 'Demon', 'Slug', 'Human', 'Knight', 'Donkey', 'Cleric', 'Dog', 'Beast', 'Designer', 'Shapeshifter', 'Elemental?', 'Giant', 'Ape', 'Plains', 'Drake', 'Treefolk', 'Dinosaur', 'Phyrexian', 'Shaman', 'Warrior', 'Swamp', 'Mummy', 'Forest', 'Soldier', 'Elf', 'Wizard', 'Monkey', 'Rogue', 'Elephant', 'Bird', 'Goblin', 'Golem', 'Barbarian', 'Aura'}
-Rarity: {'Uncommon', 'Common', 'Rare'}
-Power: {'4', '7', '5', '1', '8', '*', '2', '3.5', '*²', '1.5', '2.5', '0', '3', '.5'}
-Toughness: {'4', '7', '5', '1', '8', '*', '2', '3.5', '*²', '1.5', '2.5', '0', '3', '.5'}
+Types: {'Eaturecray', 'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Enchantment', 'Summon'}
+Subtypes: {'Hero', 'Ship', 'Treefolk', 'Ooze', 'Giant', 'Cleric', 'Hyena', 'Zombie', 'Rogue', 'Mummy', 'Igpay', 'Mime', 'Elf', 'Plains', 'Aura', 'Bird', 'Child', 'Barbarian', 'Gamer', 'Elephant', 'Avatar', 'Soldier', 'Basilisk', 'Paratrooper', 'Druid', 'Designer', 'Human', 'Phyrexian', 'Efreet', 'Warrior', 'Forest', 'Elemental', 'Beast', 'Swamp', 'Dog', 'Demon', 'Orc', 'Townsfolk', 'Beeble', 'Shapeshifter', 'Goblin', 'Shaman', 'Mountain', 'Dinosaur', 'Bureaucrat', 'Monkey', 'Golem', 'Slug', 'Wizard', 'Waiter', 'Horror', 'Island', 'Drake', 'Knight', 'Ape', 'Donkey', 'Elemental?'}
+Rarity: {'Rare', 'Uncommon', 'Common'}
+Power: {'*²', '8', '5', '2', '*', '4', '3', '2.5', '0', '.5', '7', '1', '3.5', '1.5'}
+Toughness: {'*²', '8', '5', '2', '*', '4', '3', '0', '2.5', '.5', '7', '1', '3.5', '1.5'}
 Loyalty: set()

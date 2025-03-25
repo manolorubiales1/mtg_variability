@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 9.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic'}
-Types: {'Sorcery', 'Instant', 'Land', 'Creature'}
-Subtypes: {'Nightstalker', 'Snake', 'Elemental', 'Island', 'Scout', 'Lizard', 'Pegasus', 'Horse', 'Faerie', 'Ranger', 'Assassin', 'Pirate', 'Zombie', 'Cat', 'Bear', 'Goat', 'Vampire', 'Rat', 'Horror', 'Dragon', 'Mountain', 'Crocodile', 'Fish', 'Cyclops', 'Angel', 'Leviathan', 'Archer', 'Imp', 'Wraith', 'Human', 'Djinn', 'Knight', 'Cleric', 'Minotaur', 'Merfolk', 'Beast', 'Frog', 'Jellyfish', 'Giant', 'Rhino', 'Plant', 'Ape', 'Plains', 'Spider', 'Drake', 'Monk', 'Turtle', 'Treefolk', 'Mercenary', 'Spirit', 'Unicorn', 'Griffin', 'Wall', 'Serpent', 'Hippo', 'Octopus', 'Warrior', 'Swamp', 'Wurm', 'Forest', 'Soldier', 'Elf', 'Insect', 'Illusion', 'Wizard', 'Skeleton', 'Rogue', 'Dryad', 'Berserker', 'Bird', 'Goblin', 'Barbarian'}
-Rarity: {'Rare', 'Common', 'Uncommon'}
-Power: {'4', '5', '1', '8', '2', '9', '0', '3', '6'}
-Toughness: {'4', '7', '5', '1', '8', '2', '9', '3', '6'}
+Types: {'Sorcery', 'Land', 'Creature', 'Instant'}
+Subtypes: {'Insect', 'Treefolk', 'Djinn', 'Illusion', 'Giant', 'Jellyfish', 'Cleric', 'Zombie', 'Rogue', 'Scout', 'Elf', 'Plains', 'Skeleton', 'Goat', 'Cat', 'Griffin', 'Bird', 'Bear', 'Barbarian', 'Rat', 'Frog', 'Assassin', 'Unicorn', 'Soldier', 'Nightstalker', 'Cyclops', 'Dragon', 'Spider', 'Minotaur', 'Human', 'Merfolk', 'Vampire', 'Pegasus', 'Pirate', 'Warrior', 'Forest', 'Elemental', 'Beast', 'Swamp', 'Wraith', 'Horse', 'Berserker', 'Rhino', 'Fish', 'Dryad', 'Ape', 'Monk', 'Goblin', 'Serpent', 'Faerie', 'Ranger', 'Octopus', 'Mountain', 'Turtle', 'Snake', 'Crocodile', 'Imp', 'Angel', 'Hippo', 'Wizard', 'Lizard', 'Leviathan', 'Mercenary', 'Horror', 'Spirit', 'Island', 'Drake', 'Knight', 'Wall', 'Archer', 'Plant', 'Wurm'}
+Rarity: {'Rare', 'Uncommon', 'Common'}
+Power: {'8', '5', '2', '6', '4', '3', '0', '9', '1'}
+Toughness: {'8', '5', '2', '6', '4', '3', '7', '9', '1'}
 Loyalty: set()

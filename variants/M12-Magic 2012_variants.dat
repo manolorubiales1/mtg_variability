@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Ooze', 'Scout', 'Garruk', 'Sorin', 'Equipment', 'Human', 'Cleric', 'Djinn', 'Giant', 'Rhino', 'Spider', 'Treefolk', 'Spirit', 'Griffin', 'Wall', 'Hydra', 'Warrior', 'Wurm', 'Skeleton', 'Bird', 'Troll', 'Gideon', 'Jace', 'Vedalken', 'Elemental', 'Assassin', 'Basilisk', 'Siren', 'Bear', 'Crocodile', 'Archon', 'Boar', 'Minotaur', 'Merfolk', 'Ogre', 'Chandra', 'Serpent', 'Elf', 'Sphinx', 'Rogue', 'Goblin', 'Golem', 'Aura', 'Island', 'Horse', 'Zombie', 'Dragon', 'Mountain', 'Salamander', 'Knight', 'Shaman', 'Forest', 'Insect', 'Berserker', 'Elephant', 'Druid', 'Egg', 'Pegasus', 'Shade', 'Cat', 'Vampire', 'Bat', 'Construct', 'Angel', 'Demon', 'Archer', 'Wolf', 'Dog', 'Beast', 'Plains', 'Drake', 'Monk', 'Swamp', 'Illusion', 'Soldier', 'Phoenix', 'Wizard'}
-Rarity: {'Rare', 'Common', 'Uncommon', 'Mythic'}
-Power: {'4', '7', '5', '1', '*', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '1', '*', '2', '0', '3', '6'}
-Loyalty: {'3', '4', '6'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Rogue', 'Scout', 'Troll', 'Bear', 'Basilisk', 'Jace', 'Warrior', 'Elemental', 'Beast', 'Garruk', 'Serpent', 'Mountain', 'Siren', 'Wall', 'Treefolk', 'Djinn', 'Zombie', 'Wolf', 'Aura', 'Bird', 'Assassin', 'Druid', 'Human', 'Merfolk', 'Vampire', 'Sorin', 'Shade', 'Monk', 'Shaman', 'Salamander', 'Crocodile', 'Chandra', 'Angel', 'Ogre', 'Island', 'Wurm', 'Bat', 'Phoenix', 'Ooze', 'Giant', 'Cleric', 'Vedalken', 'Skeleton', 'Spider', 'Pegasus', 'Rhino', 'Knight', 'Griffin', 'Egg', 'Illusion', 'Boar', 'Elf', 'Plains', 'Cat', 'Hydra', 'Equipment', 'Construct', 'Elephant', 'Soldier', 'Dragon', 'Gideon', 'Minotaur', 'Demon', 'Forest', 'Swamp', 'Dog', 'Sphinx', 'Horse', 'Berserker', 'Goblin', 'Golem', 'Wizard', 'Spirit', 'Archer', 'Drake', 'Archon'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '*', '2', '6', '4', '3', '0', '7', '1'}
+Toughness: {'5', '*', '2', '6', '4', '3', '0', '7', '1'}
+Loyalty: {'6', '4', '3'}

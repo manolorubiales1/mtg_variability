@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}
-Colors: {'Black', 'Green'}
+Colors: {'G', 'B'}
 ColorIdentity: {'G', 'B'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant'}
-Subtypes: {'Druid', 'Elemental', 'Nissa', 'Scout', 'Lizard', 'Cat', 'Vampire', 'Horror', 'Scorpion', 'Demon', 'Archer', 'Imp', 'Human', 'Cleric', 'Leech', 'Nixilis', 'Treefolk', 'Phyrexian', 'Hydra', 'Shaman', 'Warrior', 'Swamp', 'Forest', 'Elf', 'Aura'}
-Rarity: {'Uncommon', 'Common', 'Mythic', 'Rare'}
-Power: {'4', '7', '5', '*', '1', '2', '0', '3', '6'}
-Toughness: {'4', '7', '5', '*', '1', '8', '2', '0', '3', '6'}
-Loyalty: {'3', '5'}
+Types: {'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Treefolk', 'Cleric', 'Scout', 'Elf', 'Aura', 'Cat', 'Hydra', 'Nissa', 'Druid', 'Human', 'Phyrexian', 'Vampire', 'Nixilis', 'Demon', 'Forest', 'Leech', 'Elemental', 'Swamp', 'Warrior', 'Scorpion', 'Shaman', 'Imp', 'Archer', 'Horror', 'Lizard'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '*', '2', '6', '4', '3', '0', '7', '1'}
+Toughness: {'5', '*', '2', '6', '8', '4', '3', '0', '7', '1'}
+Loyalty: {'5', '3'}

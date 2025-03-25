@@ -2,9 +2,9 @@ CMC: set()
 Colors: set()
 ColorIdentity: set()
 Supertypes: set()
-Types: {'Land'}
+Types: set()
 Subtypes: set()
-Rarity: {'Rare'}
+Rarity: set()
 Power: set()
 Toughness: set()
 Loyalty: set()

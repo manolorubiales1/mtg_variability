@@ -1,0 +1,10 @@
+CMC: {1.0, 5.0}
+Colors: {'R', 'U'}
+ColorIdentity: {'R', 'U'}
+Supertypes: set()
+Types: {'Sorcery', 'Instant', 'Creature'}
+Subtypes: {'Human', 'Shaman'}
+Rarity: {'Rare', 'Mythic'}
+Power: {'1'}
+Toughness: {'1'}
+Loyalty: set()

@@ -1,0 +1,3 @@
+Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
+Shivan Dragon,6.0,['R'],['R'],None,['Creature'],['Dragon'],Rare,P30T,5,5,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.
+Destroy Evil,2.0,['W'],['W'],None,['Instant'],None,Rare,P30T,None,None,None,Choose one —\n• Destroy target creature with toughness 4 or greater.\n• Destroy target enchantment.

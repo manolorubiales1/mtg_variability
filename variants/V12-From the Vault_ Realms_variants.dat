@@ -1,9 +1,9 @@
 CMC: set()
-Colors: {'Green'}
-ColorIdentity: {'U', 'R', 'B', 'W', 'G'}
+Colors: {'G'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
 Supertypes: {'Legendary'}
 Types: {'Land', 'Creature'}
-Subtypes: {'Desert', 'Forest', 'Dryad'}
+Subtypes: {'Forest', 'Desert', 'Dryad'}
 Rarity: {'Mythic'}
 Power: {'1'}
 Toughness: {'1'}

@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0}
-Colors: {'Red', 'Black', 'White', 'Green', 'Blue'}
-ColorIdentity: {'R', 'U', 'B', 'W', 'G'}
-Supertypes: {'Snow', 'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Sorcery', 'Creature', 'Instant', 'Artifact'}
-Subtypes: {'Elk', 'Garruk', 'Kor', 'Pirate', 'Naga', 'Equipment', 'Human', 'Cleric', 'Djinn', 'Vraska', 'Giant', 'Nixilis', 'Treefolk', 'Spirit', 'Wall', 'Hydra', 'Ral', 'Warrior', 'Saga', 'Centaur', 'Skeleton', 'Bird', 'Troll', 'Elemental', 'Scarecrow', 'Assassin', 'Hellion', 'Horror', 'Curse', 'Mutant', 'Minotaur', 'Merfolk', 'Shapeshifter', 'Ape', 'Elf', 'Dryad', 'Goblin', 'Golem', 'Aura', 'Snake', 'Island', 'Zombie', 'Dragon', 'Mountain', 'Devil', 'Gorgon', 'Eldrazi', 'Dinosaur', 'Phyrexian', 'Shaman', 'Forest', 'Insect', 'Artificer', 'Berserker', 'Druid', 'Avatar', 'Egg', 'Cat', 'Vampire', 'Sponge', 'Angel', 'Demon', 'Minion', 'Dog', 'Beast', 'Plains', 'Elder', 'Drake', 'Monk', 'Gate', 'Mercenary', 'Rebel', 'Swamp', 'Manticore', 'Illusion', 'Soldier', 'Phoenix', 'Wizard', 'Crab'}
-Rarity: {'Uncommon', 'Common', 'Mythic', 'Rare'}
-Power: {'4', '7', '5', '*', '1', '8', '2', '0', '3', '6', '10'}
-Toughness: {'4', '7', '5', '*', '1', '8', '2', '0', '3', '6', '10'}
-Loyalty: {'3', '4', '5'}
+Colors: {'G', 'R', 'W', 'B', 'U'}
+ColorIdentity: {'G', 'R', 'W', 'B', 'U'}
+Supertypes: {'Basic', 'Legendary', 'Snow'}
+Types: {'Artifact', 'Land', 'Creature', 'Instant', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Insect', 'Centaur', 'Gorgon', 'Naga', 'Troll', 'Avatar', 'Nixilis', 'Warrior', 'Elemental', 'Beast', 'Sponge', 'Garruk', 'Shapeshifter', 'Kor', 'Mountain', 'Mercenary', 'Wall', 'Curse', 'Treefolk', 'Djinn', 'Zombie', 'Artificer', 'Aura', 'Bird', 'Assassin', 'Scarecrow', 'Druid', 'Manticore', 'Human', 'Merfolk', 'Vampire', 'Pirate', 'Crab', 'Monk', 'Hellion', 'Shaman', 'Angel', 'Island', 'Horror', 'Elder', 'Phoenix', 'Ral', 'Cleric', 'Giant', 'Skeleton', 'Phyrexian', 'Rebel', 'Gate', 'Devil', 'Dryad', 'Snake', 'Eldrazi', 'Ape', 'Egg', 'Illusion', 'Elf', 'Plains', 'Cat', 'Minion', 'Hydra', 'Equipment', 'Saga', 'Vraska', 'Dragon', 'Minotaur', 'Demon', 'Forest', 'Swamp', 'Dog', 'Berserker', 'Elk', 'Goblin', 'Mutant', 'Dinosaur', 'Golem', 'Wizard', 'Spirit', 'Drake', 'Soldier'}
+Rarity: {'Rare', 'Uncommon', 'Mythic', 'Common'}
+Power: {'10', '5', '*', '2', '6', '8', '4', '3', '0', '7', '1'}
+Toughness: {'10', '5', '*', '2', '6', '8', '4', '3', '0', '7', '1'}
+Loyalty: {'5', '4', '3'}

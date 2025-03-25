@@ -1,10 +1,10 @@
 CMC: {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0}
-Colors: {'Red', 'Blue'}
-ColorIdentity: {'U', 'R'}
+Colors: {'R', 'U'}
+ColorIdentity: {'R', 'U'}
 Supertypes: {'Basic', 'Legendary'}
-Types: {'Enchantment', 'Land', 'Planeswalker', 'Creature', 'Sorcery', 'Instant', 'Artifact'}
-Subtypes: {'Jace', 'Snake', 'Elemental', 'Island', 'Incarnation', 'Cat', 'Dragon', 'Mountain', 'Mutant', 'Human', 'Kavu', 'Djinn', 'Gnome', 'Beast', 'Jellyfish', 'Slith', 'Chandra', 'Wall', 'Shaman', 'Warrior', 'Illusion', 'Wizard', 'Goblin', 'Golem'}
-Rarity: {'Common', 'Rare', 'Uncommon', 'Mythic'}
-Power: {'4', '5', '1', '2', '0', '3', '6'}
-Toughness: {'4', '5', '1', '2', '3', '6'}
-Loyalty: {'3', '6'}
+Types: {'Artifact', 'Land', 'Instant', 'Creature', 'Sorcery', 'Planeswalker', 'Enchantment'}
+Subtypes: {'Djinn', 'Illusion', 'Jellyfish', 'Cat', 'Dragon', 'Incarnation', 'Jace', 'Human', 'Slith', 'Warrior', 'Elemental', 'Beast', 'Kavu', 'Goblin', 'Shaman', 'Mountain', 'Mutant', 'Snake', 'Golem', 'Chandra', 'Wizard', 'Gnome', 'Island', 'Wall'}
+Rarity: {'Common', 'Uncommon', 'Mythic', 'Rare'}
+Power: {'5', '2', '6', '4', '3', '0', '1'}
+Toughness: {'5', '2', '6', '4', '3', '1'}
+Loyalty: {'6', '3'}
