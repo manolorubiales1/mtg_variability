@@ -15,6 +15,7 @@ from mtgsdk import Changelog
 MTG_VARIANTS_DIR = 'variants/'
 MTG_CARD_COLLECTION_DIR = 'products/'
 MTG_STATS_DIR = 'stats/'
+MTG_GLOBAL_STATS_DIR = 'global-stats/'
 CARD_HEADER = ['Name', 'CMC', 'Colors', 'Color identity', 'Supertypes',
                'Types', 'Subtypes', 'Rarity', 'Set', 'Power', 'Toughness', 'Loyalty', 'Text']
 
@@ -29,26 +30,47 @@ def extract_products():
         os.makedirs(MTG_VARIANTS_DIR)
     if not os.path.exists(MTG_STATS_DIR):
         os.makedirs(MTG_STATS_DIR)
+    if not os.path.exists(MTG_GLOBAL_STATS_DIR):
+        os.makedirs(MTG_GLOBAL_STATS_DIR)
 
     all_expansions = Set.all() # Lista de todas las expansiones
     total_expansions = len(all_expansions)
     print(f'#Expansions: {total_expansions}')
     
+    # Initialize global stats outside the loop
+    global_stats = {
+        'Total Expansions': total_expansions,
+        'Global Card Stats': {
+            'Total Cards': 0, 
+            'CMC': {}, 
+            'Colors': {}, 
+            'ColorIdentity': {}, 
+            'Supertypes': {}, 
+            'Types': {},
+            'Subtypes': {}, 
+            'Rarity': {}, 
+            'Power': {}, 
+            'Toughness': {}, 
+            'Loyalty': {},
+        }
+    }
+    
     for i, set_exp in enumerate(all_expansions): # Para todas las expansiones
 
         stats = {
-        'Expansion': set_exp.name, 'Releasing year': set_exp.release_date, 'Number of cards': 0, 'CMC': {},
-        'Colors': {}, 'ColorIdentity' : {}, 'Supertypes': {}, 'Types': {}, 'Subtypes': {}, 'Rarity': {},
-        'Power': {}, 'Toughness': {},'Loyalty': {},
-        }
-
-        global_stats = {
-        'Total Expansions': total_expansions,
-        'Global Card Stats': {
-            'Total Cards': 0, 'CMC': {}, 'Colors': {}, 'ColorIdentity': {}, 'Supertypes': {}, 'Types': {},
-            'Subtypes': {}, 'Rarity': {}, 'Power': {}, 'Toughness': {},'Loyalty': {},
-        },
-        'Expansions': []
+        'Expansion': set_exp.name, 
+        'Releasing year': set_exp.release_date, 
+        'Number of cards': 0, 
+        'CMC': {},
+        'Colors': {}, 
+        'ColorIdentity' : {}, 
+        'Supertypes': {}, 
+        'Types': {}, 
+        'Subtypes': {}, 
+        'Rarity': {},
+        'Power': {}, 
+        'Toughness': {}, 
+        'Loyalty': {},
         }
 
         name = set_exp.name
@@ -58,7 +80,6 @@ def extract_products():
         filename = MTG_CARD_COLLECTION_DIR + set_exp.code + '-' + name + '.csv'
         variants_filename = MTG_VARIANTS_DIR + set_exp.code + '-' + name + '_variants.dat'
         stats_filename = MTG_STATS_DIR + set_exp.code + '-' + name + '_stats.json'
-
         
         cards_list = extract_cards_from_expansion(set_exp.code) # Saca la lista de cartas de cada expansión (según código de la misma)
         variants = extract_variants_from_cards(cards_list, stats) # Saca las variantes según la lista de no duplicadas
@@ -85,16 +106,10 @@ def extract_products():
 
         # Update global stats
         update_global_stats(global_stats['Global Card Stats'], stats)
-        global_stats['Expansions'].append({
-            'name': set_exp.name,
-            'code': set_exp.code,
-            'release_date': set_exp.release_date,
-            'cards': stats['Number of cards']
-        })
 
-        # Write global stats JSON
-        with open(os.path.join(MTG_STATS_DIR, 'global_stats.json'), 'w', encoding='utf-8') as file:
-            json.dump(global_stats, file, indent=4, ensure_ascii=False)
+    # Write global stats JSON to a single file in the global-stats directory
+    with open(os.path.join(MTG_GLOBAL_STATS_DIR, 'global_stats.json'), 'w', encoding='utf-8') as file:
+        json.dump(global_stats, file, indent=4, ensure_ascii=False)
 
 
 def update_global_stats(global_stats, expansion_stats):
