@@ -1,4 +1,0 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Thing in the Ice // Awoken Horror,2.0,['U'],['U'],None,['Creature'],['Horror'],Rare,PR23,0,4,None,"Defender\nThing in the Ice enters the battlefield with four ice counters on it.\nWhenever you cast an instant or sorcery spell, remove an ice counter from Thing in the Ice. Then if it has no ice counters on it, transform it."
-Mystical Dispute,3.0,['U'],['U'],None,['Instant'],None,Rare,PR23,None,None,None,This spell costs {2} less to cast if it targets a blue spell.\nCounter target spell unless its controller pays {3}.
-Snapcaster Mage,2.0,['U'],['U'],None,['Creature'],"['Human', 'Wizard']",Mythic,PR23,2,1,None,"Flash\nWhen Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"

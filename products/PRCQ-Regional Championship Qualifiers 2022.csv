@@ -1,4 +1,0 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Thraben Inspector,1.0,['W'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,PRCQ,1,2,None,"When Thraben Inspector enters the battlefield, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")"
-Selfless Spirit,2.0,['W'],['W'],None,['Creature'],"['Spirit', 'Cleric']",Rare,PRCQ,2,1,None,Flying\nSacrifice Selfless Spirit: Creatures you control gain indestructible until end of turn.
-"Gideon, Ally of Zendikar",4.0,['W'],['W'],['Legendary'],['Planeswalker'],['Gideon'],Mythic,PRCQ,None,None,4,"[+1]: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.\n[0]: Create a 2/2 white Knight Ally creature token.\n[−4]: You get an emblem with ""Creatures you control get +1/+1."""

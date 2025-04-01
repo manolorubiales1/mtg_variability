@@ -1,6 +1,0 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Ludevic's Test Subject // Ludevic's Abomination,2.0,['U'],['U'],None,['Creature'],"['Lizard', 'Egg']",Rare,PISD,0,3,None,"Defender\n{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it."
-Elite Inquisitor,2.0,['W'],['W'],None,['Creature'],"['Human', 'Soldier']",Rare,PISD,2,2,None,"First strike, vigilance\nProtection from Vampires, from Werewolves, and from Zombies"
-Mayor of Avabruck // Howlpack Alpha,2.0,['G'],['G'],None,['Creature'],"['Human', 'Advisor', 'Werewolf']",Rare,PISD,1,1,None,"Other Human creatures you control get +1/+1.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck."
-Devil's Play,1.0,['R'],['R'],None,['Sorcery'],None,Rare,PISD,None,None,None,Devil's Play deals X damage to any target.\nFlashback {X}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Diregraf Ghoul,1.0,['B'],['B'],None,['Creature'],['Zombie'],Uncommon,PISD,2,2,None,Diregraf Ghoul enters the battlefield tapped.

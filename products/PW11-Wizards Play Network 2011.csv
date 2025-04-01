@@ -1,4 +1,0 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Boneyard Wurm,2.0,['G'],['G'],None,['Creature'],['Wurm'],Rare,PW11,*,*,None,Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.
-Bloodcrazed Neonate,2.0,['R'],['R'],None,['Creature'],['Vampire'],Rare,PW11,2,1,None,"Bloodcrazed Neonate attacks each combat if able.\nWhenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it."
-Curse of the Bloody Tome,3.0,['U'],['U'],None,['Enchantment'],"['Aura', 'Curse']",Rare,PW11,None,None,None,"Enchant player\nAt the beginning of enchanted player's upkeep, that player mills two cards."

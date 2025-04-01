@@ -1,7 +1,0 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Consider,1.0,['U'],['U'],None,['Instant'],None,Rare,PW22,None,None,None,Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\nDraw a card.
-Swiftfoot Boots,2.0,None,None,None,['Artifact'],['Equipment'],Rare,PW22,None,None,None,Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)\nEquip {1}
-"Atsushi, the Blazing Sky",4.0,['R'],['R'],['Legendary'],['Creature'],"['Dragon', 'Spirit']",Mythic,PW22,4,4,None,"Flying, trample\nWhen Atsushi, the Blazing Sky dies, choose one —\n• Exile the top two cards of your library. Until the end of your next turn, you may play those cards.\n• Create three Treasure tokens."
-Psychosis Crawler,5.0,None,None,None,"['Artifact', 'Creature']","['Phyrexian', 'Horror']",Rare,PW22,*,*,None,"Psychosis Crawler's power and toughness are each equal to the number of cards in your hand.\nWhenever you draw a card, each opponent loses 1 life."
-Dismember,3.0,['B'],['B'],None,['Instant'],None,Rare,PW22,None,None,None,({B/P} can be paid with either {B} or 2 life.)\nTarget creature gets -5/-5 until end of turn.
-Fateful Absence,2.0,['W'],['W'],None,['Instant'],None,Rare,PW22,None,None,None,"Destroy target creature or planeswalker. Its controller investigates. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")"

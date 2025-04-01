@@ -1,5 +1,0 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Hero of Bladehold,4.0,['W'],['W'],None,['Creature'],"['Human', 'Knight']",Mythic,PMBS,3,4,None,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)\nWhenever Hero of Bladehold attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking."
-Thopter Assembly,6.0,None,None,None,"['Artifact', 'Creature']",['Thopter'],Rare,PMBS,5,5,None,"Flying\nAt the beginning of your upkeep, if you control no Thopters other than Thopter Assembly, return Thopter Assembly to its owner's hand and create five 1/1 colorless Thopter artifact creature tokens with flying."
-"Glissa, the Traitor",3.0,"['B', 'G']","['B', 'G']",['Legendary'],['Creature'],"['Phyrexian', 'Zombie', 'Elf']",Mythic,PMBS,3,3,None,"First strike, deathtouch\nWhenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand."
-Mirran Crusader,3.0,['W'],['W'],None,['Creature'],"['Human', 'Knight']",Rare,PMBS,2,2,None,"Double strike, protection from black and from green"

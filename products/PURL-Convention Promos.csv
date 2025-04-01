@@ -1,9 +1,0 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Shepherd of the Lost,5.0,['W'],['W'],None,['Creature'],['Angel'],Uncommon,PURL,3,3,None,"Flying, first strike, vigilance"
-Bloodthrone Vampire,2.0,['B'],['B'],None,['Creature'],['Vampire'],Rare,PURL,1,1,None,Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.
-Aeronaut Tinkerer,3.0,['U'],['U'],None,['Creature'],"['Human', 'Artificer']",Common,PURL,2,3,None,Aeronaut Tinkerer has flying as long as you control an artifact. (It can't be blocked except by creatures with flying or reach.)
-Steward of Valeron,2.0,"['G', 'W']","['G', 'W']",None,['Creature'],"['Human', 'Druid', 'Knight']",Rare,PURL,2,2,None,Vigilance\n{T}: Add {G}.
-Stealer of Secrets,3.0,['U'],['U'],None,['Creature'],"['Human', 'Rogue']",Rare,PURL,2,2,None,"Whenever Stealer of Secrets deals combat damage to a player, draw a card."
-Chandra's Fury,5.0,['R'],['R'],None,['Instant'],None,Rare,PURL,None,None,None,Chandra's Fury deals 4 damage to target player or planeswalker and 1 damage to each creature that player or that planeswalker's controller controls.
-Merfolk Mesmerist,2.0,['U'],['U'],None,['Creature'],"['Merfolk', 'Wizard']",Rare,PURL,1,2,None,"{U}, {T}: Target player mills two cards."
-Kor Skyfisher,2.0,['W'],['W'],None,['Creature'],"['Kor', 'Soldier']",Rare,PURL,2,3,None,"Flying\nWhen Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand."

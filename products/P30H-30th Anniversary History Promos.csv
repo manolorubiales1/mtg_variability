@@ -1,6 +1,0 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Shivan Dragon,6.0,['R'],['R'],None,['Creature'],['Dragon'],Rare,P30H,5,5,None,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.
-Lord of Atlantis,2.0,['U'],['U'],None,['Creature'],['Merfolk'],Rare,P30H,2,2,None,Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)
-Serra Angel,5.0,['W'],['W'],None,['Creature'],['Angel'],Rare,P30H,4,4,None,"Flying, vigilance"
-Llanowar Elves,1.0,['G'],['G'],None,['Creature'],"['Elf', 'Druid']",Rare,P30H,1,1,None,{T}: Add {G}.
-Sengir Vampire,5.0,['B'],['B'],None,['Creature'],['Vampire'],Rare,P30H,4,4,None,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."

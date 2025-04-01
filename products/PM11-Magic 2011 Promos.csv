@@ -1,5 +1,0 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Birds of Paradise,1.0,['G'],['G'],None,['Creature'],['Bird'],Rare,PM11,0,1,None,Flying\n{T}: Add one mana of any color.
-Relentless Rats,3.0,['B'],['B'],None,['Creature'],['Rat'],Rare,PM11,2,2,None,Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.\nA deck can have any number of cards named Relentless Rats.
-Sun Titan,6.0,['W'],['W'],None,['Creature'],['Giant'],Mythic,PM11,6,6,None,"Vigilance\nWhenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield."
-Ancient Hellkite,7.0,['R'],['R'],None,['Creature'],['Dragon'],Rare,PM11,6,6,None,Flying\n{R}: Ancient Hellkite deals 1 damage to target creature defending player controls. Activate only if Ancient Hellkite is attacking.

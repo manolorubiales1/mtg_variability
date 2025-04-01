@@ -1,6 +1,0 @@
-Name,CMC,Colors,Color identity,Supertypes,Types,Subtypes,Rarity,Set,Power,Toughness,Loyalty,Text
-Disdainful Stroke,2.0,['U'],['U'],None,['Instant'],None,Rare,PCBB,None,None,None,Counter target spell with mana value 4 or greater.
-Lightning Strike,2.0,['R'],['R'],None,['Instant'],None,Rare,PCBB,None,None,None,Lightning Strike deals 3 damage to any target.
-Go for the Throat,2.0,['B'],['B'],None,['Instant'],None,Rare,PCBB,None,None,None,Destroy target nonartifact creature.
-Ossification,2.0,['W'],['W'],None,['Enchantment'],['Aura'],Rare,PCBB,None,None,None,"Enchant basic land you control\nWhen Ossification enters the battlefield, exile target creature or planeswalker an opponent controls until Ossification leaves the battlefield."
-Snakeskin Veil,1.0,['G'],['G'],None,['Instant'],None,Rare,PCBB,None,None,None,Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
