@@ -1,14 +1,5 @@
-from flamapy.core.discover import DiscoverMetamodels
-# from flamapy.core.models.ast import AST
+from flamapy.interfaces.python.flamapy_feature_model import FLAMAFeatureModel
+fm = FLAMAFeatureModel("./UVL/2ED-Unlimited Edition_variants.uvl")
 
-# Ruta al directorio UVL
-uvl_dir = 'C://Users//Usuario//Desktop//TFG-Project//UVL'
-
-# Leer modelo UVL
-dm = DiscoverMetamodels()
-fm = dm.use_transformation_t2m("UVL/2ED-Unlimited Edition_variants.uvl", 'fm')
-
-
-print(fm.get_mandatory_features())
-
-
+valido = fm.satisfiable()
+print(valido)  # True si el modelo tiene al menos una configuracion válida

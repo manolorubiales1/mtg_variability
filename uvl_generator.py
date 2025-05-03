@@ -4,7 +4,7 @@ import re
 # Carpetas de entrada y salida
 variant_dir = r"C:\Users\Usuario\Desktop\TFG-Project\variants"
 output_dir = r"C:\Users\Usuario\Desktop\TFG-Project\UVL"
-constraint_file = r"C:\Users\Usuario\Desktop\TFG-Project\mtg_fm_restrictions_v4.txt"
+constraint_file = r"C:\Users\Usuario\Desktop\TFG-Project\mtg_fm_restrictions_v5.txt"
 
 def parse_variants(path):
     with open(path, "r", encoding="utf-8") as f:
