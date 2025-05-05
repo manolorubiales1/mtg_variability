@@ -4,7 +4,7 @@ import re
 # Carpetas de entrada y salida
 variant_dir = r"C:\Users\Usuario\Desktop\TFG-Project\variants"
 output_dir = r"C:\Users\Usuario\Desktop\TFG-Project\UVL"
-constraint_file = r"C:\Users\Usuario\Desktop\TFG-Project\mtg_fm_restrictions_v6.txt"
+constraint_file = r"C:\Users\Usuario\Desktop\TFG-Project\mtg_fm_restrictions_v7.txt"
 
 # Leer restricciones externas
 def parse_constraints(path):
@@ -50,10 +50,10 @@ def translate_constraint(line):
 # Generar UVL correcto
 def generate_uvl(categories, constraints, root_name):
     single_valued = {'CMC', 'Rarity', 'Power', 'Toughness', 'Loyalty'}
+    mandatory = {'CMC', 'Types', 'Rarity'}
 
     uvl = "features\n"
     uvl += f"    MTG_{sanitize_feature_name(root_name)}\n"
-    uvl += "        optional\n"
 
     # Añadir automáticamente CMC_0 si hay tierras
     if 'Types' in categories and 'Land' in categories['Types']:
@@ -62,19 +62,103 @@ def generate_uvl(categories, constraints, root_name):
         if '0' not in categories['CMC']:
             categories['CMC'].append('0')
 
-    for cat, values in categories.items():
-        if values:
+    # Bloques obligatorios
+    mand_blocks = ""
+    for cat in mandatory:
+        if cat in categories and categories[cat]:
             group_type = "alternative" if cat in single_valued else "or"
-            block = generate_feature_block(cat, values, group_type)
+            block = generate_feature_block(cat, categories[cat], group_type)
+            mand_blocks += indent_block(block, level=3)
+    if mand_blocks:
+        uvl += "        mandatory\n" + mand_blocks
+
+    # Bloques opcionales
+    optional_cats = [cat for cat in categories if cat not in mandatory and categories[cat]]
+    if optional_cats:
+        uvl += "        optional\n"
+        for cat in optional_cats:
+            group_type = "alternative" if cat in single_valued else "or"
+            block = generate_feature_block(cat, categories[cat], group_type)
             uvl += indent_block(block, level=3)
 
-    # Agregar restricciones comunes sin eliminar ninguna
+    # Agregar restricciones comunes
     if constraints:
         uvl += "\nconstraints\n"
         for c in constraints:
             uvl += f"    {translate_constraint(c)}\n"
 
     return uvl
+import re
+
+def extract_declared_features(uvl_text):
+    declared = set()
+
+    # Features: lines like 'Subtypes_Angel', 'Types_Creature'
+    for match in re.finditer(r'^\s+(?:mandatory|optional)?\s*(\w+_\w+)', uvl_text, re.MULTILINE):
+        declared.add(match.group(1))
+
+    # Attributes: lines like 'Power : int [...]'
+    for match in re.finditer(r'^\s*(\w+)\s*:\s*', uvl_text, re.MULTILINE):
+        declared.add(match.group(1))
+
+    return declared
+
+def clean_constraint_line(line, declared):
+    # Replace features not declared with placeholder to remove them
+    tokens = re.split(r'(\W+)', line)  # keep operators
+    cleaned = []
+    for token in tokens:
+        token_stripped = token.strip()
+        if token_stripped == '':
+            cleaned.append(token)
+        elif re.match(r'^[A-Za-z_][A-Za-z0-9_]*$', token_stripped):
+            if token_stripped not in declared:
+                continue  # skip undeclared
+            else:
+                cleaned.append(token)
+        else:
+            cleaned.append(token)
+
+    cleaned_line = ''.join(cleaned).strip()
+
+    # Remove invalid expressions like empty parenthesis or implication without LHS or RHS
+    if not cleaned_line or re.match(r'^[()|&! ]*$', cleaned_line):
+        return None
+
+    return cleaned_line
+
+def clean_uvl_constraints(uvl_path):
+    with open(uvl_path, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    in_constraints = False
+    feature_lines = []
+    constraint_lines = []
+    for line in lines:
+        if line.strip() == "constraints":
+            in_constraints = True
+            constraint_lines.append(line)
+        elif in_constraints:
+            constraint_lines.append(line)
+        else:
+            feature_lines.append(line)
+
+    uvl_text = ''.join(lines)
+    declared_features = extract_declared_features(uvl_text)
+
+    cleaned_constraints = []
+    for line in constraint_lines[1:]:
+        cleaned = clean_constraint_line(line.strip(), declared_features)
+        if cleaned:
+            cleaned_constraints.append(f"    {cleaned}\n")
+
+    with open(uvl_path, "w", encoding="utf-8") as f:
+        f.writelines(feature_lines)
+        if cleaned_constraints:
+            f.write("constraints\n")
+            f.writelines(cleaned_constraints)
+
+    print(f"Restricciones limpiadas en: {uvl_path}")
 
 # Función principal
 def main():
@@ -98,6 +182,7 @@ def main():
                 f.write(uvl_text)
 
             print(f"({idx}/{total}) UVL generado correctamente: {base_name}.uvl")
+            
         except Exception as e:
             print(f"({idx}/{total}) Error en {filename}: {e}")
 
