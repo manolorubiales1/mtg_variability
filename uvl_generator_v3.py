@@ -127,39 +127,6 @@ def clean_constraint_line(line, declared):
 
     return cleaned_line
 
-def clean_uvl_constraints(uvl_path):
-    with open(uvl_path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-
-    in_constraints = False
-    feature_lines = []
-    constraint_lines = []
-    for line in lines:
-        if line.strip() == "constraints":
-            in_constraints = True
-            constraint_lines.append(line)
-        elif in_constraints:
-            constraint_lines.append(line)
-        else:
-            feature_lines.append(line)
-
-    uvl_text = ''.join(lines)
-    declared_features = extract_declared_features(uvl_text)
-
-    cleaned_constraints = []
-    for line in constraint_lines[1:]:
-        cleaned = clean_constraint_line(line.strip(), declared_features)
-        if cleaned:
-            cleaned_constraints.append(f"    {cleaned}\n")
-
-    with open(uvl_path, "w", encoding="utf-8") as f:
-        f.writelines(feature_lines)
-        if cleaned_constraints:
-            f.write("constraints\n")
-            f.writelines(cleaned_constraints)
-
-    print(f"Restricciones limpiadas en: {uvl_path}")
-
 # Función principal
 def main():
     files = [f for f in os.listdir(variant_dir) if f.endswith(".dat")]
